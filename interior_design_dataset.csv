@@ -1,0 +1,1451 @@
+project_id,client_age,client_gender,project_budget,project_duration,num_rooms,design_style,location,client_satisfaction,designer_experience,num_designers,material_quality,furniture_cost,lighting_cost,decor_cost,renovation_cost,project_completion_time,num_meetings,client_feedback,material_availability,designer_rating,project_rating,design_approval_time,issues_encountered,total_cost
+1,63.0,Male,64042.0,16,7,Eclectic,Urban,9.0,3.0,1,High,15178,8964,1277,3364,22,1,Negative,Not available,3,5,2,No,197451.0
+2,53.0,Female,23099.0,23,8,Contemporary,Rural,1.0,10.0,1,Medium,11629,7469,3761,17568,12,15,Positive,Not available,3,5,1,Yes,14347.0
+3,39.0,Other,50096.0,10,4,Minimalist,Urban,2.0,19.0,1,Low,19395,1650,2117,39092,8,12,Positive,Not available,2,3,5,Yes,
+4,32.0,Male,76986.0,18,3,Contemporary,Suburban,3.0,8.0,2,High,15751,7954,3984,6483,10,7,Positive,Available,5,1,5,No,195087.0
+5,45.0,Male,,6,5,Traditional,Rural,4.0,7.0,3,Low,1425,5707,4358,1245,16,7,Positive,Scarce,1,3,2,Yes,94129.0
+6,,Male,34009.0,19,9,Traditional,Rural,10.0,1.0,3,Medium,4044,518,6868,9430,20,11,Positive,Scarce,1,1,4,No,186253.0
+7,43.0,Other,75969.0,4,6,Contemporary,Rural,9.0,12.0,4,Low,12480,3678,2934,9183,8,11,Positive,Not available,3,1,4,Yes,154832.0
+8,47.0,Female,38866.0,13,9,Traditional,Rural,,5.0,4,Low,12106,6077,5201,39692,9,17,Negative,Available,1,4,1,No,97103.0
+9,35.0,Male,,14,6,Traditional,Urban,6.0,16.0,2,Medium,7229,4581,5929,31086,13,3,Positive,Scarce,2,3,3,Yes,82599.0
+10,35.0,Other,81975.0,3,2,Minimalist,Suburban,1.0,4.0,3,Low,2239,6954,5115,33726,20,16,Positive,Scarce,4,2,2,Yes,135774.0
+11,,Female,46855.0,10,5,Eclectic,Rural,9.0,17.0,1,High,7566,9103,3966,14901,17,5,Negative,Not available,3,5,2,Yes,139212.0
+12,60.0,Other,86557.0,6,9,Minimalist,Rural,6.0,2.0,1,Low,5213,9433,7894,4907,19,2,Negative,Not available,4,4,5,No,79266.0
+13,64.0,Female,11416.0,1,8,Modern,Suburban,,12.0,4,High,4006,3171,1248,34044,17,7,Neutral,Not available,1,2,5,Yes,
+14,48.0,Other,77516.0,23,7,Minimalist,Urban,4.0,1.0,3,Low,8025,6887,7098,29604,7,10,Negative,Scarce,5,3,2,No,129737.0
+15,27.0,Female,60915.0,14,1,Contemporary,Rural,3.0,12.0,4,Low,7558,7333,773,38869,1,5,Negative,Not available,2,1,3,No,
+16,46.0,Male,23058.0,8,4,Eclectic,Urban,7.0,12.0,4,Medium,2184,3124,867,15537,20,15,Positive,Not available,1,3,4,Yes,34114.0
+17,,Female,81637.0,19,7,Contemporary,Urban,3.0,12.0,1,Medium,19968,5999,3732,13501,14,12,Neutral,Not available,2,3,1,No,192287.0
+18,48.0,Other,45718.0,14,7,Modern,Urban,2.0,19.0,1,High,15430,1014,4323,38371,17,10,Positive,Available,1,4,4,No,23580.0
+19,54.0,Other,37602.0,10,6,Eclectic,Urban,10.0,17.0,3,Medium,9102,706,2558,47154,13,17,Neutral,Not available,1,2,1,Yes,14802.0
+20,62.0,Female,79658.0,17,8,Traditional,Rural,8.0,11.0,4,Medium,14869,1447,7646,37821,2,11,Positive,Scarce,1,4,3,No,92857.0
+21,26.0,Male,83112.0,9,6,Minimalist,Rural,4.0,13.0,2,Medium,8116,2328,5477,24196,14,8,Negative,Not available,3,2,2,No,106467.0
+22,45.0,Male,63067.0,6,3,Contemporary,Urban,8.0,8.0,3,Medium,13937,7361,3444,7073,1,15,Negative,Scarce,4,4,3,Yes,107767.0
+23,57.0,Female,32516.0,11,4,Modern,Urban,1.0,10.0,4,Medium,5383,6594,4610,11561,5,2,Neutral,Available,5,5,2,Yes,140747.0
+24,36.0,Female,92969.0,7,3,Traditional,Suburban,5.0,8.0,3,High,19083,6845,5295,19101,7,17,Positive,Available,4,1,5,Yes,150130.0
+25,46.0,Other,6089.0,17,1,Minimalist,Suburban,9.0,8.0,3,High,5507,2667,6197,46516,19,6,Positive,Not available,4,1,1,Yes,185073.0
+26,49.0,Male,,1,5,Traditional,Suburban,1.0,9.0,3,Medium,15735,8479,2282,32426,14,13,Negative,Scarce,2,1,5,No,173591.0
+27,51.0,Female,79663.0,22,1,Minimalist,Rural,4.0,7.0,2,Medium,17519,6426,1396,30341,14,8,Negative,Not available,3,5,2,No,151517.0
+28,52.0,Male,15487.0,5,1,Eclectic,Suburban,6.0,14.0,2,High,3025,7032,6910,8313,15,11,Neutral,Not available,3,5,1,No,94450.0
+29,40.0,Female,5155.0,9,2,Traditional,Rural,10.0,2.0,1,Low,5854,6156,5690,31773,5,15,Negative,Scarce,1,1,1,Yes,111039.0
+30,39.0,Female,72494.0,18,4,Traditional,Rural,8.0,11.0,1,High,6367,6443,3870,29003,5,13,Neutral,Scarce,4,1,5,No,33695.0
+31,27.0,Male,81229.0,21,6,Traditional,Rural,3.0,8.0,4,Low,3890,9293,6797,27420,21,18,Neutral,Scarce,5,2,1,Yes,100970.0
+32,61.0,Female,43547.0,2,8,Eclectic,Rural,,13.0,3,Medium,4773,5939,5653,6714,2,18,Neutral,Scarce,2,2,2,No,187299.0
+33,31.0,Female,33795.0,11,3,Modern,Suburban,7.0,15.0,4,Medium,16819,9403,3690,28139,18,17,Neutral,Scarce,3,3,2,Yes,35185.0
+34,45.0,Other,60296.0,6,1,Minimalist,Urban,,3.0,1,High,2528,1703,7486,27098,9,13,Negative,Available,1,4,5,No,94692.0
+35,33.0,Female,26447.0,8,3,Traditional,Urban,,,2,Medium,12820,7500,2972,43294,10,3,Neutral,Available,5,2,3,No,50908.0
+36,63.0,Female,41598.0,4,3,Eclectic,Urban,8.0,15.0,1,Low,6049,7139,3946,14582,18,7,Negative,Available,4,2,2,Yes,179703.0
+37,42.0,Female,46814.0,18,5,Modern,Suburban,8.0,2.0,4,Low,1848,8189,2719,44583,4,12,Neutral,Scarce,5,2,2,No,184065.0
+38,28.0,Other,95751.0,11,4,Minimalist,Urban,9.0,19.0,1,High,11119,8013,4579,14760,8,4,Negative,Scarce,3,2,1,No,
+39,49.0,Male,,5,4,Eclectic,Suburban,6.0,12.0,4,Low,11357,7126,3648,7255,18,11,Neutral,Scarce,2,5,1,No,
+40,38.0,Other,92960.0,15,9,Minimalist,Suburban,6.0,4.0,4,High,17167,7886,973,17622,20,14,Negative,Not available,4,3,2,No,100886.0
+41,33.0,Other,68278.0,18,7,Traditional,Suburban,2.0,3.0,4,High,13478,3631,3102,36983,17,18,Positive,Available,2,2,5,Yes,159850.0
+42,50.0,Male,60077.0,2,4,Modern,Urban,3.0,,4,Low,3121,7634,7612,41309,16,7,Neutral,Available,5,4,3,No,159469.0
+43,26.0,Other,76906.0,22,3,Eclectic,Urban,4.0,3.0,1,Low,13910,4230,6077,30715,18,5,Neutral,Not available,5,2,1,Yes,148409.0
+44,44.0,Male,14528.0,11,6,Modern,Urban,4.0,15.0,4,Low,5681,3166,7548,37415,7,16,Positive,Not available,1,5,1,Yes,11011.0
+45,52.0,Other,98812.0,13,3,Traditional,Rural,8.0,,4,Low,15755,1049,2669,22792,1,11,Positive,Available,4,1,3,Yes,122124.0
+46,31.0,Male,55100.0,4,6,Modern,Suburban,1.0,2.0,3,Low,1472,5241,4830,43576,1,3,Neutral,Scarce,5,1,1,No,175927.0
+47,32.0,Female,13179.0,22,9,Modern,Rural,10.0,12.0,4,Low,19171,1744,1366,23724,18,16,Negative,Available,3,3,5,Yes,80532.0
+48,59.0,Other,53781.0,7,6,Contemporary,Suburban,4.0,5.0,1,Low,1113,4512,5732,4652,4,11,Neutral,Scarce,3,1,1,Yes,51845.0
+49,38.0,Other,60267.0,11,4,Modern,Urban,4.0,17.0,4,Medium,14690,9537,6736,27297,23,10,Negative,Available,2,2,1,Yes,156118.0
+50,41.0,Other,,22,5,Minimalist,Suburban,1.0,14.0,2,High,7473,6696,987,33422,20,2,Positive,Available,3,5,2,No,
+51,,Other,28952.0,4,6,Eclectic,Suburban,,10.0,2,High,9530,5045,5283,15028,21,16,Negative,Not available,5,3,5,No,11618.0
+52,64.0,Female,58798.0,15,3,Contemporary,Rural,5.0,3.0,4,Low,19669,6705,368,14803,20,17,Neutral,Not available,3,2,5,Yes,77435.0
+53,28.0,Other,55939.0,1,8,Eclectic,Suburban,6.0,4.0,2,High,2196,7690,2403,7307,4,10,Positive,Scarce,4,1,2,Yes,167394.0
+54,26.0,Female,34516.0,23,4,Eclectic,Urban,9.0,6.0,2,Low,17462,8735,7074,32325,6,18,Positive,Scarce,2,4,4,No,169869.0
+55,30.0,Female,61526.0,3,8,Traditional,Suburban,9.0,16.0,1,Medium,7017,1158,7671,32574,3,12,Neutral,Available,4,2,3,Yes,
+56,28.0,Female,15449.0,14,3,Traditional,Suburban,9.0,7.0,3,High,3652,7495,719,20262,6,8,Neutral,Not available,5,4,5,No,169251.0
+57,53.0,Female,55290.0,6,7,Contemporary,Suburban,1.0,15.0,2,High,11832,6276,4298,2535,13,3,Positive,Scarce,5,4,4,Yes,123158.0
+58,42.0,Male,91661.0,18,9,Traditional,Rural,9.0,11.0,2,Medium,6385,5793,7010,15932,23,3,Negative,Scarce,3,3,3,No,170145.0
+59,50.0,Male,,1,4,Traditional,Suburban,8.0,,3,Medium,15708,2191,2897,16749,7,6,Negative,Scarce,1,5,5,No,83014.0
+60,58.0,Other,27746.0,6,8,Traditional,Suburban,2.0,5.0,3,Medium,18211,8235,4638,9727,4,2,Negative,Available,1,1,1,No,
+61,,Male,72990.0,6,3,Eclectic,Rural,1.0,13.0,2,High,15571,3630,7668,18332,1,3,Neutral,Scarce,5,1,5,Yes,116550.0
+62,60.0,Male,63810.0,21,7,Contemporary,Rural,1.0,,4,High,12002,7544,7191,30534,6,17,Positive,Scarce,5,2,3,Yes,96965.0
+63,38.0,Other,88297.0,16,3,Eclectic,Rural,,9.0,2,Medium,4385,5033,5893,11834,5,9,Negative,Not available,2,1,4,No,173435.0
+64,55.0,Other,20223.0,5,7,Minimalist,Rural,9.0,17.0,4,Medium,2965,6047,6970,21325,13,4,Positive,Not available,5,3,1,No,120503.0
+65,39.0,Other,77237.0,17,6,Eclectic,Urban,7.0,15.0,4,Medium,3427,1467,6075,10213,19,2,Negative,Not available,5,1,3,Yes,147769.0
+66,,Male,7597.0,10,2,Minimalist,Urban,5.0,7.0,4,Medium,3841,1904,2424,49205,4,9,Positive,Available,2,2,3,No,151494.0
+67,38.0,Male,70677.0,21,3,Modern,Suburban,2.0,,3,Medium,7563,9177,6404,2403,6,14,Neutral,Not available,4,1,5,Yes,43380.0
+68,,Other,7659.0,18,6,Modern,Urban,1.0,6.0,2,Low,15387,4130,5897,8506,13,11,Neutral,Not available,4,5,2,No,100877.0
+69,64.0,Female,,7,4,Minimalist,Suburban,2.0,16.0,2,Medium,6840,3468,4192,30659,5,2,Neutral,Not available,2,4,2,No,
+70,45.0,Other,79567.0,3,6,Minimalist,Urban,1.0,5.0,1,Low,16154,7769,739,8591,13,2,Negative,Not available,2,4,1,Yes,26259.0
+71,40.0,Female,20037.0,13,1,Eclectic,Rural,3.0,9.0,3,High,15093,2079,1586,13996,10,5,Neutral,Scarce,4,4,3,Yes,77622.0
+72,42.0,Female,51738.0,15,1,Minimalist,Rural,6.0,,1,High,5352,6492,1508,38828,3,7,Neutral,Available,4,5,4,No,137221.0
+73,48.0,Other,76678.0,20,3,Contemporary,Urban,8.0,8.0,1,Low,1184,550,1378,48830,23,4,Neutral,Scarce,4,3,1,Yes,27792.0
+74,50.0,Other,17109.0,19,8,Modern,Urban,3.0,14.0,4,Medium,11384,6952,5727,35370,13,14,Positive,Scarce,4,2,1,No,152462.0
+75,49.0,Other,27010.0,3,8,Modern,Suburban,10.0,12.0,3,High,15319,5653,2863,14472,12,2,Positive,Available,3,5,5,Yes,170276.0
+76,53.0,Male,13787.0,4,4,Minimalist,Suburban,9.0,10.0,1,Medium,9437,6523,7766,30098,4,12,Positive,Scarce,2,2,4,No,172090.0
+77,39.0,Female,13472.0,5,6,Traditional,Suburban,10.0,13.0,2,Medium,11426,4800,3923,3196,10,10,Positive,Not available,1,3,3,Yes,98651.0
+78,,Male,28383.0,1,8,Traditional,Rural,5.0,19.0,1,Low,8504,3287,1553,12091,3,1,Positive,Available,3,5,3,Yes,94583.0
+79,49.0,Male,66709.0,4,7,Minimalist,Rural,7.0,15.0,3,High,19471,2655,7844,16040,17,19,Positive,Scarce,1,1,3,No,87614.0
+80,,Other,74785.0,12,7,Contemporary,Rural,8.0,8.0,2,High,1600,7519,3657,49784,9,16,Positive,Scarce,1,3,1,No,157543.0
+81,33.0,Male,39518.0,10,4,Traditional,Rural,3.0,10.0,2,Low,8804,5860,3509,7023,1,15,Neutral,Not available,5,4,5,No,19263.0
+82,48.0,Other,58909.0,23,9,Minimalist,Suburban,2.0,3.0,2,Medium,14249,4730,3849,21543,18,14,Neutral,Scarce,2,5,1,No,65309.0
+83,25.0,Female,23351.0,21,6,Contemporary,Rural,2.0,3.0,4,Medium,6537,8107,914,29377,9,9,Negative,Scarce,3,3,2,No,
+84,32.0,Other,74624.0,20,3,Contemporary,Rural,5.0,5.0,2,High,19440,9098,3378,37635,21,15,Neutral,Scarce,2,3,2,No,75379.0
+85,48.0,Male,58330.0,13,5,Eclectic,Rural,1.0,16.0,4,Low,15685,4697,3023,43337,20,7,Positive,Available,4,5,3,Yes,82969.0
+86,35.0,Male,,23,5,Contemporary,Rural,2.0,17.0,4,Low,9724,5912,3790,41409,9,4,Positive,Available,2,4,5,No,
+87,41.0,Other,89866.0,14,5,Traditional,Urban,9.0,6.0,1,Medium,6084,4999,3843,6004,2,18,Negative,Scarce,1,4,3,No,147631.0
+88,32.0,Other,26778.0,23,8,Traditional,Suburban,7.0,16.0,1,Medium,3042,5409,4815,10963,19,8,Neutral,Scarce,4,3,3,No,68728.0
+89,59.0,Male,29264.0,5,9,Minimalist,Suburban,6.0,2.0,2,Low,17741,7669,2200,14796,16,12,Neutral,Not available,2,2,1,No,9952.0
+90,59.0,Female,64675.0,4,9,Minimalist,Rural,9.0,15.0,3,High,17761,3762,4671,41972,3,15,Negative,Available,2,3,3,Yes,66726.0
+91,57.0,Female,10075.0,14,6,Contemporary,Urban,7.0,18.0,2,Medium,14336,9718,5980,8077,16,15,Positive,Available,1,5,3,No,
+92,29.0,Other,80948.0,10,6,Modern,Suburban,5.0,1.0,1,Low,14414,3489,7051,30848,21,17,Positive,Available,4,5,5,No,45610.0
+93,63.0,Female,53454.0,17,9,Eclectic,Suburban,9.0,19.0,2,Low,5797,8154,7014,13526,13,2,Positive,Scarce,1,5,5,Yes,91467.0
+94,52.0,Male,33365.0,10,4,Modern,Rural,6.0,12.0,1,Low,4307,2724,6162,4261,3,12,Positive,Not available,2,4,5,Yes,138225.0
+95,31.0,Other,77766.0,7,6,Contemporary,Rural,6.0,8.0,2,High,14721,5876,2012,18046,10,3,Negative,Not available,3,1,3,No,
+96,33.0,Male,53200.0,16,4,Contemporary,Suburban,,6.0,3,Medium,3596,3420,6533,14397,22,7,Neutral,Scarce,3,5,5,Yes,144091.0
+97,32.0,Male,,1,1,Modern,Suburban,1.0,12.0,2,Medium,18167,8201,2629,26269,18,6,Positive,Scarce,5,5,5,No,111827.0
+98,36.0,Female,18947.0,17,7,Eclectic,Urban,5.0,7.0,3,Medium,19763,7041,3919,37158,6,14,Neutral,Not available,3,2,4,Yes,102167.0
+99,58.0,Other,84222.0,21,6,Modern,Suburban,9.0,18.0,3,High,12795,6115,1494,26757,6,5,Neutral,Not available,4,2,4,Yes,133890.0
+100,57.0,Other,99840.0,9,9,Minimalist,Suburban,8.0,14.0,2,Medium,15984,4815,7081,16299,18,4,Positive,Available,5,3,2,Yes,42929.0
+101,47.0,Female,83610.0,6,7,Traditional,Rural,8.0,,3,Medium,13134,6600,5206,2902,6,15,Positive,Scarce,4,3,1,Yes,
+102,48.0,Male,,19,7,Minimalist,Suburban,5.0,14.0,3,Medium,11782,3283,1678,43399,6,7,Positive,Available,3,3,1,Yes,39620.0
+103,61.0,Male,61307.0,13,2,Traditional,Rural,,5.0,1,Medium,10234,3308,7671,49330,22,3,Neutral,Not available,3,5,5,No,123818.0
+104,59.0,Male,9493.0,3,9,Contemporary,Suburban,3.0,9.0,1,High,19922,3831,1612,47308,13,13,Negative,Available,2,2,2,No,130803.0
+105,64.0,Male,55085.0,7,9,Eclectic,Suburban,,8.0,3,Low,15618,2678,3215,4846,14,10,Positive,Not available,4,3,2,Yes,184546.0
+106,46.0,Other,39228.0,22,6,Modern,Suburban,1.0,2.0,4,Low,18245,1297,6905,13359,21,2,Neutral,Not available,1,2,4,Yes,15623.0
+107,51.0,Other,84676.0,9,3,Eclectic,Urban,9.0,,2,Medium,19260,3346,1049,3520,7,12,Neutral,Available,2,5,2,Yes,90504.0
+108,59.0,Female,56875.0,22,1,Modern,Rural,6.0,13.0,3,Medium,11027,1429,5592,41832,13,12,Positive,Scarce,4,5,3,No,8809.0
+109,,Female,36655.0,5,4,Minimalist,Urban,2.0,7.0,2,Medium,14986,5318,600,21098,15,19,Negative,Available,5,3,5,No,128690.0
+110,,Other,48472.0,10,3,Minimalist,Suburban,,16.0,1,High,13400,3591,4995,40451,12,19,Positive,Available,4,5,3,No,97907.0
+111,61.0,Other,,23,1,Modern,Urban,9.0,7.0,2,Medium,4526,2762,4282,24136,21,3,Positive,Scarce,5,5,1,Yes,187118.0
+112,38.0,Male,54416.0,17,3,Eclectic,Rural,9.0,14.0,3,High,12593,9966,4924,36885,1,6,Negative,Scarce,5,2,4,No,114502.0
+113,27.0,Male,64711.0,12,4,Modern,Suburban,2.0,14.0,3,Medium,2622,8049,6583,31720,3,2,Positive,Available,3,1,3,Yes,67496.0
+114,25.0,Female,11816.0,23,8,Contemporary,Urban,2.0,12.0,3,Medium,6518,3980,4137,22157,18,13,Positive,Not available,1,4,5,Yes,167811.0
+115,29.0,Other,82175.0,16,9,Minimalist,Urban,7.0,1.0,3,Low,3657,3842,577,49372,22,9,Negative,Available,4,3,3,Yes,189524.0
+116,50.0,Female,69307.0,3,3,Contemporary,Rural,,1.0,4,Medium,19316,6553,5058,20674,8,13,Neutral,Not available,1,1,3,Yes,143049.0
+117,38.0,Other,51733.0,22,6,Minimalist,Urban,1.0,12.0,4,High,9699,8074,2858,33357,2,14,Neutral,Scarce,5,3,2,No,170910.0
+118,63.0,Male,16240.0,9,5,Minimalist,Rural,8.0,15.0,4,Low,14955,8359,5765,13578,4,19,Neutral,Scarce,3,1,4,No,
+119,51.0,Female,97493.0,15,6,Traditional,Suburban,2.0,4.0,3,High,3656,9909,4217,3251,18,11,Neutral,Not available,1,5,1,Yes,189492.0
+120,33.0,Female,,5,4,Contemporary,Suburban,3.0,7.0,4,Low,17673,4674,7607,14513,13,14,Neutral,Available,2,3,5,Yes,34431.0
+121,,Other,37762.0,23,6,Contemporary,Urban,5.0,16.0,2,High,6858,7647,2461,38429,15,16,Positive,Scarce,5,1,5,Yes,54565.0
+122,39.0,Male,13259.0,13,7,Traditional,Suburban,3.0,3.0,3,Low,11401,5270,4975,28105,2,10,Negative,Not available,2,4,1,Yes,193065.0
+123,50.0,Female,,14,9,Eclectic,Suburban,7.0,,1,High,9758,6333,5926,47871,10,16,Neutral,Not available,1,5,5,Yes,194107.0
+124,37.0,Male,19849.0,20,7,Contemporary,Urban,7.0,6.0,3,High,2473,8705,1689,21990,2,2,Negative,Available,1,3,2,Yes,52312.0
+125,,Female,,15,6,Modern,Suburban,2.0,16.0,2,Medium,14281,7502,990,26499,21,16,Neutral,Not available,1,3,3,No,
+126,63.0,Male,94709.0,16,1,Traditional,Urban,7.0,8.0,4,Low,16964,2793,5032,7421,12,14,Positive,Not available,4,1,2,No,
+127,56.0,Other,59869.0,23,2,Contemporary,Rural,6.0,6.0,3,Low,19371,2545,3768,25591,5,18,Neutral,Available,5,3,2,No,156765.0
+128,28.0,Female,68095.0,13,1,Eclectic,Rural,10.0,,4,Medium,13057,1537,2148,27979,12,6,Neutral,Scarce,5,5,2,Yes,174631.0
+129,54.0,Female,75910.0,17,9,Contemporary,Rural,9.0,16.0,3,High,8673,6742,6441,21835,23,7,Negative,Scarce,5,2,1,No,87839.0
+130,61.0,Male,,23,9,Minimalist,Urban,9.0,11.0,2,High,15281,8948,5218,38693,1,13,Negative,Scarce,4,1,4,No,55058.0
+131,47.0,Male,28567.0,8,7,Modern,Urban,2.0,13.0,3,Low,4251,6662,6269,13202,2,2,Positive,Not available,1,4,1,No,147930.0
+132,,Female,40292.0,21,2,Traditional,Suburban,7.0,6.0,4,High,6054,4573,5270,36414,16,15,Negative,Not available,1,3,1,No,48324.0
+133,39.0,Other,79813.0,2,6,Minimalist,Suburban,5.0,1.0,4,Low,2716,1783,4116,26666,22,17,Negative,Available,2,5,2,No,186016.0
+134,53.0,Male,56631.0,5,4,Eclectic,Suburban,6.0,,2,Low,10204,7232,1239,20290,2,13,Negative,Not available,4,3,4,Yes,95687.0
+135,60.0,Male,,6,1,Minimalist,Suburban,1.0,12.0,3,High,15106,6445,6078,19130,16,7,Positive,Not available,3,4,1,Yes,180259.0
+136,37.0,Male,64659.0,12,1,Minimalist,Suburban,7.0,,1,High,2310,3987,5337,38077,20,1,Positive,Scarce,4,5,4,Yes,33147.0
+137,56.0,Female,59306.0,18,5,Eclectic,Urban,6.0,18.0,3,High,18001,2684,3482,20396,16,3,Positive,Not available,2,4,2,No,82914.0
+138,31.0,Female,71314.0,22,2,Minimalist,Urban,4.0,13.0,2,Medium,16882,9050,6294,18952,6,18,Negative,Not available,2,5,1,Yes,127879.0
+139,46.0,Female,70087.0,22,4,Traditional,Rural,1.0,7.0,1,Low,5257,3687,6801,28122,13,7,Negative,Not available,2,2,4,No,83593.0
+140,52.0,Female,34165.0,1,1,Contemporary,Rural,9.0,13.0,2,High,16846,9917,3609,30381,12,17,Positive,Available,1,5,5,Yes,137432.0
+141,26.0,Other,63929.0,17,4,Minimalist,Rural,4.0,,3,Medium,11420,5995,2350,46435,23,12,Negative,Not available,3,4,1,No,7048.0
+142,30.0,Other,72028.0,11,6,Traditional,Rural,2.0,17.0,1,High,14012,2797,2046,41078,10,16,Negative,Available,2,1,1,No,
+143,,Female,,10,4,Contemporary,Urban,8.0,9.0,2,Low,1468,7597,2751,24267,5,10,Neutral,Scarce,5,2,1,Yes,48935.0
+144,52.0,Other,55500.0,19,1,Contemporary,Urban,2.0,13.0,4,Medium,6905,8969,324,48735,8,16,Positive,Not available,1,3,4,Yes,
+145,44.0,Male,84151.0,14,7,Minimalist,Urban,5.0,2.0,1,Low,13308,4044,6262,43007,6,18,Positive,Available,3,2,3,No,122884.0
+146,54.0,Male,63643.0,10,2,Traditional,Suburban,6.0,4.0,1,High,16634,7331,2856,8088,5,15,Negative,Scarce,5,2,1,No,96199.0
+147,35.0,Male,49900.0,15,9,Minimalist,Suburban,8.0,2.0,2,High,15801,891,7139,32818,20,11,Negative,Not available,3,3,5,Yes,169045.0
+148,52.0,Female,47946.0,19,3,Eclectic,Rural,1.0,4.0,4,High,18523,1468,7932,13822,22,18,Neutral,Available,3,5,5,Yes,114982.0
+149,,Male,12851.0,4,8,Contemporary,Suburban,1.0,18.0,1,Medium,10628,5651,360,37589,6,6,Positive,Available,5,2,2,No,151257.0
+150,63.0,Other,21288.0,2,8,Minimalist,Urban,4.0,,2,Medium,9728,4864,7975,2436,22,1,Positive,Scarce,4,2,3,Yes,155771.0
+151,57.0,Female,77692.0,9,3,Contemporary,Rural,5.0,,1,Medium,18335,3807,422,46665,17,7,Negative,Not available,3,1,3,Yes,
+152,25.0,Other,72580.0,10,4,Traditional,Rural,9.0,10.0,1,Medium,12005,6625,5916,28281,6,12,Positive,Not available,4,1,4,Yes,177654.0
+153,51.0,Male,12368.0,11,2,Modern,Suburban,7.0,18.0,1,High,8890,4870,2402,23481,17,4,Negative,Not available,3,4,2,Yes,23061.0
+154,37.0,Male,90436.0,14,4,Minimalist,Rural,7.0,10.0,4,High,8077,5338,1486,31469,5,10,Neutral,Available,5,3,4,No,82015.0
+155,27.0,Male,51403.0,7,9,Minimalist,Suburban,8.0,5.0,3,High,2971,8777,7417,19867,23,2,Negative,Not available,3,5,2,No,
+156,63.0,Female,96170.0,23,2,Contemporary,Suburban,5.0,17.0,3,Medium,14568,3634,6118,41487,17,9,Neutral,Available,2,5,3,No,122700.0
+157,30.0,Other,14168.0,15,3,Traditional,Rural,5.0,13.0,4,Medium,2191,1554,5458,23766,17,10,Negative,Available,2,4,4,Yes,180669.0
+158,32.0,Female,91497.0,22,4,Eclectic,Suburban,1.0,,4,High,13820,4229,5502,30737,13,11,Neutral,Scarce,3,5,2,No,146964.0
+159,51.0,Female,,19,5,Traditional,Suburban,9.0,9.0,2,High,8765,3169,2030,22213,22,14,Neutral,Available,5,5,3,No,28931.0
+160,33.0,Male,64871.0,22,1,Minimalist,Suburban,6.0,12.0,1,Medium,11254,775,4941,29355,7,3,Positive,Scarce,5,1,3,Yes,105175.0
+161,61.0,Female,94388.0,15,7,Eclectic,Suburban,9.0,14.0,4,Low,4046,6217,4389,23537,22,1,Negative,Scarce,1,5,1,Yes,29654.0
+162,57.0,Female,37174.0,8,7,Traditional,Rural,3.0,14.0,2,High,12750,9797,6556,3794,21,7,Positive,Not available,5,5,4,No,93478.0
+163,48.0,Male,97491.0,11,9,Modern,Urban,5.0,8.0,3,High,13703,8522,2772,45296,6,4,Positive,Scarce,4,4,1,No,194892.0
+164,39.0,Female,11581.0,9,4,Contemporary,Urban,,5.0,3,High,17688,8500,3265,33324,14,7,Negative,Not available,3,4,3,Yes,58886.0
+165,56.0,Male,76853.0,15,6,Traditional,Suburban,10.0,19.0,3,Medium,9043,628,2577,31858,16,16,Positive,Scarce,2,2,4,Yes,
+166,56.0,Male,69046.0,1,2,Traditional,Suburban,5.0,14.0,3,High,5908,7577,4387,43850,3,10,Positive,Available,5,5,4,Yes,77470.0
+167,48.0,Male,54678.0,1,4,Modern,Suburban,8.0,9.0,2,High,11627,4826,7750,14018,9,15,Positive,Not available,2,5,5,Yes,105029.0
+168,36.0,Male,31649.0,19,2,Minimalist,Urban,2.0,7.0,1,High,3804,4068,3264,18481,15,16,Negative,Available,1,5,2,Yes,70324.0
+169,63.0,Female,93668.0,3,5,Contemporary,Suburban,8.0,8.0,2,High,11176,8122,1610,16584,21,6,Positive,Not available,3,1,5,No,110520.0
+170,26.0,Male,,10,7,Traditional,Rural,4.0,14.0,1,High,4936,8580,454,10850,18,4,Positive,Available,5,5,5,No,70027.0
+171,,Male,19567.0,8,1,Eclectic,Rural,10.0,14.0,3,Low,18096,2902,2512,26701,10,4,Positive,Scarce,2,1,3,No,6425.0
+172,61.0,Female,85404.0,15,7,Traditional,Rural,10.0,,4,Low,10873,2147,7405,42223,10,4,Negative,Not available,5,2,2,No,137805.0
+173,41.0,Female,94906.0,10,6,Contemporary,Urban,1.0,14.0,4,High,12390,4056,3553,44952,23,17,Neutral,Not available,1,3,5,Yes,181447.0
+174,26.0,Other,66944.0,1,6,Traditional,Suburban,5.0,8.0,4,High,9366,2693,1562,46975,3,13,Neutral,Not available,2,5,5,Yes,69411.0
+175,26.0,Female,,18,8,Modern,Suburban,1.0,3.0,1,High,15614,3604,7092,1160,1,2,Neutral,Scarce,2,4,4,No,15603.0
+176,52.0,Female,33803.0,2,8,Traditional,Suburban,,18.0,3,High,7506,4855,1662,26832,3,6,Neutral,Available,3,4,3,Yes,17152.0
+177,47.0,Other,23230.0,19,6,Traditional,Urban,8.0,3.0,2,Medium,19156,2634,1237,32210,5,1,Positive,Scarce,3,5,5,No,151873.0
+178,61.0,Female,22862.0,13,3,Eclectic,Urban,,13.0,4,Medium,18458,9534,811,23290,7,8,Negative,Scarce,2,1,2,No,61318.0
+179,,Female,48355.0,22,5,Modern,Urban,3.0,,1,Medium,9783,4403,5327,30441,3,18,Positive,Scarce,3,4,1,No,153057.0
+180,57.0,Female,36259.0,1,2,Modern,Urban,7.0,15.0,4,Low,12170,4113,6709,25886,4,4,Negative,Available,2,4,1,No,113051.0
+181,25.0,Female,92445.0,2,5,Traditional,Rural,4.0,18.0,2,High,15609,9083,486,33394,17,5,Positive,Scarce,4,2,3,No,26068.0
+182,43.0,Other,35795.0,16,9,Eclectic,Urban,3.0,5.0,3,Medium,8322,2779,7507,9418,3,5,Neutral,Not available,5,2,1,No,18531.0
+183,26.0,Female,13770.0,15,1,Traditional,Urban,8.0,7.0,2,High,13174,9592,2145,8081,23,15,Neutral,Scarce,4,2,4,Yes,117289.0
+184,50.0,Female,16093.0,13,5,Traditional,Urban,3.0,11.0,3,High,17208,1652,7960,38180,4,10,Negative,Available,4,4,4,Yes,39288.0
+185,56.0,Other,51571.0,16,6,Contemporary,Suburban,7.0,,3,Low,3410,1794,2002,11114,2,8,Positive,Not available,5,4,2,No,
+186,30.0,Male,5193.0,17,7,Contemporary,Suburban,2.0,15.0,3,Low,14636,9157,690,19722,14,7,Neutral,Available,2,5,3,No,96762.0
+187,56.0,Other,22569.0,21,9,Eclectic,Suburban,,10.0,4,Medium,10039,5789,5679,22972,5,12,Negative,Scarce,2,5,3,No,103197.0
+188,28.0,Male,16190.0,7,6,Minimalist,Rural,6.0,15.0,2,Medium,15990,3745,954,18985,21,11,Positive,Available,3,1,1,Yes,176140.0
+189,35.0,Other,67824.0,17,5,Contemporary,Rural,8.0,13.0,4,Low,7441,6568,6135,6888,2,13,Negative,Not available,1,4,5,Yes,148531.0
+190,41.0,Other,47752.0,7,7,Minimalist,Urban,1.0,14.0,2,Low,9685,7216,4571,4718,15,15,Positive,Available,2,5,5,Yes,109445.0
+191,62.0,Female,37327.0,13,1,Modern,Suburban,10.0,17.0,1,High,14778,7154,3121,33147,11,17,Positive,Not available,5,5,5,No,168626.0
+192,48.0,Male,47070.0,5,5,Contemporary,Rural,9.0,13.0,1,High,14191,9179,1063,44382,22,18,Positive,Not available,1,2,2,Yes,
+193,29.0,Female,90925.0,17,2,Contemporary,Suburban,3.0,10.0,2,Medium,10732,3438,3700,19309,10,8,Negative,Scarce,5,2,3,No,75313.0
+194,58.0,Male,45197.0,3,4,Eclectic,Rural,3.0,1.0,2,Medium,4956,3126,5326,20299,20,6,Negative,Scarce,5,2,1,Yes,150343.0
+195,,Other,7261.0,7,7,Minimalist,Rural,4.0,,2,Low,7553,1449,5619,42211,1,11,Positive,Not available,5,3,2,No,132286.0
+196,46.0,Other,98905.0,17,5,Contemporary,Urban,1.0,15.0,2,Medium,3365,9741,5106,23036,19,9,Neutral,Available,1,5,4,No,8801.0
+197,35.0,Male,31512.0,7,6,Contemporary,Urban,9.0,,3,High,7668,4575,3567,20885,14,5,Positive,Not available,4,2,4,No,77593.0
+198,,Female,11716.0,21,2,Eclectic,Rural,3.0,12.0,4,Low,6000,9775,7269,30346,23,7,Negative,Scarce,5,2,4,Yes,162583.0
+199,57.0,Female,,1,3,Eclectic,Urban,,6.0,3,High,4675,2158,7032,48971,22,15,Positive,Available,3,4,3,Yes,78635.0
+200,33.0,Female,33933.0,17,7,Minimalist,Rural,,6.0,4,Low,13907,7432,6974,27691,14,4,Negative,Not available,2,2,4,Yes,85729.0
+201,30.0,Female,9378.0,17,2,Modern,Rural,1.0,12.0,4,Low,18336,8553,1385,41042,1,19,Positive,Scarce,2,4,5,No,60233.0
+202,40.0,Other,45583.0,11,6,Modern,Suburban,4.0,15.0,4,High,16136,7459,5746,49527,9,13,Positive,Not available,2,1,4,No,25011.0
+203,53.0,Other,90371.0,3,5,Traditional,Urban,1.0,4.0,3,Medium,12155,2317,2229,18986,17,1,Neutral,Not available,1,2,2,Yes,199035.0
+204,27.0,Other,,15,1,Contemporary,Urban,,4.0,2,Medium,13219,8882,4676,28846,14,1,Neutral,Not available,3,4,4,Yes,53900.0
+205,44.0,Other,29000.0,21,4,Minimalist,Urban,5.0,2.0,3,Medium,4247,960,2263,48872,13,14,Negative,Available,3,2,5,No,156836.0
+206,60.0,Other,80868.0,11,2,Contemporary,Suburban,,12.0,3,Medium,5415,8471,2085,42401,13,9,Positive,Scarce,3,1,4,No,187766.0
+207,43.0,Female,47604.0,16,4,Minimalist,Suburban,8.0,7.0,4,High,7472,6515,2574,9192,6,12,Negative,Scarce,3,2,1,Yes,85085.0
+208,50.0,Female,,22,1,Minimalist,Suburban,4.0,9.0,1,Low,5848,6876,2986,40269,7,18,Positive,Not available,3,4,5,No,143032.0
+209,27.0,Female,,9,2,Minimalist,Urban,7.0,9.0,1,High,2037,3021,5477,39487,2,9,Positive,Not available,4,1,3,Yes,21583.0
+210,43.0,Female,10410.0,1,8,Contemporary,Urban,4.0,8.0,3,Medium,16634,3976,3268,10412,8,8,Positive,Not available,3,1,4,Yes,135283.0
+211,44.0,Other,88375.0,22,6,Eclectic,Urban,3.0,14.0,4,Medium,9262,3205,4872,16963,6,14,Neutral,Available,3,1,2,No,77532.0
+212,56.0,Other,61044.0,16,2,Contemporary,Suburban,6.0,1.0,3,High,12066,4866,7843,34623,3,9,Negative,Scarce,1,3,4,Yes,19201.0
+213,31.0,Other,68315.0,9,6,Minimalist,Suburban,,12.0,3,Low,16554,9849,1015,2017,18,2,Positive,Not available,1,4,2,Yes,
+214,57.0,Male,76344.0,19,9,Traditional,Rural,3.0,2.0,2,High,8008,527,542,6279,18,1,Positive,Scarce,3,3,1,No,25420.0
+215,64.0,Female,11796.0,12,7,Modern,Suburban,9.0,13.0,4,High,16263,4731,6810,11412,22,13,Negative,Not available,4,1,3,Yes,45602.0
+216,63.0,Female,91716.0,19,9,Minimalist,Rural,5.0,4.0,1,High,17238,7048,5331,8712,23,10,Negative,Scarce,3,3,5,Yes,
+217,42.0,Other,59245.0,22,5,Traditional,Urban,7.0,,1,Low,6642,3524,4215,16817,6,8,Positive,Not available,3,2,5,No,189196.0
+218,64.0,Female,48056.0,9,7,Eclectic,Suburban,6.0,19.0,1,High,17489,1764,1823,29080,11,7,Neutral,Available,3,3,3,No,105156.0
+219,25.0,Female,22709.0,7,7,Minimalist,Urban,10.0,16.0,3,High,18153,9547,1137,7624,3,12,Neutral,Not available,5,5,1,Yes,
+220,35.0,Other,63557.0,14,3,Traditional,Urban,5.0,14.0,4,Medium,15531,7087,3623,30126,16,17,Positive,Not available,4,1,1,Yes,17629.0
+221,52.0,Male,22543.0,19,7,Minimalist,Urban,7.0,8.0,2,High,11384,7077,3253,17579,5,12,Neutral,Not available,2,1,4,No,193803.0
+222,49.0,Male,42418.0,19,1,Contemporary,Urban,6.0,12.0,1,Medium,17336,1751,1645,16131,22,16,Negative,Not available,3,4,1,No,33675.0
+223,,Male,99611.0,2,9,Traditional,Suburban,10.0,9.0,4,Medium,14661,4370,2723,38462,2,10,Neutral,Not available,2,2,4,Yes,132652.0
+224,55.0,Other,,9,6,Contemporary,Urban,2.0,6.0,1,Medium,12687,1826,2328,47815,15,12,Negative,Scarce,4,4,2,Yes,137734.0
+225,54.0,Female,,13,5,Contemporary,Rural,3.0,18.0,2,Low,14404,6677,1732,38419,16,11,Negative,Scarce,3,3,3,Yes,85270.0
+226,59.0,Other,22087.0,15,7,Traditional,Suburban,2.0,2.0,4,Medium,5355,9717,7154,24375,7,14,Negative,Available,2,5,2,Yes,12589.0
+227,,Other,17605.0,3,5,Modern,Urban,3.0,8.0,3,High,1933,861,7955,27093,16,13,Negative,Not available,2,5,2,No,113954.0
+228,40.0,Female,36337.0,11,5,Traditional,Suburban,1.0,14.0,3,High,9766,1718,6786,46494,4,2,Neutral,Scarce,4,5,2,No,185436.0
+229,50.0,Male,10482.0,21,7,Modern,Rural,,6.0,1,Medium,6906,1105,539,33525,16,7,Negative,Scarce,3,5,2,No,9655.0
+230,26.0,Male,70333.0,14,7,Minimalist,Urban,6.0,10.0,1,Medium,13572,6459,438,30030,17,1,Positive,Not available,5,2,5,No,79285.0
+231,25.0,Other,97541.0,8,3,Minimalist,Rural,2.0,8.0,4,High,13279,2170,3493,45067,2,3,Negative,Not available,4,3,1,Yes,
+232,36.0,Male,,18,3,Traditional,Urban,8.0,17.0,2,Medium,11723,4943,719,6207,16,12,Positive,Available,5,5,3,No,11645.0
+233,29.0,Other,55952.0,19,3,Minimalist,Rural,6.0,12.0,1,Low,11611,1777,5980,11897,4,5,Negative,Available,3,1,3,Yes,122379.0
+234,61.0,Other,10463.0,16,6,Eclectic,Urban,7.0,,4,Medium,9261,898,603,27639,7,12,Negative,Scarce,2,3,2,Yes,170834.0
+235,56.0,Female,75448.0,2,6,Contemporary,Suburban,1.0,13.0,2,Low,5474,2672,2462,3792,18,3,Neutral,Available,4,2,3,No,52634.0
+236,,Female,,8,3,Contemporary,Urban,7.0,19.0,1,Low,17638,3310,6786,1420,6,5,Negative,Scarce,4,5,4,No,157504.0
+237,59.0,Female,38623.0,22,3,Modern,Suburban,3.0,12.0,1,Low,5787,6774,5670,30224,18,1,Negative,Available,4,2,3,Yes,183962.0
+238,43.0,Other,64156.0,6,8,Minimalist,Urban,8.0,16.0,4,Medium,14575,6181,2326,20198,7,16,Neutral,Not available,1,5,2,No,195183.0
+239,40.0,Female,40634.0,12,8,Modern,Urban,6.0,5.0,1,Low,8862,3439,4402,36608,2,9,Neutral,Available,3,1,3,Yes,179683.0
+240,27.0,Male,49602.0,15,7,Contemporary,Rural,4.0,16.0,3,Low,11956,9513,7174,47205,19,10,Positive,Scarce,1,3,1,Yes,162743.0
+241,,Male,54334.0,8,4,Contemporary,Rural,8.0,6.0,2,Medium,11663,1444,2526,18415,9,10,Neutral,Available,4,1,2,No,41760.0
+242,48.0,Other,73648.0,4,4,Minimalist,Rural,9.0,11.0,2,Low,17120,6465,1468,41407,4,13,Positive,Scarce,4,5,5,Yes,33233.0
+243,57.0,Other,27054.0,15,3,Eclectic,Urban,10.0,17.0,3,Medium,4742,6848,715,18875,14,16,Negative,Scarce,5,4,1,No,173663.0
+244,48.0,Female,75028.0,20,5,Eclectic,Urban,2.0,14.0,4,High,3035,8270,3013,5975,5,4,Positive,Available,1,3,3,No,55091.0
+245,35.0,Other,27207.0,17,3,Minimalist,Urban,6.0,6.0,3,Low,2967,7599,5540,27461,7,14,Neutral,Available,2,2,5,No,140510.0
+246,32.0,Other,85650.0,13,8,Minimalist,Suburban,5.0,11.0,3,Medium,2852,1696,5543,22331,8,17,Negative,Scarce,3,5,1,Yes,109602.0
+247,60.0,Male,86554.0,18,7,Modern,Suburban,5.0,12.0,2,High,11547,1712,449,17893,15,5,Positive,Not available,2,1,4,No,89905.0
+248,62.0,Male,26386.0,2,3,Minimalist,Urban,10.0,13.0,4,Low,7618,1323,2744,19243,19,13,Positive,Available,2,4,1,Yes,181968.0
+249,,Female,88276.0,13,9,Eclectic,Rural,3.0,4.0,1,Low,14859,7584,6824,16535,11,3,Positive,Scarce,3,5,5,No,
+250,44.0,Other,64518.0,13,5,Minimalist,Rural,8.0,7.0,3,Medium,9303,1035,6199,6061,20,5,Negative,Not available,4,2,4,Yes,16319.0
+251,59.0,Other,57781.0,22,9,Modern,Rural,8.0,2.0,3,High,12350,3510,1138,2858,23,16,Positive,Scarce,5,1,3,Yes,85258.0
+252,49.0,Male,57780.0,15,7,Modern,Urban,,6.0,4,Medium,17566,8037,6444,26489,4,19,Positive,Available,4,3,2,Yes,108293.0
+253,,Other,66440.0,20,7,Modern,Rural,8.0,6.0,3,Low,1164,1449,1996,14678,18,19,Neutral,Scarce,4,4,3,Yes,142100.0
+254,49.0,Male,49199.0,10,6,Modern,Urban,10.0,18.0,4,Low,7958,1043,4639,35833,14,17,Positive,Scarce,1,5,2,Yes,116930.0
+255,53.0,Female,66035.0,3,2,Traditional,Suburban,8.0,8.0,1,Low,3137,4400,2210,48159,6,18,Negative,Scarce,2,5,2,No,115629.0
+256,42.0,Male,13210.0,19,9,Minimalist,Rural,3.0,8.0,4,Low,11215,4724,1721,20350,16,18,Neutral,Available,2,5,5,Yes,30940.0
+257,42.0,Other,49363.0,3,6,Contemporary,Suburban,2.0,8.0,1,High,17838,3366,5670,14346,18,8,Negative,Not available,2,5,4,No,
+258,26.0,Female,83279.0,22,8,Minimalist,Rural,9.0,,4,High,19669,2746,5274,49005,1,18,Neutral,Not available,5,1,4,No,56651.0
+259,59.0,Male,65348.0,14,1,Traditional,Urban,2.0,1.0,3,Medium,17925,2336,7766,7773,8,9,Neutral,Not available,5,3,1,No,195720.0
+260,40.0,Male,60284.0,8,5,Modern,Urban,9.0,2.0,1,Medium,7033,8768,7203,30465,1,19,Positive,Not available,5,2,3,No,179513.0
+261,60.0,Female,77124.0,23,1,Traditional,Urban,4.0,12.0,3,Medium,3665,9060,3301,10788,1,10,Negative,Available,3,4,5,Yes,25688.0
+262,,Female,73847.0,4,8,Eclectic,Urban,2.0,15.0,1,Low,14129,7476,1620,33343,19,2,Positive,Scarce,5,5,3,No,182352.0
+263,28.0,Male,,20,8,Eclectic,Rural,10.0,4.0,4,Medium,13125,848,5372,47862,21,17,Neutral,Not available,1,5,1,No,19472.0
+264,,Other,69089.0,11,1,Minimalist,Suburban,1.0,3.0,4,High,7189,5101,4335,38210,10,13,Positive,Not available,1,3,1,No,85436.0
+265,38.0,Male,60398.0,11,9,Minimalist,Urban,4.0,14.0,4,Medium,14708,4833,1823,10247,18,11,Neutral,Available,4,3,5,No,40671.0
+266,45.0,Female,8321.0,11,2,Contemporary,Rural,9.0,8.0,2,Medium,19072,5899,5534,46963,12,16,Neutral,Scarce,4,1,1,No,196881.0
+267,44.0,Male,86348.0,2,9,Contemporary,Suburban,9.0,13.0,2,High,6095,6196,4178,42983,17,7,Negative,Scarce,4,1,5,No,
+268,,Female,,17,1,Eclectic,Urban,4.0,19.0,1,High,15409,1955,6444,36972,1,3,Negative,Not available,4,1,1,Yes,15960.0
+269,31.0,Female,,9,9,Modern,Suburban,9.0,5.0,2,Low,8583,2685,852,17959,8,16,Negative,Not available,1,4,4,Yes,127652.0
+270,,Other,,2,4,Traditional,Urban,6.0,13.0,4,High,2637,7936,4056,24807,10,19,Negative,Scarce,4,1,5,Yes,129118.0
+271,41.0,Female,57893.0,15,9,Contemporary,Suburban,1.0,1.0,2,High,15670,4311,3971,35133,10,16,Positive,Available,1,5,4,No,138146.0
+272,57.0,Female,40820.0,16,7,Contemporary,Suburban,10.0,16.0,2,Medium,6966,7809,781,25218,18,2,Negative,Scarce,5,1,4,No,39833.0
+273,36.0,Other,71262.0,4,6,Modern,Urban,6.0,2.0,3,High,5670,8586,899,22734,9,14,Negative,Scarce,5,4,5,No,40976.0
+274,,Female,8760.0,8,5,Modern,Rural,9.0,7.0,1,Low,6203,4182,7206,23828,2,10,Negative,Not available,3,1,3,Yes,112549.0
+275,,Other,,9,9,Minimalist,Suburban,,6.0,1,Medium,19274,2346,7977,18400,3,19,Neutral,Available,4,1,2,No,135120.0
+276,54.0,Other,72411.0,5,2,Traditional,Urban,6.0,5.0,1,Low,9669,2354,6778,21002,2,11,Neutral,Available,5,5,1,No,
+277,62.0,Female,28377.0,16,2,Modern,Suburban,2.0,4.0,2,High,15968,3485,6908,33793,6,18,Negative,Available,5,5,1,Yes,55108.0
+278,62.0,Female,,13,9,Contemporary,Suburban,4.0,2.0,4,Low,3366,3394,1464,37492,23,11,Neutral,Not available,2,5,3,No,157552.0
+279,,Male,74569.0,7,3,Contemporary,Rural,8.0,10.0,3,Low,19910,7996,4978,33217,12,9,Neutral,Available,2,1,2,Yes,55138.0
+280,51.0,Other,43211.0,20,8,Eclectic,Suburban,7.0,5.0,1,High,1366,1058,4532,37226,22,19,Positive,Available,1,5,3,No,14443.0
+281,51.0,Male,87909.0,17,9,Modern,Suburban,9.0,18.0,2,High,16647,3396,1303,28932,19,10,Neutral,Not available,3,3,2,No,74969.0
+282,58.0,Female,8744.0,3,8,Minimalist,Urban,7.0,10.0,4,Medium,10907,1754,2282,44327,15,3,Positive,Scarce,2,2,5,No,137062.0
+283,45.0,Male,29995.0,5,4,Traditional,Urban,,15.0,3,Medium,7606,2181,1934,31875,19,3,Neutral,Available,3,2,5,Yes,128781.0
+284,54.0,Other,21977.0,19,1,Minimalist,Rural,,9.0,3,Medium,1012,5771,3297,26046,12,8,Negative,Scarce,5,5,4,No,97198.0
+285,57.0,Male,39542.0,12,4,Contemporary,Suburban,6.0,11.0,1,High,3317,6783,986,24664,18,6,Neutral,Available,1,4,4,Yes,66336.0
+286,52.0,Other,15651.0,7,9,Minimalist,Suburban,7.0,17.0,1,Low,16429,9354,6610,25453,16,1,Neutral,Scarce,3,5,5,No,34097.0
+287,57.0,Female,83931.0,9,2,Contemporary,Suburban,3.0,9.0,4,Low,8485,3825,3714,5746,2,6,Positive,Scarce,2,5,4,Yes,155258.0
+288,29.0,Female,21715.0,6,3,Contemporary,Rural,9.0,16.0,2,Medium,17759,1741,5829,24973,11,2,Negative,Not available,5,1,5,No,56356.0
+289,43.0,Other,49409.0,17,8,Contemporary,Suburban,,6.0,4,Medium,1256,3643,6188,14217,12,19,Positive,Not available,4,4,3,Yes,89744.0
+290,,Female,29306.0,16,6,Contemporary,Urban,6.0,11.0,1,High,17833,3537,5305,24362,5,7,Negative,Available,5,5,1,Yes,93015.0
+291,59.0,Female,24086.0,23,8,Contemporary,Rural,6.0,17.0,4,Low,16903,8853,2059,42835,6,11,Negative,Available,2,3,5,No,148994.0
+292,41.0,Female,19376.0,3,7,Eclectic,Urban,1.0,4.0,2,Medium,4212,2281,6430,10133,11,11,Positive,Not available,2,2,5,Yes,166838.0
+293,52.0,Female,66350.0,21,5,Minimalist,Urban,5.0,15.0,3,High,7175,5175,7323,36809,21,4,Neutral,Available,4,3,5,Yes,155859.0
+294,54.0,Other,76425.0,4,9,Eclectic,Rural,10.0,1.0,3,Medium,14571,1977,5237,41533,10,16,Negative,Available,5,3,4,Yes,158609.0
+295,53.0,Male,41636.0,10,4,Eclectic,Urban,3.0,,3,High,17087,7648,6508,6404,4,5,Neutral,Not available,3,3,4,No,80919.0
+296,30.0,Male,91120.0,5,6,Modern,Suburban,7.0,9.0,3,Low,8446,8051,6000,34339,9,7,Positive,Scarce,3,4,4,Yes,108854.0
+297,59.0,Female,56649.0,21,2,Modern,Rural,10.0,12.0,1,High,18692,606,7534,29725,12,16,Positive,Available,5,4,4,No,58034.0
+298,61.0,Male,39610.0,22,2,Modern,Urban,3.0,4.0,1,Medium,15877,3168,2780,9796,10,15,Positive,Not available,3,4,3,Yes,102431.0
+299,48.0,Male,15058.0,10,2,Traditional,Suburban,5.0,13.0,2,Medium,13943,5435,7517,46380,14,5,Positive,Available,5,2,5,Yes,181614.0
+300,53.0,Female,79637.0,12,7,Modern,Suburban,7.0,7.0,2,Low,11306,7770,1637,49073,5,1,Negative,Available,5,1,3,Yes,139279.0
+301,55.0,Female,83033.0,10,2,Minimalist,Urban,3.0,8.0,2,Low,5016,1664,7776,22364,1,9,Positive,Not available,2,5,4,Yes,33234.0
+302,59.0,Male,75194.0,13,2,Eclectic,Suburban,10.0,13.0,2,Medium,6912,1657,414,42341,5,5,Neutral,Not available,1,5,3,No,35568.0
+303,57.0,Other,81917.0,11,9,Minimalist,Rural,2.0,11.0,4,Medium,1442,2746,4257,2236,16,6,Neutral,Available,2,1,5,No,73633.0
+304,45.0,Female,69200.0,22,7,Modern,Urban,6.0,9.0,2,Medium,3944,7153,868,3380,5,3,Negative,Available,3,5,5,Yes,122766.0
+305,,Other,51619.0,16,3,Traditional,Suburban,8.0,16.0,3,Low,4936,9358,7809,40945,5,6,Positive,Scarce,1,3,4,No,114582.0
+306,47.0,Male,22154.0,8,3,Traditional,Suburban,4.0,10.0,3,Medium,1398,8149,1853,15538,18,8,Negative,Scarce,5,2,5,No,59703.0
+307,57.0,Female,24539.0,8,7,Eclectic,Urban,9.0,11.0,3,Low,16696,1011,2989,12971,6,6,Negative,Not available,3,5,3,Yes,122634.0
+308,27.0,Other,65058.0,8,5,Minimalist,Urban,8.0,12.0,4,Medium,3995,8941,4890,44065,21,16,Negative,Available,4,2,2,Yes,188695.0
+309,42.0,Female,67068.0,13,6,Contemporary,Urban,7.0,14.0,2,High,7329,1388,3640,35285,18,16,Positive,Not available,3,1,5,Yes,189526.0
+310,49.0,Male,82313.0,2,8,Minimalist,Urban,7.0,19.0,3,High,3216,9715,3288,18917,10,3,Neutral,Not available,1,5,3,Yes,104928.0
+311,55.0,Other,35373.0,12,9,Modern,Rural,3.0,12.0,3,Medium,19091,8483,3451,39655,15,17,Neutral,Available,1,2,3,Yes,196703.0
+312,27.0,Male,38154.0,10,1,Contemporary,Urban,6.0,18.0,3,High,12523,9291,3827,12486,22,6,Negative,Scarce,5,3,3,Yes,80253.0
+313,64.0,Male,11031.0,12,3,Traditional,Rural,5.0,17.0,3,Low,3568,3522,7766,38410,11,6,Negative,Not available,4,3,5,No,121170.0
+314,48.0,Female,98533.0,11,7,Eclectic,Rural,1.0,3.0,1,High,1160,3030,3315,26446,19,19,Neutral,Not available,5,1,2,Yes,21642.0
+315,56.0,Other,,15,6,Eclectic,Urban,3.0,1.0,2,High,16648,6815,1121,22703,13,15,Neutral,Available,4,4,4,Yes,84176.0
+316,46.0,Male,27785.0,16,7,Traditional,Rural,1.0,19.0,2,Low,9067,2564,6645,45191,20,19,Positive,Scarce,4,5,4,Yes,87373.0
+317,47.0,Male,83928.0,17,8,Modern,Urban,4.0,4.0,4,High,4904,5913,3874,12399,3,2,Negative,Scarce,5,3,5,No,
+318,26.0,Other,33669.0,2,6,Traditional,Urban,10.0,,1,High,4573,7037,4087,39829,16,8,Positive,Available,3,3,5,Yes,189694.0
+319,,Male,99475.0,18,3,Modern,Suburban,3.0,12.0,4,Medium,2825,4069,7092,13685,7,7,Neutral,Not available,2,1,1,No,
+320,26.0,Male,,12,2,Contemporary,Urban,4.0,13.0,3,Low,14786,1742,7952,23241,12,8,Neutral,Available,4,3,2,No,9170.0
+321,50.0,Other,39624.0,19,7,Traditional,Suburban,9.0,17.0,4,Low,10815,4829,1908,5487,15,13,Neutral,Available,1,5,3,No,160889.0
+322,41.0,Other,53438.0,23,1,Modern,Rural,3.0,8.0,3,Medium,14794,2425,859,13018,8,15,Neutral,Scarce,5,1,3,Yes,141208.0
+323,64.0,Other,94900.0,18,3,Contemporary,Suburban,6.0,,3,Medium,2176,3895,5437,31825,23,12,Positive,Not available,3,2,4,No,137784.0
+324,57.0,Other,72534.0,17,4,Traditional,Rural,6.0,5.0,2,High,8820,940,6921,8750,17,15,Neutral,Not available,4,1,5,Yes,
+325,33.0,Female,36705.0,6,1,Eclectic,Urban,7.0,18.0,2,High,17514,5731,4363,18684,1,14,Negative,Scarce,3,5,2,Yes,188551.0
+326,63.0,Other,43244.0,15,5,Traditional,Rural,,15.0,2,High,2499,8681,6931,44118,21,7,Neutral,Not available,5,5,4,Yes,146545.0
+327,53.0,Female,79964.0,3,3,Minimalist,Rural,7.0,12.0,2,Medium,8626,3243,7426,15410,8,17,Negative,Not available,1,2,2,Yes,128376.0
+328,50.0,Female,,6,2,Traditional,Urban,1.0,17.0,2,Low,17137,8539,7222,16105,14,5,Neutral,Available,4,1,5,No,90031.0
+329,59.0,Female,82872.0,3,3,Minimalist,Rural,8.0,15.0,1,High,4708,8698,5865,19913,10,10,Positive,Available,4,5,3,Yes,26625.0
+330,49.0,Male,79878.0,1,8,Contemporary,Urban,5.0,2.0,2,Medium,2769,2086,4735,37028,19,19,Negative,Available,3,5,1,No,149833.0
+331,48.0,Female,77982.0,13,6,Traditional,Suburban,,6.0,4,Low,10510,1325,5950,48342,8,18,Positive,Not available,5,2,2,No,79454.0
+332,37.0,Female,55583.0,21,7,Contemporary,Urban,10.0,17.0,3,Medium,15226,4324,911,47480,19,10,Neutral,Not available,2,4,3,Yes,6821.0
+333,31.0,Male,43392.0,14,6,Contemporary,Urban,5.0,16.0,2,High,16634,1768,2463,18711,4,2,Positive,Not available,4,1,2,Yes,105120.0
+334,60.0,Male,12461.0,13,6,Modern,Rural,5.0,,1,Medium,7731,8115,2181,25967,10,6,Neutral,Not available,1,5,2,No,184718.0
+335,44.0,Male,15516.0,4,3,Contemporary,Suburban,2.0,9.0,4,Medium,11965,3936,4469,37023,23,3,Positive,Scarce,4,3,2,No,41200.0
+336,25.0,Other,84285.0,7,8,Contemporary,Urban,3.0,5.0,4,Medium,1375,8589,4163,37005,3,19,Positive,Scarce,4,2,5,Yes,88889.0
+337,32.0,Male,22514.0,22,7,Traditional,Suburban,10.0,1.0,3,Medium,16517,1810,7736,27622,4,5,Negative,Not available,2,4,4,Yes,184322.0
+338,40.0,Male,41268.0,10,7,Traditional,Suburban,9.0,6.0,4,Low,7218,9728,4008,46201,16,7,Neutral,Available,2,4,2,Yes,
+339,38.0,Female,95486.0,7,6,Eclectic,Rural,7.0,14.0,4,High,18124,977,6559,10497,4,7,Positive,Available,5,2,5,No,41447.0
+340,36.0,Male,41788.0,21,5,Modern,Urban,1.0,17.0,4,Low,9495,9406,2009,17350,20,10,Neutral,Scarce,4,4,1,Yes,165256.0
+341,47.0,Other,80749.0,15,8,Contemporary,Rural,3.0,,4,Medium,2085,2662,2061,49709,20,1,Negative,Scarce,4,5,4,Yes,185826.0
+342,39.0,Male,66049.0,15,5,Modern,Urban,2.0,1.0,1,Medium,14073,1008,1992,23696,13,11,Positive,Not available,3,4,5,Yes,152883.0
+343,52.0,Other,67493.0,4,9,Minimalist,Suburban,1.0,1.0,3,High,12371,7819,7631,28470,21,7,Neutral,Not available,3,1,1,Yes,162667.0
+344,58.0,Male,41027.0,23,9,Contemporary,Urban,9.0,13.0,2,High,18594,881,6430,31889,17,6,Positive,Not available,1,3,4,No,96568.0
+345,26.0,Male,98547.0,23,1,Modern,Urban,8.0,14.0,4,Low,12226,9872,1545,11224,23,6,Positive,Not available,1,5,5,No,111502.0
+346,56.0,Male,47849.0,6,6,Eclectic,Suburban,5.0,6.0,1,Low,11046,2345,425,42724,16,13,Positive,Not available,3,2,1,Yes,109567.0
+347,47.0,Male,22858.0,20,7,Eclectic,Suburban,2.0,6.0,3,High,17651,7800,5052,6465,17,16,Positive,Available,1,3,5,No,22757.0
+348,46.0,Other,89162.0,5,3,Contemporary,Urban,,1.0,2,Low,12041,9792,1499,17882,6,13,Negative,Available,4,5,1,Yes,
+349,49.0,Other,84003.0,20,7,Minimalist,Rural,7.0,14.0,3,Medium,5349,9409,6392,33203,3,2,Negative,Not available,2,3,2,No,148026.0
+350,46.0,Female,57395.0,12,7,Eclectic,Urban,2.0,3.0,1,Medium,5965,8217,3011,28944,20,19,Neutral,Available,4,4,2,No,197421.0
+351,46.0,Other,44758.0,1,2,Eclectic,Suburban,1.0,,1,High,14492,9009,3746,30837,4,19,Neutral,Not available,3,2,4,Yes,174002.0
+352,30.0,Male,59312.0,8,7,Minimalist,Rural,2.0,,1,Low,14336,5129,1290,3944,8,19,Positive,Not available,5,2,1,Yes,97342.0
+353,39.0,Female,73670.0,1,1,Modern,Suburban,7.0,19.0,4,Medium,18373,6204,3365,25336,20,18,Positive,Scarce,5,1,2,Yes,93760.0
+354,61.0,Female,,5,5,Eclectic,Suburban,7.0,19.0,1,High,13684,2276,5254,39624,9,6,Positive,Available,3,4,4,Yes,139883.0
+355,57.0,Female,20434.0,22,9,Traditional,Rural,10.0,4.0,2,Low,18321,8603,1821,45764,22,2,Negative,Available,4,1,3,No,166440.0
+356,32.0,Male,69047.0,6,7,Eclectic,Suburban,6.0,19.0,4,Medium,7654,2784,6528,32796,1,19,Positive,Scarce,1,1,2,Yes,168791.0
+357,29.0,Other,52775.0,21,7,Modern,Suburban,5.0,10.0,3,Low,8342,1744,6295,29789,13,6,Neutral,Available,1,4,2,Yes,
+358,63.0,Male,80769.0,3,2,Modern,Suburban,3.0,2.0,2,Low,3358,1833,5802,46420,2,15,Positive,Scarce,5,5,5,Yes,17133.0
+359,28.0,Female,71677.0,15,8,Contemporary,Suburban,3.0,4.0,4,Low,7360,4169,5028,25222,23,6,Negative,Available,3,1,3,Yes,
+360,30.0,Male,88555.0,5,3,Traditional,Suburban,9.0,6.0,1,High,4743,1700,6060,39845,10,3,Positive,Not available,3,3,1,Yes,164943.0
+361,56.0,Male,90920.0,14,8,Modern,Suburban,,7.0,3,Medium,8159,2294,5882,1135,23,11,Negative,Scarce,2,5,4,Yes,177544.0
+362,54.0,Other,50734.0,18,3,Minimalist,Suburban,9.0,16.0,1,High,1518,6681,2798,16773,19,8,Negative,Not available,5,4,3,No,194405.0
+363,59.0,Other,93503.0,16,7,Traditional,Suburban,4.0,7.0,2,Medium,17652,1954,2865,43060,17,18,Negative,Not available,3,2,1,Yes,60508.0
+364,64.0,Female,,6,2,Traditional,Suburban,2.0,18.0,2,Medium,13925,2433,7289,27447,13,17,Negative,Available,2,5,2,No,
+365,,Male,81708.0,14,4,Minimalist,Urban,4.0,19.0,4,High,15810,1246,5090,5033,14,19,Neutral,Scarce,1,1,4,Yes,146076.0
+366,37.0,Male,86926.0,8,6,Eclectic,Urban,6.0,9.0,2,High,17239,7870,2897,21497,11,19,Negative,Not available,5,3,4,No,171373.0
+367,54.0,Other,,7,9,Minimalist,Suburban,6.0,10.0,3,Medium,6475,9532,5324,15178,10,17,Neutral,Not available,5,4,3,No,
+368,43.0,Male,44332.0,8,5,Minimalist,Urban,5.0,13.0,4,Medium,5185,8473,415,7546,7,4,Neutral,Scarce,3,2,5,No,141973.0
+369,41.0,Male,,13,9,Eclectic,Rural,1.0,18.0,3,Medium,6161,7327,1331,9396,10,7,Positive,Available,3,3,1,Yes,74621.0
+370,43.0,Male,26312.0,6,5,Eclectic,Urban,3.0,16.0,1,Low,10580,9780,1541,21978,1,5,Positive,Not available,4,2,3,No,124673.0
+371,52.0,Other,98376.0,18,8,Eclectic,Suburban,5.0,17.0,3,Medium,10886,1292,2042,44331,14,16,Negative,Available,1,4,5,Yes,184881.0
+372,50.0,Female,,2,1,Eclectic,Suburban,6.0,13.0,3,High,12465,7427,6009,13882,3,6,Positive,Scarce,1,5,5,No,131545.0
+373,61.0,Female,49179.0,8,7,Eclectic,Urban,1.0,12.0,2,High,12221,1767,6299,17945,13,14,Negative,Available,2,1,5,Yes,86299.0
+374,50.0,Male,76442.0,11,4,Minimalist,Suburban,9.0,10.0,1,High,3335,6869,6847,22784,2,2,Positive,Scarce,2,4,4,Yes,63171.0
+375,47.0,Female,45379.0,1,5,Contemporary,Rural,3.0,1.0,2,Medium,4674,3190,3938,4314,17,18,Negative,Available,4,3,1,No,15354.0
+376,33.0,Other,22297.0,22,6,Contemporary,Rural,10.0,8.0,1,Medium,5576,8374,4699,19595,21,18,Positive,Available,1,5,1,Yes,63860.0
+377,36.0,Other,,6,5,Modern,Suburban,3.0,18.0,1,Low,15972,792,4390,19755,3,13,Positive,Not available,2,2,3,No,14504.0
+378,25.0,Female,49014.0,16,1,Contemporary,Rural,2.0,2.0,3,Low,1500,7364,5886,33311,15,18,Neutral,Available,1,5,2,No,190392.0
+379,25.0,Female,,20,9,Contemporary,Rural,8.0,,2,High,9083,4522,2275,46695,8,17,Positive,Not available,1,5,3,Yes,139595.0
+380,58.0,Male,99333.0,12,2,Minimalist,Urban,3.0,12.0,3,Low,9294,2148,7183,31598,6,13,Positive,Scarce,2,3,1,No,
+381,,Female,52498.0,11,9,Eclectic,Rural,6.0,9.0,3,Low,16720,5671,4483,36449,9,12,Negative,Scarce,3,1,4,Yes,133890.0
+382,49.0,Male,16120.0,10,2,Eclectic,Urban,2.0,3.0,3,High,6543,2193,5429,36574,11,3,Neutral,Not available,3,5,3,No,91703.0
+383,,Male,13767.0,3,9,Minimalist,Suburban,7.0,4.0,1,Medium,4276,7210,4703,45729,22,7,Negative,Available,2,5,2,Yes,169859.0
+384,25.0,Other,,13,6,Contemporary,Urban,,2.0,2,Low,7613,1537,6877,19639,2,1,Positive,Scarce,4,1,3,Yes,96407.0
+385,40.0,Other,84239.0,3,9,Minimalist,Suburban,,,2,Medium,12729,4352,5197,46370,9,5,Negative,Scarce,5,1,5,Yes,28982.0
+386,,Other,5929.0,15,6,Modern,Suburban,10.0,10.0,3,High,2327,5959,463,32023,18,1,Neutral,Scarce,1,2,2,No,6049.0
+387,29.0,Other,82487.0,16,6,Eclectic,Suburban,9.0,16.0,1,High,8772,9804,3610,10092,19,4,Negative,Not available,5,2,5,Yes,18381.0
+388,46.0,Female,96575.0,13,2,Traditional,Suburban,7.0,11.0,2,Low,11666,7548,3688,7382,22,1,Positive,Scarce,2,1,4,Yes,53390.0
+389,53.0,Other,22438.0,17,8,Modern,Suburban,,,4,High,17289,6684,1295,43710,18,13,Negative,Scarce,1,4,1,Yes,17061.0
+390,27.0,Female,,3,3,Modern,Urban,3.0,14.0,2,High,19946,9983,7099,4159,5,14,Positive,Scarce,5,1,3,Yes,76241.0
+391,,Other,10744.0,20,7,Minimalist,Suburban,5.0,8.0,3,High,19820,1661,5754,6656,18,15,Neutral,Scarce,3,2,3,Yes,55296.0
+392,50.0,Female,88820.0,11,5,Contemporary,Rural,,15.0,4,Low,6769,1529,6461,2452,12,17,Neutral,Not available,4,3,5,Yes,160086.0
+393,,Male,47417.0,21,3,Eclectic,Rural,10.0,17.0,1,Low,14663,1478,5490,43203,4,12,Negative,Not available,5,3,5,Yes,69535.0
+394,61.0,Female,12069.0,19,1,Traditional,Suburban,7.0,18.0,4,Low,6918,9209,5594,19706,15,7,Neutral,Available,4,5,1,Yes,104009.0
+395,46.0,Female,47359.0,22,8,Modern,Rural,8.0,,4,High,18473,9474,2177,10862,11,19,Negative,Scarce,3,3,3,Yes,70191.0
+396,53.0,Other,24799.0,11,3,Traditional,Urban,,14.0,3,Medium,5555,5629,2123,11219,19,3,Positive,Not available,5,2,1,No,56576.0
+397,38.0,Female,98762.0,16,2,Contemporary,Urban,7.0,3.0,2,High,3394,637,5206,24481,5,18,Negative,Available,2,3,5,Yes,33147.0
+398,52.0,Male,75188.0,21,1,Contemporary,Suburban,10.0,7.0,1,Low,1666,9445,6782,35536,6,4,Positive,Available,1,4,5,Yes,121622.0
+399,29.0,Male,,3,4,Traditional,Suburban,10.0,15.0,4,Medium,13355,5308,2595,7096,13,3,Neutral,Scarce,3,1,2,Yes,73020.0
+400,54.0,Other,12597.0,22,8,Eclectic,Suburban,,16.0,3,Medium,3234,2955,3564,38953,23,12,Positive,Available,4,1,5,No,192220.0
+401,29.0,Male,52093.0,6,3,Contemporary,Rural,9.0,,2,Low,7335,7892,7886,12855,10,12,Positive,Not available,4,2,5,Yes,137817.0
+402,,Female,42226.0,14,1,Traditional,Rural,6.0,8.0,4,Medium,18620,9271,1648,44262,14,17,Positive,Available,3,5,1,Yes,158220.0
+403,40.0,Male,77127.0,18,4,Modern,Urban,10.0,7.0,3,Medium,19007,3766,6749,15460,4,6,Positive,Available,2,1,2,No,152288.0
+404,50.0,Other,96369.0,17,9,Traditional,Rural,2.0,6.0,3,Low,18758,5149,2103,34937,20,15,Positive,Not available,2,3,2,No,46929.0
+405,50.0,Female,82362.0,4,1,Traditional,Urban,,2.0,3,Medium,12503,9087,2551,22094,23,2,Negative,Available,4,4,3,No,67637.0
+406,45.0,Other,31417.0,23,2,Minimalist,Rural,4.0,13.0,1,Medium,7359,5753,3200,40358,12,8,Positive,Available,3,5,4,Yes,196063.0
+407,63.0,Female,23693.0,15,9,Contemporary,Urban,9.0,12.0,2,Low,17560,5928,7590,28924,15,14,Positive,Available,3,5,3,Yes,135860.0
+408,60.0,Male,84674.0,11,2,Eclectic,Suburban,,15.0,4,Medium,14876,6485,1893,18789,10,5,Positive,Available,1,5,3,Yes,158084.0
+409,57.0,Other,58161.0,3,3,Eclectic,Rural,2.0,9.0,2,Medium,3928,3089,6890,1123,11,3,Positive,Scarce,4,1,3,Yes,71313.0
+410,54.0,Other,7169.0,3,7,Minimalist,Urban,8.0,2.0,2,Medium,8617,7676,7156,49394,9,10,Positive,Scarce,2,5,2,No,14525.0
+411,61.0,Female,89092.0,16,3,Eclectic,Rural,7.0,17.0,4,Medium,8614,3534,7958,6909,11,7,Positive,Not available,5,2,1,No,134228.0
+412,47.0,Other,27052.0,5,9,Traditional,Suburban,9.0,5.0,2,Low,5274,669,732,32854,2,11,Neutral,Available,2,3,5,Yes,48348.0
+413,,Female,,21,6,Minimalist,Urban,8.0,11.0,1,High,5971,3739,6043,4896,13,15,Negative,Not available,2,4,2,No,65447.0
+414,29.0,Female,78851.0,10,3,Modern,Rural,3.0,19.0,4,High,9389,3915,5547,41834,22,2,Positive,Scarce,5,3,5,Yes,115709.0
+415,60.0,Female,13036.0,19,9,Contemporary,Rural,1.0,7.0,4,Medium,18352,4068,4117,43141,8,5,Negative,Available,4,2,5,Yes,91030.0
+416,58.0,Female,36778.0,4,1,Contemporary,Suburban,,2.0,3,Low,3504,3984,5217,18111,21,11,Neutral,Available,1,2,4,Yes,138113.0
+417,55.0,Male,,19,3,Contemporary,Suburban,,,2,Low,7006,5335,1370,8039,21,8,Neutral,Scarce,2,3,3,Yes,84866.0
+418,34.0,Female,28173.0,11,1,Traditional,Urban,4.0,12.0,4,Medium,8943,2341,4900,45844,8,13,Positive,Available,2,1,4,No,56826.0
+419,43.0,Other,35403.0,2,2,Modern,Rural,6.0,15.0,4,High,18653,7378,414,25099,1,11,Negative,Available,4,2,3,No,110808.0
+420,56.0,Male,71321.0,10,8,Minimalist,Rural,4.0,,1,Medium,18748,5052,1739,4670,6,17,Positive,Scarce,4,5,2,Yes,153145.0
+421,,Other,76675.0,11,7,Minimalist,Suburban,9.0,13.0,3,Low,1923,7344,2090,44335,13,15,Neutral,Not available,3,4,5,Yes,132749.0
+422,29.0,Male,11344.0,20,2,Contemporary,Suburban,4.0,6.0,4,Low,17854,3526,1294,16029,9,1,Neutral,Not available,4,4,4,No,100822.0
+423,28.0,Female,23800.0,16,2,Modern,Urban,6.0,13.0,1,High,11246,6689,4618,32811,6,19,Negative,Available,4,2,2,No,33028.0
+424,,Male,30372.0,19,9,Modern,Rural,6.0,,4,Low,13475,4465,5031,16793,15,16,Positive,Scarce,2,5,2,Yes,159512.0
+425,48.0,Male,66516.0,23,6,Modern,Rural,10.0,3.0,4,Low,18532,7684,6368,42318,23,19,Negative,Not available,1,3,3,No,37887.0
+426,40.0,Other,25538.0,11,5,Eclectic,Urban,10.0,1.0,4,Low,4086,5979,7970,49106,16,13,Negative,Not available,2,4,5,No,175009.0
+427,26.0,Other,68918.0,14,6,Eclectic,Urban,1.0,15.0,1,High,15860,5880,5067,21126,4,4,Neutral,Available,4,5,3,No,70045.0
+428,52.0,Female,19973.0,2,9,Contemporary,Suburban,8.0,13.0,2,Low,18013,1646,1257,20228,17,11,Negative,Not available,3,5,3,Yes,109136.0
+429,56.0,Male,76155.0,23,7,Modern,Suburban,3.0,5.0,4,Medium,8407,4826,5328,19595,9,18,Neutral,Scarce,1,1,2,No,197575.0
+430,,Male,64500.0,5,9,Modern,Urban,6.0,13.0,4,High,1774,611,395,1972,12,18,Positive,Not available,3,2,3,No,32428.0
+431,44.0,Male,41575.0,5,4,Minimalist,Urban,,,2,Medium,9709,1092,2454,1360,22,10,Negative,Scarce,5,5,1,No,137685.0
+432,48.0,Female,47261.0,19,2,Minimalist,Rural,2.0,,4,Medium,17311,7913,931,3632,19,17,Negative,Scarce,3,3,5,No,53343.0
+433,36.0,Female,32716.0,21,8,Contemporary,Urban,5.0,18.0,3,High,2343,8679,3984,36958,20,13,Positive,Available,3,4,3,No,78159.0
+434,59.0,Female,,12,4,Modern,Urban,1.0,10.0,4,Medium,11161,1738,2001,38716,12,14,Negative,Not available,4,1,3,Yes,106337.0
+435,57.0,Female,20848.0,18,9,Contemporary,Rural,,8.0,3,High,12419,6483,6345,16346,22,7,Positive,Available,4,3,4,No,196199.0
+436,57.0,Female,7352.0,4,4,Minimalist,Urban,7.0,,2,Medium,8797,3294,997,49322,6,10,Neutral,Not available,4,4,5,No,57088.0
+437,61.0,Other,6932.0,22,8,Minimalist,Suburban,3.0,4.0,1,High,1934,4098,331,19008,12,3,Neutral,Available,4,2,5,No,181095.0
+438,36.0,Male,81449.0,17,9,Eclectic,Suburban,4.0,2.0,2,Low,2986,4303,7960,13120,9,2,Negative,Available,4,3,3,No,34653.0
+439,,Male,13556.0,10,9,Contemporary,Rural,6.0,6.0,4,Low,15016,2026,6509,31283,20,19,Neutral,Available,3,4,1,Yes,82512.0
+440,25.0,Male,91836.0,20,4,Contemporary,Urban,3.0,3.0,3,Medium,6465,8409,5598,8818,5,7,Neutral,Not available,5,1,4,Yes,114122.0
+441,57.0,Male,,6,1,Modern,Suburban,7.0,7.0,1,Low,10966,2469,5174,6119,21,5,Positive,Available,4,4,1,Yes,20718.0
+442,64.0,Male,81118.0,14,3,Modern,Suburban,6.0,10.0,4,High,16721,9643,5862,31579,3,3,Neutral,Scarce,5,5,3,No,79877.0
+443,34.0,Male,55098.0,11,9,Eclectic,Suburban,9.0,,1,Medium,2505,2002,5311,46721,2,2,Neutral,Not available,5,1,5,No,59219.0
+444,53.0,Male,,11,4,Traditional,Suburban,5.0,16.0,1,Low,6363,4967,848,48668,8,6,Neutral,Scarce,2,3,5,Yes,118500.0
+445,37.0,Male,14569.0,18,5,Traditional,Urban,4.0,2.0,4,Low,16940,6907,2548,30837,10,14,Positive,Available,2,2,1,Yes,
+446,36.0,Other,61882.0,23,7,Traditional,Urban,3.0,17.0,2,Medium,11846,8801,2193,1975,15,7,Negative,Available,1,1,2,Yes,152368.0
+447,55.0,Male,75393.0,22,5,Contemporary,Urban,,,4,Low,2010,2854,6492,17265,9,2,Positive,Scarce,2,1,3,Yes,31285.0
+448,,Other,5340.0,18,4,Contemporary,Urban,1.0,1.0,4,Low,15924,5819,3134,5318,10,11,Negative,Available,4,1,5,Yes,57310.0
+449,59.0,Female,48949.0,23,2,Minimalist,Suburban,3.0,6.0,2,Medium,14482,725,7394,36081,11,3,Negative,Not available,5,4,2,Yes,129246.0
+450,47.0,Male,87302.0,11,2,Contemporary,Rural,3.0,5.0,3,Low,10369,3511,2003,42515,9,9,Neutral,Scarce,1,5,5,No,150206.0
+451,41.0,Female,67443.0,21,4,Contemporary,Rural,7.0,13.0,4,Low,4857,4626,6706,44069,14,8,Neutral,Not available,2,2,5,No,115545.0
+452,50.0,Female,96668.0,12,9,Contemporary,Suburban,7.0,18.0,1,Low,10864,1113,1456,48816,5,11,Positive,Not available,3,2,2,Yes,189714.0
+453,32.0,Female,79027.0,5,8,Eclectic,Suburban,1.0,12.0,4,Low,11120,598,6426,14134,9,18,Positive,Not available,1,5,1,No,99873.0
+454,53.0,Other,5138.0,23,3,Contemporary,Rural,3.0,7.0,4,Medium,12370,5958,6229,40432,4,1,Positive,Available,4,4,3,No,
+455,50.0,Female,5358.0,9,9,Modern,Rural,,15.0,1,High,3553,9502,643,47150,2,15,Neutral,Available,5,4,2,Yes,78179.0
+456,34.0,Female,,9,5,Modern,Suburban,9.0,3.0,2,High,16489,6416,5595,11841,19,4,Negative,Scarce,4,5,2,Yes,132185.0
+457,50.0,Female,90376.0,22,3,Minimalist,Suburban,7.0,16.0,3,Low,5389,3837,4372,27135,1,4,Positive,Scarce,4,5,5,No,13867.0
+458,58.0,Male,35654.0,10,5,Eclectic,Urban,7.0,1.0,3,Low,17935,3199,3762,13427,21,10,Negative,Not available,3,3,2,No,30577.0
+459,31.0,Male,30879.0,22,4,Modern,Urban,8.0,,1,High,12089,6417,6454,41251,1,11,Neutral,Available,3,4,3,No,164719.0
+460,28.0,Other,86532.0,19,8,Eclectic,Rural,6.0,12.0,2,Low,10231,8017,2548,35131,12,18,Neutral,Available,5,1,1,Yes,184966.0
+461,35.0,Other,,1,5,Eclectic,Suburban,3.0,19.0,4,High,4051,1519,1244,37727,11,15,Neutral,Available,2,2,1,No,96007.0
+462,53.0,Male,42772.0,7,8,Minimalist,Rural,1.0,8.0,4,Medium,6322,3525,5321,26165,1,3,Neutral,Scarce,4,4,1,Yes,149959.0
+463,60.0,Other,63478.0,4,9,Eclectic,Urban,7.0,12.0,4,Medium,12789,4028,4180,2749,14,7,Negative,Available,2,5,3,Yes,48314.0
+464,49.0,Male,,1,4,Contemporary,Urban,1.0,15.0,4,Medium,3555,4386,2350,34308,11,7,Negative,Not available,5,1,5,No,
+465,45.0,Female,31762.0,15,7,Eclectic,Rural,1.0,2.0,4,Medium,18473,6731,3585,8634,7,17,Positive,Not available,4,3,3,Yes,
+466,60.0,Female,,8,2,Minimalist,Urban,9.0,,1,Medium,13767,5682,3155,11614,2,16,Negative,Not available,2,3,2,Yes,
+467,34.0,Other,68922.0,12,6,Minimalist,Suburban,10.0,7.0,4,Medium,1458,6078,1630,25866,15,16,Negative,Available,4,1,4,Yes,191423.0
+468,61.0,Male,44420.0,22,8,Minimalist,Rural,7.0,13.0,4,High,16701,7229,2303,11282,8,8,Negative,Not available,3,1,4,No,93231.0
+469,33.0,Male,60568.0,22,7,Modern,Suburban,,,2,Low,17066,7461,3915,21319,22,3,Positive,Not available,3,5,4,No,126696.0
+470,48.0,Other,90090.0,18,7,Contemporary,Suburban,6.0,6.0,4,High,5721,6513,7003,37726,20,15,Negative,Scarce,1,5,1,No,6794.0
+471,59.0,Male,,15,8,Modern,Urban,1.0,13.0,3,Medium,13446,1296,7794,16412,15,1,Negative,Scarce,5,2,3,Yes,131142.0
+472,59.0,Female,62169.0,17,7,Traditional,Suburban,7.0,11.0,1,Low,7304,2457,2087,37627,8,10,Negative,Available,2,2,3,No,15721.0
+473,60.0,Other,79965.0,14,5,Contemporary,Rural,6.0,10.0,1,Low,14565,3566,2546,9050,10,2,Neutral,Available,4,3,1,Yes,195358.0
+474,42.0,Other,51840.0,14,7,Eclectic,Suburban,4.0,16.0,1,Medium,11199,3180,6335,25583,19,7,Negative,Available,1,1,2,No,10686.0
+475,63.0,Male,49695.0,18,3,Minimalist,Suburban,7.0,17.0,3,Medium,2920,4941,3972,19041,3,14,Positive,Available,5,3,4,Yes,183515.0
+476,56.0,Other,89754.0,20,5,Traditional,Suburban,3.0,17.0,4,Medium,14227,3448,6552,7185,20,16,Positive,Available,5,5,4,No,100003.0
+477,48.0,Male,82988.0,18,7,Contemporary,Suburban,1.0,,1,Medium,8694,4231,7758,21812,14,15,Positive,Scarce,5,4,1,No,67722.0
+478,47.0,Male,63342.0,16,9,Modern,Suburban,,5.0,3,Medium,7298,1601,2455,26832,9,7,Positive,Scarce,2,5,4,Yes,
+479,56.0,Male,23951.0,1,2,Minimalist,Urban,3.0,14.0,2,Medium,7629,5984,3779,18423,9,13,Neutral,Scarce,3,4,5,Yes,148960.0
+480,61.0,Male,,23,4,Modern,Rural,,10.0,4,Low,13719,9729,6995,48156,21,10,Positive,Not available,1,1,3,No,44348.0
+481,36.0,Male,85388.0,11,7,Contemporary,Urban,2.0,14.0,3,Medium,6146,4731,3320,42644,6,9,Neutral,Not available,2,1,4,No,18533.0
+482,37.0,Other,95768.0,15,1,Contemporary,Rural,5.0,1.0,4,Medium,18387,9483,351,37786,8,9,Neutral,Scarce,4,1,4,Yes,
+483,47.0,Female,40428.0,12,2,Traditional,Rural,,11.0,2,Low,11306,1481,2459,30665,11,6,Neutral,Scarce,2,2,5,No,66422.0
+484,49.0,Female,97021.0,8,9,Eclectic,Rural,1.0,18.0,3,High,3589,9957,4690,10989,8,12,Positive,Available,4,2,2,Yes,186597.0
+485,,Other,80774.0,22,7,Modern,Rural,,16.0,4,Medium,5310,5670,3951,19208,12,14,Positive,Scarce,4,4,2,Yes,139625.0
+486,54.0,Other,43975.0,20,7,Traditional,Rural,4.0,18.0,3,Low,3241,9435,7656,24054,10,7,Neutral,Available,5,3,5,Yes,123360.0
+487,41.0,Female,6140.0,6,6,Minimalist,Suburban,5.0,8.0,1,Low,14601,2931,4215,31477,23,8,Neutral,Scarce,2,3,2,Yes,13144.0
+488,44.0,Female,29842.0,3,3,Eclectic,Urban,7.0,,4,High,8711,9066,2412,31374,4,8,Positive,Available,3,4,1,Yes,
+489,49.0,Female,31421.0,13,3,Traditional,Urban,8.0,10.0,3,Medium,1938,6849,2921,42220,16,8,Negative,Scarce,4,2,5,Yes,96045.0
+490,46.0,Female,6708.0,13,2,Modern,Suburban,6.0,5.0,1,Medium,5301,4397,4860,4571,20,2,Negative,Available,5,5,3,Yes,196003.0
+491,37.0,Female,8630.0,2,6,Contemporary,Rural,1.0,10.0,2,Medium,4970,8048,6701,20576,6,14,Negative,Not available,3,4,3,Yes,
+492,43.0,Male,24595.0,5,4,Minimalist,Urban,7.0,18.0,4,Low,4999,2491,6065,10680,9,10,Positive,Not available,2,3,3,Yes,141509.0
+493,,Other,81021.0,17,5,Modern,Suburban,3.0,6.0,4,Medium,4408,3428,7447,26706,23,18,Positive,Available,3,4,4,Yes,95083.0
+494,36.0,Male,,6,3,Eclectic,Suburban,,3.0,2,Medium,14807,5930,5029,15318,5,18,Neutral,Available,2,4,5,Yes,168590.0
+495,43.0,Female,49789.0,2,6,Eclectic,Urban,8.0,8.0,1,Medium,9962,3946,1654,21659,21,18,Positive,Not available,4,1,5,Yes,28830.0
+496,36.0,Female,60690.0,4,3,Contemporary,Urban,7.0,9.0,2,Medium,17632,7275,5920,6029,6,16,Positive,Scarce,1,2,2,Yes,115581.0
+497,33.0,Female,31086.0,22,8,Contemporary,Rural,10.0,5.0,4,High,14385,9283,4054,49436,17,5,Positive,Available,1,1,5,Yes,79285.0
+498,31.0,Male,21859.0,11,9,Minimalist,Rural,6.0,,3,High,6950,5661,509,3774,17,5,Neutral,Scarce,4,2,5,Yes,51553.0
+499,52.0,Male,,8,4,Minimalist,Urban,9.0,2.0,1,High,3926,3069,6532,17972,22,10,Neutral,Not available,3,4,2,Yes,141987.0
+500,38.0,Female,96088.0,12,9,Contemporary,Rural,9.0,7.0,1,Medium,8975,3372,6471,15048,13,17,Negative,Not available,2,2,5,No,33695.0
+501,,Male,6207.0,8,7,Contemporary,Suburban,1.0,17.0,1,Medium,7966,9868,537,34372,17,13,Negative,Available,1,3,5,No,19703.0
+502,43.0,Male,,11,3,Eclectic,Rural,1.0,10.0,2,Low,10133,1835,635,44188,14,17,Positive,Scarce,2,1,1,Yes,157550.0
+503,40.0,Female,72496.0,22,7,Contemporary,Rural,1.0,12.0,2,Low,7587,5913,6506,42133,2,18,Positive,Not available,4,4,2,No,72918.0
+504,29.0,Male,71093.0,20,1,Traditional,Suburban,,2.0,3,Low,6091,612,4138,15689,19,13,Neutral,Scarce,3,3,1,No,35128.0
+505,59.0,Other,34689.0,8,3,Modern,Rural,,10.0,3,Medium,9985,4272,1876,17737,3,17,Negative,Not available,2,2,4,No,58250.0
+506,36.0,Other,53651.0,8,6,Contemporary,Suburban,7.0,,1,High,18061,5794,799,17014,2,15,Negative,Available,3,2,2,Yes,112777.0
+507,49.0,Other,18893.0,17,4,Minimalist,Rural,3.0,4.0,3,High,2561,2487,1864,22818,2,12,Negative,Scarce,1,3,5,Yes,42126.0
+508,45.0,Other,71418.0,20,7,Traditional,Urban,2.0,13.0,2,High,9644,5329,1090,34201,22,10,Positive,Scarce,2,2,5,Yes,111616.0
+509,60.0,Female,,20,3,Minimalist,Rural,4.0,,3,Medium,15785,2485,3840,12144,7,13,Positive,Available,5,1,1,No,51799.0
+510,,Female,43635.0,23,1,Traditional,Urban,3.0,11.0,2,High,4656,5591,7035,32001,4,11,Positive,Available,1,5,1,No,194320.0
+511,40.0,Female,,16,9,Contemporary,Urban,7.0,10.0,3,Low,17139,752,3422,1867,17,3,Neutral,Available,3,2,4,Yes,37907.0
+512,63.0,Other,83405.0,14,6,Modern,Urban,10.0,15.0,4,Low,1209,8815,1435,28182,6,10,Negative,Available,4,4,4,No,12644.0
+513,,Other,,11,8,Minimalist,Urban,8.0,5.0,2,High,5983,9928,4244,15340,7,11,Neutral,Not available,5,2,5,No,39583.0
+514,38.0,Male,83518.0,7,3,Traditional,Urban,6.0,17.0,4,Low,8141,1123,2648,12837,20,6,Negative,Scarce,2,4,3,Yes,59560.0
+515,55.0,Male,77805.0,16,8,Eclectic,Suburban,3.0,5.0,2,High,11118,3656,7557,48059,6,1,Positive,Not available,1,2,4,No,115634.0
+516,29.0,Other,63954.0,13,2,Contemporary,Suburban,6.0,2.0,3,High,17261,3889,4624,9787,9,6,Neutral,Available,2,2,5,No,151257.0
+517,59.0,Other,33064.0,15,4,Modern,Suburban,2.0,,4,Low,4966,3917,449,1393,20,5,Neutral,Not available,2,4,4,Yes,
+518,47.0,Other,84063.0,16,3,Contemporary,Urban,7.0,6.0,3,Low,11069,9958,6174,13056,4,7,Positive,Not available,5,1,2,No,46988.0
+519,53.0,Other,7454.0,21,1,Eclectic,Rural,10.0,18.0,2,Low,9818,3445,7605,44160,5,12,Negative,Scarce,5,5,1,Yes,146518.0
+520,35.0,Male,,23,7,Modern,Suburban,7.0,14.0,4,Low,11918,9852,3506,45957,19,12,Negative,Scarce,5,5,5,Yes,28162.0
+521,42.0,Other,56098.0,9,2,Eclectic,Rural,4.0,19.0,1,High,10650,9132,3828,29429,10,7,Negative,Scarce,5,1,4,Yes,150222.0
+522,36.0,Male,67154.0,3,4,Contemporary,Rural,8.0,14.0,3,Low,2250,2592,1924,46909,18,2,Negative,Available,4,2,1,Yes,177376.0
+523,33.0,Other,17991.0,19,9,Traditional,Urban,4.0,,2,Low,5758,3205,7961,32899,15,1,Positive,Available,3,5,3,Yes,100373.0
+524,34.0,Other,73344.0,20,6,Contemporary,Urban,7.0,17.0,4,Medium,5363,4259,2874,33221,1,18,Positive,Scarce,5,1,4,Yes,41003.0
+525,41.0,Other,41593.0,5,8,Contemporary,Urban,4.0,3.0,3,Low,3163,5612,4728,21754,5,12,Positive,Not available,1,1,5,Yes,
+526,62.0,Male,41304.0,10,2,Contemporary,Suburban,5.0,,4,Low,10815,1053,7829,45389,5,7,Positive,Scarce,2,5,2,No,71923.0
+527,31.0,Male,35386.0,17,7,Minimalist,Urban,7.0,17.0,3,High,2853,5404,4569,21905,8,19,Neutral,Available,5,4,1,Yes,137055.0
+528,37.0,Female,60220.0,15,6,Eclectic,Suburban,10.0,,3,High,18137,1612,3584,25083,22,3,Neutral,Not available,1,3,1,No,132310.0
+529,64.0,Other,74338.0,23,9,Eclectic,Suburban,3.0,8.0,3,Medium,2868,3277,5762,42098,22,10,Neutral,Available,4,4,2,No,52114.0
+530,33.0,Female,99289.0,8,7,Eclectic,Suburban,10.0,1.0,4,Low,17565,7597,2408,30621,22,11,Positive,Scarce,1,2,5,Yes,102687.0
+531,51.0,Female,26083.0,15,1,Minimalist,Suburban,,13.0,4,Low,18897,1814,4247,21577,20,5,Negative,Scarce,1,4,3,No,56274.0
+532,26.0,Male,23354.0,21,8,Traditional,Urban,3.0,4.0,3,Low,16568,3993,5480,37728,15,2,Neutral,Not available,4,3,2,Yes,24378.0
+533,29.0,Male,27190.0,14,3,Contemporary,Suburban,5.0,7.0,1,Low,10094,8790,5214,1663,17,8,Neutral,Scarce,4,3,3,Yes,12548.0
+534,53.0,Female,11142.0,20,2,Traditional,Urban,3.0,14.0,1,Low,6238,7973,6097,48301,19,14,Positive,Available,2,1,5,Yes,44621.0
+535,61.0,Other,33398.0,7,3,Minimalist,Urban,,5.0,1,Low,8089,7515,6967,20216,13,8,Negative,Available,5,2,4,Yes,91901.0
+536,62.0,Male,,21,6,Eclectic,Suburban,7.0,11.0,2,Medium,19940,6210,2563,48259,22,6,Negative,Available,1,1,4,Yes,120423.0
+537,43.0,Other,46862.0,23,3,Contemporary,Urban,1.0,17.0,1,Low,6280,1722,1912,10265,21,1,Negative,Not available,3,4,5,Yes,94673.0
+538,32.0,Other,58410.0,12,5,Modern,Rural,9.0,5.0,4,Low,5244,5083,4115,5574,10,1,Positive,Available,3,4,3,No,157603.0
+539,25.0,Female,24503.0,17,6,Modern,Urban,9.0,3.0,1,Low,3164,6020,5019,23755,17,8,Negative,Scarce,2,5,2,No,22870.0
+540,46.0,Female,53456.0,17,8,Traditional,Urban,5.0,5.0,4,Medium,16149,8372,877,32241,5,11,Neutral,Not available,3,1,5,No,185619.0
+541,41.0,Female,87035.0,10,7,Eclectic,Suburban,9.0,15.0,2,Low,15088,9696,7137,23676,18,18,Neutral,Available,2,1,5,No,50738.0
+542,,Female,13016.0,19,8,Modern,Suburban,10.0,,4,Medium,19405,9168,722,22561,17,10,Neutral,Available,5,1,4,No,72537.0
+543,49.0,Male,7384.0,14,3,Traditional,Urban,6.0,16.0,4,High,3821,5931,3063,25737,4,12,Positive,Scarce,2,1,2,Yes,150828.0
+544,28.0,Male,67320.0,11,4,Minimalist,Suburban,5.0,8.0,4,Low,11473,9827,7890,24390,22,16,Negative,Scarce,4,3,4,No,62707.0
+545,60.0,Female,20072.0,2,6,Traditional,Rural,3.0,13.0,1,Medium,14686,2205,5790,27076,7,5,Positive,Not available,4,5,3,Yes,176902.0
+546,30.0,Male,85018.0,18,7,Traditional,Rural,8.0,16.0,3,High,10762,1017,1529,6546,5,16,Negative,Available,4,2,3,Yes,146118.0
+547,55.0,Female,45510.0,7,9,Traditional,Suburban,4.0,3.0,4,Medium,6969,1720,7753,22280,8,12,Positive,Available,4,2,1,Yes,159724.0
+548,43.0,Other,53933.0,12,1,Contemporary,Urban,10.0,1.0,1,Medium,13178,3006,3476,33953,8,6,Neutral,Scarce,4,2,5,Yes,60029.0
+549,63.0,Other,26826.0,2,8,Traditional,Rural,3.0,9.0,1,High,7168,4825,1053,22037,11,5,Positive,Not available,4,3,2,Yes,41956.0
+550,51.0,Other,73026.0,20,8,Traditional,Rural,6.0,9.0,1,Low,18097,9883,5142,41576,9,1,Positive,Scarce,4,5,2,Yes,18886.0
+551,34.0,Female,,18,6,Contemporary,Urban,8.0,17.0,3,Low,15096,5979,987,29564,19,19,Positive,Scarce,4,5,4,Yes,91281.0
+552,50.0,Other,29045.0,6,4,Contemporary,Suburban,9.0,,3,Medium,8203,7936,1022,34597,19,10,Neutral,Not available,4,3,4,No,109653.0
+553,43.0,Male,,10,3,Minimalist,Rural,6.0,9.0,3,High,4545,3590,5962,20903,9,14,Positive,Available,5,1,2,Yes,167895.0
+554,63.0,Other,97446.0,20,3,Eclectic,Urban,5.0,19.0,3,Low,1863,6997,1046,31806,23,3,Positive,Available,4,4,4,Yes,175020.0
+555,27.0,Other,95102.0,15,6,Modern,Urban,2.0,13.0,2,Medium,17148,5668,4637,47328,20,6,Neutral,Available,2,1,1,No,149394.0
+556,37.0,Other,56919.0,5,8,Modern,Rural,2.0,5.0,3,High,18809,7493,7958,25392,17,5,Negative,Not available,5,2,5,No,116705.0
+557,52.0,Male,32103.0,20,7,Traditional,Suburban,9.0,9.0,3,Medium,19688,1473,3012,29087,16,17,Positive,Not available,3,1,1,Yes,120431.0
+558,44.0,Female,41188.0,3,1,Minimalist,Rural,2.0,13.0,3,High,1653,5777,1007,45288,7,18,Neutral,Not available,1,3,3,No,11162.0
+559,52.0,Male,10845.0,5,6,Traditional,Urban,2.0,1.0,4,Low,9129,8757,7965,45308,22,12,Positive,Not available,5,2,2,Yes,119227.0
+560,,Female,91698.0,8,7,Modern,Rural,3.0,15.0,4,Low,1443,6592,734,23293,3,5,Neutral,Not available,4,4,1,Yes,87293.0
+561,63.0,Female,41674.0,8,7,Contemporary,Suburban,,4.0,3,Medium,6106,3406,5176,11677,21,9,Negative,Scarce,5,2,1,Yes,141977.0
+562,25.0,Other,24337.0,8,9,Eclectic,Urban,4.0,4.0,2,Low,5436,1070,783,13803,19,12,Negative,Available,1,1,4,Yes,
+563,27.0,Female,27313.0,12,5,Minimalist,Suburban,7.0,10.0,4,Low,10472,807,3818,47656,8,9,Positive,Not available,1,5,4,No,131614.0
+564,,Male,31943.0,23,1,Contemporary,Rural,9.0,6.0,1,High,4039,4242,6827,47002,5,3,Neutral,Available,4,5,4,No,115580.0
+565,52.0,Male,82949.0,8,2,Eclectic,Rural,2.0,12.0,4,Low,9291,9474,1833,2225,6,1,Negative,Not available,4,5,3,No,62483.0
+566,49.0,Female,5276.0,11,4,Minimalist,Suburban,4.0,16.0,1,High,11278,1265,469,6774,2,15,Negative,Available,2,2,1,Yes,43457.0
+567,57.0,Other,56151.0,14,5,Minimalist,Rural,9.0,3.0,4,High,17285,9464,1320,14043,19,10,Neutral,Scarce,1,5,5,Yes,89940.0
+568,62.0,Other,22611.0,8,9,Modern,Suburban,2.0,,3,Medium,14944,8314,7393,17163,13,14,Positive,Available,4,3,4,No,151452.0
+569,30.0,Male,16944.0,10,1,Contemporary,Rural,10.0,,4,High,3737,8235,5264,3844,6,7,Negative,Available,1,4,3,No,151580.0
+570,56.0,Other,57887.0,7,3,Minimalist,Suburban,1.0,10.0,3,Low,2607,8536,6766,8347,6,4,Negative,Not available,2,5,3,Yes,24676.0
+571,45.0,Female,86442.0,17,5,Minimalist,Suburban,,15.0,3,High,3953,8096,1147,21804,2,5,Negative,Available,3,3,4,No,93796.0
+572,40.0,Female,54847.0,4,3,Eclectic,Urban,8.0,7.0,4,High,13173,1039,5893,37764,5,16,Positive,Scarce,1,3,2,No,77433.0
+573,45.0,Male,63653.0,13,4,Modern,Urban,9.0,4.0,1,Medium,6933,8485,7699,28246,11,3,Negative,Scarce,2,2,1,Yes,125026.0
+574,35.0,Female,91072.0,4,3,Traditional,Suburban,7.0,14.0,1,Low,12386,2549,995,43458,11,17,Neutral,Scarce,2,2,4,No,137636.0
+575,61.0,Male,61622.0,5,4,Modern,Rural,8.0,16.0,4,Low,16221,3783,6802,2688,14,13,Positive,Not available,2,4,5,Yes,149942.0
+576,60.0,Female,32810.0,22,1,Traditional,Rural,4.0,14.0,3,Low,5682,5175,3646,48055,13,6,Negative,Not available,5,4,1,No,19219.0
+577,59.0,Male,82842.0,4,8,Contemporary,Rural,4.0,3.0,1,High,15853,2163,4313,18251,8,5,Neutral,Not available,4,1,3,No,155952.0
+578,43.0,Other,15503.0,18,4,Contemporary,Suburban,2.0,17.0,2,Low,12284,6976,331,13504,15,16,Neutral,Not available,1,4,5,Yes,125082.0
+579,,Female,89761.0,6,7,Minimalist,Suburban,,14.0,3,Low,12154,9739,476,40720,12,11,Positive,Not available,5,2,1,Yes,146451.0
+580,42.0,Female,,23,2,Contemporary,Suburban,2.0,18.0,4,High,10047,3939,3264,28584,3,17,Neutral,Scarce,1,3,5,Yes,190366.0
+581,38.0,Male,16590.0,22,2,Minimalist,Suburban,,3.0,3,Medium,11338,9197,2412,45484,21,5,Positive,Available,5,1,3,Yes,7948.0
+582,39.0,Male,,2,6,Modern,Urban,4.0,,2,Medium,15323,7643,6470,49531,23,6,Positive,Scarce,4,4,4,Yes,
+583,55.0,Female,17866.0,23,2,Contemporary,Suburban,1.0,3.0,2,High,5925,3747,4186,39852,5,10,Positive,Not available,2,3,5,Yes,13969.0
+584,25.0,Male,71624.0,11,6,Modern,Rural,4.0,12.0,1,Medium,6783,4000,1802,14219,6,1,Neutral,Scarce,1,2,4,No,67805.0
+585,27.0,Female,73899.0,14,2,Modern,Urban,3.0,5.0,2,Medium,13343,2410,2615,43972,2,10,Positive,Available,2,5,3,No,25646.0
+586,40.0,Other,37792.0,5,4,Contemporary,Rural,6.0,10.0,3,Medium,10917,1232,2944,25815,8,17,Positive,Not available,4,1,3,Yes,196638.0
+587,47.0,Male,14764.0,6,7,Modern,Suburban,7.0,9.0,1,Low,11145,4013,7455,49865,5,3,Neutral,Scarce,1,3,5,Yes,60818.0
+588,35.0,Female,91156.0,10,8,Contemporary,Urban,8.0,1.0,2,Medium,7723,5109,365,25623,22,2,Positive,Scarce,3,2,5,Yes,199523.0
+589,36.0,Other,47727.0,8,3,Contemporary,Suburban,,13.0,1,Low,17568,4956,4528,37817,17,17,Negative,Available,3,2,3,No,8678.0
+590,34.0,Other,83471.0,14,9,Contemporary,Urban,6.0,3.0,1,Medium,17905,3835,2228,4457,2,4,Neutral,Not available,3,1,5,No,98055.0
+591,56.0,Female,,3,2,Traditional,Rural,6.0,19.0,4,Low,18632,8668,5311,28855,11,2,Neutral,Not available,4,1,5,No,
+592,40.0,Male,12295.0,12,8,Modern,Suburban,10.0,11.0,1,High,14349,7556,7833,37258,4,5,Neutral,Available,3,4,5,No,
+593,32.0,Female,46160.0,16,8,Eclectic,Suburban,5.0,16.0,1,High,2002,3253,6525,16470,11,10,Negative,Available,1,4,5,Yes,135395.0
+594,62.0,Other,16390.0,23,4,Contemporary,Urban,10.0,6.0,2,Medium,7266,1872,6312,49957,9,1,Positive,Available,3,1,1,No,123189.0
+595,36.0,Female,25131.0,17,1,Modern,Urban,10.0,3.0,3,Low,12330,3876,6250,46930,6,1,Neutral,Available,1,1,3,No,9014.0
+596,48.0,Male,99754.0,1,1,Minimalist,Suburban,7.0,19.0,3,High,15980,8981,7425,19281,2,4,Neutral,Not available,4,3,3,No,141179.0
+597,52.0,Other,,23,2,Contemporary,Urban,3.0,,2,High,8017,563,5747,12728,15,7,Neutral,Not available,2,4,2,Yes,107632.0
+598,,Female,20038.0,10,9,Contemporary,Suburban,,8.0,3,High,9585,4445,7565,46680,5,14,Negative,Scarce,5,2,4,No,42423.0
+599,52.0,Male,57327.0,23,2,Eclectic,Urban,10.0,13.0,1,High,17011,829,884,39723,12,14,Negative,Scarce,3,4,2,Yes,125015.0
+600,60.0,Other,98718.0,10,2,Traditional,Rural,9.0,12.0,4,Medium,19001,5358,6770,11162,13,18,Negative,Scarce,5,4,5,No,
+601,50.0,Male,82064.0,21,6,Traditional,Urban,,10.0,1,Low,18044,2463,6985,30272,17,2,Positive,Not available,2,1,5,No,108924.0
+602,32.0,Other,26281.0,2,7,Contemporary,Rural,3.0,3.0,1,High,6524,3588,5544,36488,4,1,Positive,Not available,4,1,1,No,112416.0
+603,,Female,59189.0,9,7,Modern,Urban,2.0,4.0,4,Medium,6250,640,6653,44341,10,16,Negative,Not available,4,4,1,Yes,37332.0
+604,52.0,Male,53511.0,22,9,Minimalist,Urban,5.0,,2,High,8512,5039,2048,12338,1,18,Positive,Scarce,2,5,1,No,110308.0
+605,61.0,Other,13605.0,13,6,Minimalist,Suburban,4.0,13.0,1,High,1319,2973,6576,23296,11,16,Negative,Available,5,5,1,No,170082.0
+606,60.0,Male,6381.0,16,8,Modern,Urban,8.0,,1,High,11416,6094,7970,12675,16,6,Positive,Available,3,4,1,Yes,93935.0
+607,51.0,Male,71634.0,18,6,Contemporary,Urban,7.0,11.0,2,High,4600,4403,2504,25070,11,10,Positive,Available,1,5,1,No,7661.0
+608,41.0,Female,24810.0,19,2,Minimalist,Rural,,19.0,1,Medium,6279,5864,3930,21080,9,2,Negative,Available,4,4,1,No,140870.0
+609,,Male,29322.0,12,1,Traditional,Urban,2.0,11.0,1,Low,19151,949,2192,48139,2,7,Neutral,Available,2,1,1,No,158401.0
+610,57.0,Other,46869.0,8,5,Modern,Suburban,3.0,12.0,3,Medium,16494,4946,7318,14936,7,17,Neutral,Not available,5,1,1,No,192132.0
+611,44.0,Other,37955.0,17,9,Eclectic,Rural,10.0,11.0,2,Medium,19182,5194,2729,11019,19,3,Positive,Scarce,3,1,3,No,30850.0
+612,37.0,Other,66388.0,15,8,Contemporary,Suburban,9.0,6.0,1,Medium,13398,5306,3393,42182,18,12,Positive,Available,5,2,1,Yes,139229.0
+613,52.0,Other,15207.0,10,4,Modern,Suburban,9.0,12.0,1,High,1282,1369,1273,2746,20,2,Positive,Available,3,1,4,No,42485.0
+614,53.0,Female,,15,5,Minimalist,Suburban,5.0,9.0,4,Low,15030,6579,4324,23768,7,7,Positive,Available,1,1,1,No,141408.0
+615,37.0,Male,72628.0,15,5,Contemporary,Suburban,3.0,10.0,4,High,16302,7807,2942,9325,23,17,Positive,Not available,1,4,5,Yes,121931.0
+616,59.0,Female,33220.0,23,6,Traditional,Rural,2.0,3.0,4,Medium,6166,4159,1742,45763,9,19,Positive,Available,2,5,5,Yes,47280.0
+617,30.0,Male,89050.0,7,3,Contemporary,Urban,,3.0,1,High,8121,4102,6915,5486,12,12,Negative,Scarce,2,5,1,No,188217.0
+618,42.0,Male,79085.0,13,5,Contemporary,Suburban,6.0,16.0,1,Low,15677,9084,4629,17485,3,9,Neutral,Not available,3,1,1,No,121779.0
+619,29.0,Male,27031.0,17,2,Traditional,Rural,10.0,3.0,4,Low,17373,9533,7015,15328,23,14,Neutral,Not available,3,1,5,No,118032.0
+620,49.0,Female,75721.0,9,1,Traditional,Suburban,7.0,10.0,3,High,5896,2948,1777,20112,22,2,Negative,Not available,3,1,4,Yes,
+621,26.0,Male,85807.0,8,1,Contemporary,Urban,1.0,11.0,3,Medium,17514,8092,5989,45001,16,4,Negative,Available,3,4,2,No,10209.0
+622,34.0,Female,76312.0,20,7,Traditional,Rural,1.0,8.0,3,High,2293,3453,1070,33280,7,19,Neutral,Available,1,4,3,Yes,66402.0
+623,54.0,Other,64766.0,21,2,Modern,Rural,10.0,6.0,3,Medium,7957,5631,7629,27576,23,16,Neutral,Available,2,4,5,Yes,12645.0
+624,29.0,Other,,18,4,Traditional,Urban,2.0,11.0,2,Low,17444,1858,6744,43528,5,17,Positive,Available,2,5,1,Yes,43508.0
+625,57.0,Male,94833.0,13,5,Traditional,Rural,,12.0,4,High,19595,9682,605,16702,23,2,Neutral,Scarce,4,2,3,No,107458.0
+626,25.0,Female,61699.0,16,7,Contemporary,Urban,3.0,,1,Low,10740,9730,301,22320,7,17,Positive,Not available,2,5,1,No,62822.0
+627,42.0,Other,86253.0,9,2,Modern,Rural,,18.0,4,Medium,13559,8719,570,19437,19,19,Positive,Available,2,4,2,No,105969.0
+628,56.0,Female,51092.0,12,6,Eclectic,Rural,,13.0,3,Medium,10973,887,4816,1193,17,8,Neutral,Scarce,5,3,2,Yes,142090.0
+629,35.0,Female,68671.0,12,1,Eclectic,Urban,3.0,3.0,1,High,7276,1332,3514,26317,16,6,Positive,Not available,5,2,5,No,186980.0
+630,45.0,Male,15350.0,6,7,Minimalist,Urban,1.0,,2,High,9152,8941,7143,29482,21,12,Positive,Not available,4,1,3,No,162446.0
+631,50.0,Other,73487.0,19,9,Traditional,Rural,8.0,14.0,4,High,8973,4693,1163,20343,21,18,Negative,Not available,3,5,3,Yes,141785.0
+632,49.0,Male,22622.0,7,5,Traditional,Rural,6.0,18.0,1,Low,16333,2338,6272,30144,19,2,Neutral,Available,4,2,2,Yes,116375.0
+633,46.0,Male,75263.0,3,5,Modern,Urban,9.0,14.0,1,Medium,1037,1391,7403,12612,18,19,Negative,Not available,4,3,1,Yes,100608.0
+634,51.0,Other,58117.0,16,4,Eclectic,Urban,,5.0,3,Medium,6990,6088,7437,20307,19,10,Positive,Available,1,2,5,Yes,101856.0
+635,37.0,Other,,18,3,Minimalist,Rural,9.0,14.0,3,Low,6438,1805,5405,20623,4,3,Positive,Scarce,2,5,4,Yes,118631.0
+636,57.0,Female,28782.0,16,9,Modern,Rural,9.0,,4,High,16735,5783,7322,21249,1,12,Negative,Not available,1,4,2,No,6026.0
+637,58.0,Other,33454.0,23,5,Traditional,Rural,1.0,15.0,2,High,11856,5048,3039,9229,4,16,Negative,Scarce,2,1,2,Yes,75009.0
+638,59.0,Female,72904.0,7,8,Eclectic,Urban,,15.0,1,Low,1473,4692,3214,27274,4,12,Negative,Available,4,4,5,No,187178.0
+639,25.0,Female,20592.0,4,9,Minimalist,Rural,6.0,19.0,3,Medium,1058,6952,5456,38334,9,8,Positive,Available,2,4,1,Yes,
+640,45.0,Female,27173.0,8,5,Contemporary,Suburban,8.0,6.0,4,Medium,3636,8953,406,7595,8,5,Neutral,Available,3,5,3,No,87506.0
+641,,Other,38204.0,13,9,Eclectic,Urban,,19.0,3,Medium,15834,2840,7764,29602,2,11,Positive,Not available,3,4,2,No,99564.0
+642,52.0,Male,40596.0,13,2,Minimalist,Rural,5.0,,4,Medium,16577,2293,6244,39377,23,10,Negative,Not available,4,4,5,Yes,38452.0
+643,,Female,39324.0,17,9,Modern,Urban,9.0,6.0,3,Low,19998,6894,3468,38876,6,3,Neutral,Scarce,5,5,5,Yes,
+644,,Male,66202.0,17,4,Contemporary,Suburban,6.0,15.0,2,Medium,8296,824,6724,35551,23,9,Negative,Available,3,5,5,No,85729.0
+645,55.0,Male,94400.0,5,6,Minimalist,Urban,7.0,3.0,1,Low,13670,9677,5529,43926,11,12,Positive,Scarce,4,3,3,Yes,98602.0
+646,29.0,Other,,6,6,Minimalist,Rural,7.0,10.0,3,High,10725,8348,4944,25678,4,6,Neutral,Available,1,4,2,Yes,
+647,62.0,Male,81112.0,19,6,Traditional,Suburban,4.0,15.0,1,Low,3674,8614,2899,23214,14,19,Neutral,Available,5,2,5,Yes,39064.0
+648,27.0,Male,21566.0,13,2,Eclectic,Suburban,4.0,16.0,4,Medium,16796,7144,6016,39599,21,16,Positive,Scarce,3,1,3,Yes,170365.0
+649,47.0,Other,12190.0,14,7,Traditional,Rural,,17.0,2,High,12065,5282,6233,33809,22,14,Negative,Available,4,1,1,Yes,48042.0
+650,61.0,Female,93607.0,22,6,Contemporary,Rural,5.0,19.0,1,Low,12026,3637,2535,44954,9,4,Negative,Scarce,4,5,4,Yes,110454.0
+651,61.0,Male,43333.0,4,1,Minimalist,Rural,5.0,11.0,3,Low,3076,4398,3099,28794,2,18,Negative,Not available,1,5,2,Yes,143864.0
+652,34.0,Other,,7,2,Traditional,Urban,8.0,16.0,1,Low,5787,1335,7313,23593,1,10,Positive,Scarce,1,3,3,Yes,142676.0
+653,34.0,Male,94571.0,8,7,Eclectic,Urban,9.0,5.0,1,High,8494,4654,1811,29864,4,18,Negative,Scarce,5,4,4,No,
+654,43.0,Male,,13,1,Contemporary,Urban,2.0,5.0,4,Low,3581,3278,5773,45329,12,12,Neutral,Available,3,5,4,No,43557.0
+655,41.0,Female,30235.0,6,1,Modern,Rural,7.0,14.0,2,Medium,16600,6909,318,43636,5,19,Negative,Scarce,4,5,3,Yes,12420.0
+656,45.0,Male,5159.0,6,1,Traditional,Rural,1.0,18.0,2,High,15333,4813,1158,4689,9,8,Negative,Not available,5,1,3,Yes,
+657,38.0,Other,17145.0,21,8,Contemporary,Urban,1.0,8.0,1,High,11404,6146,1716,41363,22,1,Neutral,Not available,5,4,3,No,198023.0
+658,33.0,Male,85909.0,3,4,Modern,Suburban,4.0,5.0,1,Low,12166,8108,5680,15687,4,14,Neutral,Not available,1,3,5,Yes,28018.0
+659,,Female,36921.0,3,4,Traditional,Urban,10.0,7.0,4,Medium,1932,4221,3332,21381,16,6,Negative,Not available,4,5,1,Yes,130200.0
+660,37.0,Female,21237.0,13,2,Contemporary,Suburban,,16.0,1,High,19047,8411,4805,34093,2,14,Neutral,Scarce,2,5,5,Yes,68076.0
+661,28.0,Other,13244.0,22,1,Contemporary,Rural,,,4,Low,9748,2171,1726,24589,16,2,Positive,Not available,1,5,4,Yes,10108.0
+662,25.0,Female,,2,9,Traditional,Rural,2.0,,2,Medium,16577,1416,6089,2120,16,9,Neutral,Scarce,4,1,4,No,97686.0
+663,64.0,Male,,16,7,Contemporary,Urban,1.0,,2,Low,16015,6088,2831,17491,21,12,Positive,Scarce,5,5,4,Yes,75783.0
+664,56.0,Female,89227.0,22,4,Minimalist,Urban,10.0,4.0,4,Low,17108,9609,7771,44638,22,5,Neutral,Available,5,5,3,No,78937.0
+665,58.0,Other,,6,6,Traditional,Rural,2.0,4.0,1,High,2104,9825,5019,40062,11,2,Positive,Scarce,3,1,2,Yes,153079.0
+666,,Female,76126.0,8,2,Contemporary,Urban,7.0,16.0,2,High,18654,6996,5051,6193,1,19,Positive,Scarce,2,5,5,No,146069.0
+667,55.0,Female,61071.0,23,7,Modern,Rural,9.0,17.0,3,Low,13936,2336,5163,24608,15,7,Negative,Available,1,4,2,No,10261.0
+668,32.0,Female,76121.0,8,2,Modern,Rural,6.0,15.0,4,High,10601,2638,4338,16213,4,7,Neutral,Not available,3,4,1,No,76520.0
+669,,Other,79763.0,6,8,Minimalist,Suburban,10.0,4.0,2,High,4646,4507,4413,49379,18,10,Neutral,Not available,3,1,1,Yes,25926.0
+670,50.0,Female,98814.0,14,8,Traditional,Urban,2.0,6.0,2,Medium,15960,2405,2531,15230,17,17,Neutral,Scarce,2,4,5,Yes,153216.0
+671,58.0,Female,,3,1,Contemporary,Rural,10.0,16.0,2,Medium,15878,4489,2752,19423,7,14,Positive,Available,1,3,4,Yes,161975.0
+672,27.0,Male,20649.0,10,8,Contemporary,Urban,10.0,4.0,3,Low,19438,3985,3146,18187,18,11,Negative,Scarce,1,5,1,No,137249.0
+673,36.0,Other,,3,2,Modern,Suburban,9.0,6.0,3,Low,10145,5297,3502,11040,13,6,Neutral,Scarce,5,3,2,Yes,65952.0
+674,25.0,Female,78463.0,12,6,Minimalist,Suburban,7.0,5.0,3,Low,19226,3232,6922,1766,20,8,Negative,Not available,1,4,2,Yes,145240.0
+675,29.0,Other,50409.0,17,1,Modern,Urban,1.0,16.0,1,Low,3802,8214,2116,30949,20,19,Negative,Available,3,1,3,No,122180.0
+676,,Female,53766.0,5,5,Modern,Urban,9.0,16.0,4,Medium,17365,1821,2080,47464,10,19,Positive,Scarce,5,1,4,Yes,138461.0
+677,54.0,Female,51154.0,20,7,Minimalist,Rural,,10.0,1,High,7105,3854,4403,4527,1,17,Neutral,Not available,1,3,3,No,11364.0
+678,41.0,Female,12016.0,9,1,Traditional,Suburban,,9.0,3,Medium,19944,7601,1004,12021,2,18,Negative,Scarce,2,4,5,Yes,134133.0
+679,47.0,Male,84563.0,21,2,Contemporary,Suburban,9.0,4.0,4,Low,3749,5243,1641,18872,17,12,Neutral,Not available,3,5,1,No,32033.0
+680,39.0,Male,53688.0,20,7,Traditional,Suburban,4.0,14.0,1,Low,17974,9451,3762,37897,22,9,Neutral,Available,4,4,3,No,53545.0
+681,,Male,94678.0,7,6,Eclectic,Urban,3.0,4.0,1,Medium,18752,7514,3890,12758,3,16,Neutral,Scarce,2,4,3,No,16865.0
+682,45.0,Other,59238.0,22,3,Eclectic,Rural,1.0,,1,Medium,11181,3912,1459,19757,17,18,Negative,Available,2,1,5,No,23936.0
+683,,Other,63608.0,4,2,Eclectic,Urban,7.0,10.0,3,Low,2361,8325,4926,26412,12,16,Positive,Not available,1,2,2,No,82863.0
+684,26.0,Male,94081.0,13,4,Minimalist,Urban,6.0,4.0,2,High,4773,1857,7356,15312,12,16,Positive,Available,5,5,2,No,102788.0
+685,35.0,Other,36897.0,13,3,Modern,Urban,,18.0,4,Low,14495,3981,4022,23119,20,4,Negative,Available,5,5,5,No,
+686,63.0,Female,55961.0,10,7,Traditional,Rural,4.0,13.0,3,Medium,3064,9640,3738,12804,10,7,Neutral,Available,3,1,2,Yes,139813.0
+687,62.0,Female,73703.0,18,8,Contemporary,Urban,6.0,13.0,4,Low,19799,2266,3860,47545,7,1,Neutral,Scarce,1,4,5,No,110589.0
+688,58.0,Female,49757.0,17,2,Eclectic,Suburban,6.0,14.0,3,Low,6616,8719,7132,11983,10,1,Positive,Not available,5,1,2,Yes,94537.0
+689,62.0,Male,31917.0,20,7,Traditional,Suburban,4.0,18.0,1,High,8975,7663,3382,30999,18,8,Negative,Available,4,4,5,Yes,139911.0
+690,58.0,Other,,20,8,Eclectic,Suburban,6.0,1.0,1,Low,11960,2970,6417,31557,22,8,Negative,Scarce,1,2,2,Yes,110885.0
+691,42.0,Male,32990.0,13,6,Eclectic,Rural,10.0,,2,Low,16324,659,6996,40758,6,10,Positive,Not available,1,2,3,No,24139.0
+692,,Other,67551.0,17,6,Contemporary,Urban,8.0,15.0,2,Low,7243,3392,6889,29788,7,1,Negative,Not available,5,3,3,Yes,182977.0
+693,39.0,Female,63161.0,22,1,Minimalist,Rural,3.0,5.0,4,Medium,10560,5826,7581,32950,17,14,Negative,Not available,2,4,2,No,57749.0
+694,51.0,Male,84623.0,4,4,Modern,Urban,4.0,6.0,2,Medium,15684,4613,2015,4983,12,14,Positive,Available,1,1,5,Yes,30036.0
+695,58.0,Other,27440.0,1,1,Minimalist,Suburban,10.0,6.0,2,High,9330,8249,7149,4768,17,10,Positive,Available,2,1,3,No,108541.0
+696,62.0,Other,40205.0,1,4,Traditional,Urban,1.0,,4,Low,5923,8298,2543,2504,18,19,Negative,Available,3,1,1,No,181344.0
+697,57.0,Female,85811.0,15,2,Minimalist,Urban,4.0,16.0,3,Medium,7467,5499,7303,3450,14,16,Negative,Not available,3,3,2,Yes,137812.0
+698,48.0,Male,,13,5,Traditional,Urban,10.0,12.0,2,High,7076,2070,2060,12236,11,9,Positive,Not available,5,5,1,No,63788.0
+699,39.0,Male,75812.0,17,9,Traditional,Rural,10.0,4.0,3,Low,9001,9528,5742,9002,2,16,Positive,Available,3,1,1,Yes,36611.0
+700,54.0,Male,46627.0,8,3,Modern,Urban,9.0,1.0,1,High,16303,3905,4307,10891,21,8,Neutral,Available,5,2,4,No,167181.0
+701,41.0,Female,24008.0,18,8,Contemporary,Urban,8.0,4.0,2,High,18699,6027,2096,39787,1,7,Negative,Not available,5,1,1,No,24481.0
+702,29.0,Male,,13,3,Modern,Urban,4.0,1.0,1,High,17457,6348,7979,14898,11,11,Negative,Not available,2,1,1,Yes,
+703,53.0,Female,37402.0,23,6,Minimalist,Rural,7.0,8.0,1,High,9675,7317,2975,11472,2,6,Positive,Scarce,2,1,4,No,189693.0
+704,28.0,Female,58384.0,14,4,Traditional,Rural,10.0,5.0,3,High,13303,2127,7424,16264,16,15,Positive,Scarce,3,5,4,Yes,157455.0
+705,34.0,Female,10793.0,8,8,Eclectic,Rural,3.0,2.0,4,High,18933,6643,6081,18691,22,19,Neutral,Available,2,1,4,Yes,
+706,41.0,Other,10571.0,8,6,Eclectic,Urban,9.0,12.0,2,High,18743,8896,7073,44487,3,14,Neutral,Not available,1,5,5,Yes,175406.0
+707,34.0,Male,,15,8,Traditional,Suburban,10.0,17.0,3,Low,16128,7058,3536,33632,20,15,Positive,Not available,4,5,4,No,28728.0
+708,41.0,Male,95930.0,13,1,Modern,Suburban,4.0,7.0,4,Low,19280,5772,7719,34743,1,6,Negative,Scarce,1,3,5,Yes,104156.0
+709,44.0,Female,,7,6,Contemporary,Suburban,2.0,11.0,1,High,7659,8381,6198,44016,21,10,Neutral,Not available,1,2,2,Yes,166514.0
+710,48.0,Female,96218.0,5,1,Modern,Urban,10.0,4.0,2,Low,6246,9483,343,14002,20,14,Positive,Available,5,1,5,Yes,91846.0
+711,29.0,Male,7224.0,17,1,Traditional,Suburban,5.0,,1,High,7967,4247,7937,47981,8,16,Positive,Scarce,4,1,2,Yes,47521.0
+712,58.0,Female,53695.0,16,8,Traditional,Suburban,2.0,6.0,1,Low,7661,9797,788,44386,19,13,Positive,Not available,5,1,4,No,69777.0
+713,30.0,Male,37441.0,23,7,Contemporary,Suburban,10.0,11.0,2,Medium,13416,9782,4576,29250,1,11,Negative,Not available,2,5,4,No,148209.0
+714,26.0,Other,44129.0,2,3,Minimalist,Urban,6.0,1.0,4,High,1510,2107,3448,44388,5,3,Positive,Available,2,4,2,Yes,179708.0
+715,37.0,Female,67368.0,22,6,Minimalist,Suburban,10.0,10.0,4,Medium,9614,5574,6817,22323,1,8,Positive,Not available,4,2,3,Yes,150977.0
+716,35.0,Male,97122.0,18,9,Contemporary,Suburban,1.0,11.0,2,High,3432,7653,5023,4733,11,3,Negative,Scarce,3,1,5,Yes,92309.0
+717,,Female,49760.0,17,7,Minimalist,Urban,6.0,17.0,2,High,2906,7233,1256,42319,21,2,Positive,Scarce,2,4,1,Yes,35024.0
+718,40.0,Male,28478.0,7,3,Eclectic,Rural,4.0,,3,Medium,16554,566,2414,3223,9,14,Positive,Not available,1,4,4,Yes,
+719,55.0,Male,76854.0,13,6,Minimalist,Suburban,3.0,13.0,3,Medium,17448,8500,5944,17868,5,15,Neutral,Not available,4,4,5,Yes,152577.0
+720,,Female,,18,4,Minimalist,Rural,2.0,18.0,1,Medium,5928,8145,1415,35196,2,3,Positive,Not available,4,2,5,No,135225.0
+721,40.0,Other,90716.0,14,3,Minimalist,Suburban,7.0,16.0,2,High,5710,9970,2081,3080,13,1,Negative,Not available,2,4,4,Yes,66071.0
+722,32.0,Male,17180.0,18,9,Eclectic,Urban,9.0,2.0,4,Medium,12540,4658,3126,14776,18,15,Neutral,Scarce,2,1,2,Yes,144570.0
+723,28.0,Male,20372.0,13,2,Minimalist,Rural,3.0,5.0,1,Medium,7124,9505,950,1695,12,2,Positive,Available,5,1,4,Yes,82710.0
+724,64.0,Male,34796.0,11,1,Eclectic,Rural,6.0,,1,Low,8837,902,2176,33969,14,18,Negative,Scarce,5,3,5,Yes,63456.0
+725,28.0,Other,63272.0,21,2,Contemporary,Rural,9.0,3.0,1,Low,16583,8425,5663,13049,5,1,Positive,Not available,1,5,3,Yes,165805.0
+726,49.0,Other,94963.0,21,7,Modern,Rural,2.0,,1,Medium,18184,4666,640,16628,10,9,Neutral,Not available,4,4,2,Yes,
+727,,Female,98635.0,16,1,Contemporary,Suburban,7.0,16.0,4,Medium,7109,3425,3250,9265,20,3,Negative,Scarce,3,5,4,No,62158.0
+728,56.0,Other,59040.0,23,6,Modern,Suburban,5.0,6.0,1,Medium,10909,3493,6204,25671,2,2,Neutral,Scarce,3,5,1,No,128225.0
+729,,Female,,17,7,Contemporary,Rural,,19.0,2,Medium,7659,9778,3675,13460,4,4,Negative,Not available,4,5,4,Yes,135299.0
+730,51.0,Female,76368.0,8,9,Modern,Suburban,7.0,7.0,3,Low,2238,1271,2745,4477,12,16,Negative,Scarce,1,5,5,No,8911.0
+731,53.0,Other,,19,8,Modern,Rural,9.0,18.0,4,High,16064,7871,3050,3202,11,1,Positive,Not available,5,5,5,Yes,185177.0
+732,56.0,Female,21211.0,20,6,Traditional,Rural,4.0,14.0,2,Medium,6620,6213,7915,49310,4,9,Negative,Scarce,5,1,1,No,78876.0
+733,43.0,Other,10842.0,15,3,Modern,Urban,9.0,6.0,2,Medium,2486,8667,2444,24874,11,8,Negative,Not available,5,2,2,Yes,172744.0
+734,45.0,Female,68115.0,9,8,Modern,Rural,10.0,,2,Low,5681,2056,1654,48392,9,6,Positive,Scarce,3,4,5,Yes,75412.0
+735,29.0,Other,71852.0,20,7,Traditional,Suburban,9.0,15.0,3,Medium,12490,1651,3576,42217,10,18,Negative,Not available,3,4,2,Yes,68804.0
+736,42.0,Other,50968.0,10,3,Minimalist,Rural,4.0,15.0,3,Medium,5470,5814,748,12850,6,16,Negative,Available,1,1,2,No,66727.0
+737,52.0,Female,22508.0,12,9,Minimalist,Urban,3.0,15.0,3,Low,12723,1717,5837,40085,15,8,Negative,Available,3,1,4,No,11440.0
+738,46.0,Male,27005.0,21,2,Traditional,Suburban,2.0,,2,Medium,14888,4444,4472,21809,10,4,Negative,Scarce,2,5,2,Yes,151823.0
+739,45.0,Female,59575.0,23,3,Eclectic,Urban,,1.0,3,Medium,8177,8539,5291,6350,22,3,Positive,Available,3,2,5,Yes,148802.0
+740,,Other,85742.0,20,2,Modern,Urban,2.0,,1,Low,14201,2542,4944,3806,21,15,Positive,Not available,5,4,5,No,69792.0
+741,25.0,Male,,1,1,Modern,Rural,6.0,5.0,3,High,6441,6803,1097,8163,6,6,Neutral,Scarce,1,3,3,Yes,157452.0
+742,29.0,Female,30599.0,20,4,Traditional,Urban,5.0,5.0,4,Medium,19224,9397,3796,29832,1,1,Negative,Scarce,4,1,2,Yes,33972.0
+743,36.0,Female,,9,5,Traditional,Urban,5.0,6.0,2,Medium,12719,3169,5848,1185,21,18,Positive,Not available,4,3,3,Yes,69385.0
+744,,Female,71914.0,22,6,Eclectic,Suburban,4.0,2.0,2,High,6397,2613,5904,41838,22,11,Negative,Not available,1,4,4,No,126257.0
+745,58.0,Male,72055.0,15,5,Minimalist,Urban,6.0,6.0,1,Low,2621,3477,5210,25718,20,3,Positive,Not available,2,1,3,No,173185.0
+746,38.0,Other,92697.0,1,1,Contemporary,Rural,5.0,14.0,3,High,18945,4878,7465,12545,21,13,Neutral,Scarce,4,4,2,Yes,146221.0
+747,50.0,Female,10355.0,12,3,Minimalist,Rural,4.0,11.0,3,Medium,18800,7727,2482,26215,4,17,Negative,Not available,5,1,5,Yes,60014.0
+748,51.0,Female,59120.0,3,1,Modern,Rural,9.0,4.0,4,High,5190,6761,7097,29325,23,18,Neutral,Available,4,4,4,No,43402.0
+749,33.0,Female,79619.0,11,5,Traditional,Urban,6.0,9.0,1,Low,6054,922,7721,19458,22,14,Neutral,Scarce,4,3,2,Yes,130679.0
+750,50.0,Female,43342.0,2,5,Eclectic,Suburban,10.0,3.0,4,Medium,2130,9222,5979,17006,14,7,Neutral,Not available,5,2,4,Yes,87917.0
+751,,Female,90992.0,16,6,Minimalist,Rural,,16.0,4,Low,15071,590,3626,29544,20,7,Positive,Scarce,3,1,1,Yes,
+752,,Other,,9,8,Eclectic,Urban,10.0,11.0,2,Low,12936,3872,945,33969,22,14,Negative,Available,2,3,2,Yes,102895.0
+753,41.0,Other,7257.0,15,1,Minimalist,Rural,3.0,4.0,2,High,3118,6536,6221,12284,20,15,Positive,Available,5,4,1,No,136315.0
+754,50.0,Female,32364.0,12,4,Modern,Rural,10.0,,3,High,1663,2442,1019,39478,8,12,Positive,Not available,5,3,3,Yes,127655.0
+755,60.0,Male,29972.0,1,1,Contemporary,Suburban,6.0,16.0,3,Low,16735,4305,1822,28655,11,12,Negative,Scarce,1,1,2,Yes,138486.0
+756,25.0,Other,31654.0,13,9,Eclectic,Rural,1.0,19.0,4,Low,10763,9932,7056,30143,15,8,Negative,Not available,2,3,1,Yes,139928.0
+757,32.0,Male,85769.0,14,7,Eclectic,Suburban,5.0,16.0,3,Medium,18907,597,6927,16698,19,16,Negative,Scarce,3,4,5,No,76799.0
+758,59.0,Other,86423.0,8,7,Contemporary,Urban,,,4,Low,9053,1979,1369,35870,8,9,Negative,Not available,5,5,3,No,127626.0
+759,39.0,Female,34320.0,8,5,Eclectic,Rural,6.0,8.0,3,Low,18371,5126,5862,10102,13,2,Positive,Not available,3,2,2,No,135551.0
+760,46.0,Other,25808.0,12,7,Eclectic,Urban,,1.0,3,High,4845,5647,5043,2571,18,14,Negative,Scarce,5,2,2,Yes,63949.0
+761,38.0,Female,57389.0,1,2,Minimalist,Urban,,9.0,2,Low,14496,4147,5187,38893,22,16,Negative,Scarce,5,5,5,Yes,46392.0
+762,50.0,Other,39773.0,11,4,Minimalist,Urban,3.0,12.0,2,Low,7301,5943,4974,40465,17,5,Negative,Available,1,1,5,Yes,
+763,52.0,Female,56168.0,8,7,Contemporary,Rural,2.0,8.0,2,High,12885,579,3375,22553,6,5,Neutral,Available,4,3,1,No,149844.0
+764,47.0,Female,32747.0,10,3,Modern,Suburban,4.0,17.0,2,Medium,17482,6077,4107,19543,15,18,Negative,Scarce,2,3,1,No,163454.0
+765,38.0,Female,81396.0,19,2,Eclectic,Rural,8.0,10.0,1,High,3288,2723,6444,29901,13,18,Negative,Available,1,5,1,Yes,89944.0
+766,48.0,Female,88692.0,11,2,Modern,Urban,8.0,7.0,2,High,8796,3069,3661,15034,18,5,Positive,Available,3,5,4,Yes,129052.0
+767,26.0,Male,62505.0,7,1,Contemporary,Suburban,3.0,19.0,1,Low,8263,5018,2456,28120,11,11,Neutral,Scarce,5,4,3,No,
+768,50.0,Female,90896.0,11,5,Contemporary,Urban,4.0,6.0,2,Low,13777,1623,4855,2329,13,13,Positive,Scarce,5,4,2,Yes,159463.0
+769,38.0,Male,23135.0,17,6,Minimalist,Suburban,3.0,19.0,3,Medium,9770,3123,2613,42420,1,3,Neutral,Scarce,2,2,3,Yes,90376.0
+770,,Male,95887.0,1,6,Eclectic,Rural,10.0,18.0,4,Low,8385,1903,5557,26382,18,17,Positive,Not available,1,1,5,Yes,173037.0
+771,27.0,Female,52377.0,21,9,Traditional,Suburban,2.0,15.0,3,Medium,15862,3078,3805,4699,5,18,Positive,Scarce,1,1,3,No,109128.0
+772,47.0,Male,28554.0,21,4,Contemporary,Rural,,2.0,3,Medium,9464,831,4439,39795,6,14,Negative,Scarce,3,5,3,Yes,17097.0
+773,42.0,Other,67491.0,8,1,Eclectic,Urban,6.0,14.0,1,Medium,5881,7985,7329,11667,1,12,Negative,Scarce,1,2,1,No,
+774,62.0,Female,60621.0,23,6,Modern,Suburban,5.0,10.0,2,Medium,17018,1239,5929,38591,7,14,Neutral,Available,1,2,5,Yes,154911.0
+775,59.0,Male,63283.0,6,5,Minimalist,Urban,3.0,16.0,4,Low,16691,8733,7387,43115,4,18,Neutral,Scarce,4,4,3,No,127202.0
+776,39.0,Female,90140.0,22,6,Modern,Suburban,2.0,7.0,4,High,10367,5480,5378,24459,9,2,Neutral,Available,2,3,2,No,42693.0
+777,49.0,Female,21923.0,18,3,Contemporary,Rural,9.0,8.0,2,High,1413,4378,6705,7959,15,7,Negative,Not available,1,1,1,No,56988.0
+778,61.0,Female,,6,2,Contemporary,Suburban,1.0,10.0,1,Low,18934,2449,7171,30581,6,15,Positive,Scarce,3,2,3,Yes,
+779,52.0,Male,67261.0,5,6,Modern,Suburban,9.0,,1,Low,15714,3960,932,47384,17,10,Neutral,Scarce,5,4,5,Yes,130476.0
+780,34.0,Other,59336.0,13,1,Contemporary,Rural,1.0,8.0,1,Medium,8141,2628,2499,7210,20,15,Negative,Available,1,4,2,Yes,132266.0
+781,63.0,Other,79083.0,19,7,Eclectic,Rural,,,4,Low,14182,4997,6656,13517,18,17,Negative,Not available,1,4,5,No,138541.0
+782,41.0,Male,65948.0,22,7,Contemporary,Rural,6.0,12.0,1,High,17225,2654,3363,13620,22,11,Positive,Scarce,5,3,5,No,148540.0
+783,63.0,Female,38002.0,8,7,Minimalist,Suburban,7.0,8.0,1,Low,2946,5730,5653,37744,4,2,Positive,Not available,4,2,5,Yes,175097.0
+784,46.0,Male,,9,1,Eclectic,Urban,,15.0,4,Low,1191,7944,3210,23804,9,18,Negative,Not available,2,5,4,No,133237.0
+785,50.0,Male,78016.0,17,4,Traditional,Suburban,,12.0,4,Medium,17424,1737,922,31568,14,4,Positive,Scarce,4,5,2,No,
+786,49.0,Male,,3,7,Contemporary,Suburban,1.0,11.0,3,Medium,15175,9197,6373,18991,3,9,Positive,Not available,3,4,5,Yes,62603.0
+787,41.0,Female,9213.0,19,9,Contemporary,Urban,4.0,19.0,4,Medium,11051,5740,660,9912,1,17,Negative,Not available,1,4,4,No,48251.0
+788,37.0,Male,15293.0,11,5,Minimalist,Rural,2.0,14.0,2,Medium,6892,5315,2667,33527,11,17,Neutral,Scarce,4,3,1,Yes,52526.0
+789,,Female,60860.0,17,2,Minimalist,Suburban,10.0,18.0,4,High,4449,756,6665,31863,1,17,Neutral,Available,2,4,4,Yes,107734.0
+790,49.0,Male,67507.0,21,7,Modern,Urban,8.0,13.0,4,Low,9327,2220,509,45827,12,16,Negative,Scarce,3,2,1,No,112542.0
+791,,Other,62134.0,19,1,Modern,Rural,3.0,4.0,1,Low,6909,7847,3767,34458,9,8,Neutral,Not available,4,4,4,Yes,33942.0
+792,,Male,7100.0,2,7,Modern,Rural,7.0,17.0,3,Medium,13393,7576,1230,21407,5,15,Negative,Scarce,1,4,5,No,50017.0
+793,27.0,Male,66997.0,8,6,Minimalist,Suburban,7.0,19.0,1,High,2941,1571,6002,13344,15,1,Negative,Available,2,2,4,Yes,65555.0
+794,42.0,Other,33172.0,19,7,Modern,Rural,9.0,9.0,3,High,5221,2122,4884,37205,18,19,Positive,Not available,1,1,4,Yes,
+795,,Female,25132.0,7,3,Modern,Rural,6.0,7.0,1,Low,7543,2566,4243,3355,9,15,Neutral,Not available,1,5,5,Yes,44365.0
+796,46.0,Female,23199.0,17,3,Traditional,Urban,1.0,1.0,2,Medium,18942,9761,4996,31893,13,9,Negative,Available,3,4,1,Yes,137479.0
+797,,Male,41609.0,6,7,Modern,Urban,8.0,7.0,1,Low,15012,9142,5169,1749,13,5,Neutral,Available,2,2,5,Yes,30976.0
+798,32.0,Other,47965.0,19,2,Contemporary,Rural,,7.0,1,Low,3121,1397,1177,20435,13,16,Neutral,Not available,5,5,2,Yes,46969.0
+799,64.0,Female,13016.0,6,1,Minimalist,Urban,3.0,7.0,2,High,18412,5675,5883,46733,10,13,Neutral,Available,1,3,4,Yes,174397.0
+800,,Male,44779.0,2,9,Eclectic,Rural,5.0,8.0,2,High,12726,8773,5095,46615,10,16,Negative,Scarce,2,1,2,No,192813.0
+801,61.0,Other,36881.0,6,9,Traditional,Suburban,8.0,16.0,4,Low,6656,9428,2799,39526,22,11,Positive,Available,1,4,5,Yes,20515.0
+802,30.0,Female,87594.0,23,7,Minimalist,Urban,9.0,3.0,1,Medium,9967,4674,6856,19088,7,13,Neutral,Scarce,4,1,5,Yes,172246.0
+803,,Female,29472.0,5,7,Minimalist,Rural,7.0,,2,Medium,16764,6281,6353,45405,22,6,Negative,Not available,4,4,3,No,141772.0
+804,58.0,Other,56813.0,19,3,Contemporary,Rural,9.0,10.0,2,Low,16873,4444,2823,39842,5,17,Neutral,Not available,2,4,2,No,78663.0
+805,30.0,Other,41021.0,20,2,Modern,Urban,3.0,18.0,4,Low,12079,6926,4651,47146,20,5,Positive,Not available,3,4,3,Yes,58379.0
+806,61.0,Other,59131.0,4,7,Contemporary,Urban,5.0,,3,Medium,19262,5935,5569,25403,7,17,Neutral,Not available,5,1,2,No,32391.0
+807,57.0,Other,29087.0,22,9,Modern,Suburban,10.0,5.0,2,Medium,3271,9871,6570,48297,20,1,Negative,Not available,4,3,3,Yes,72081.0
+808,46.0,Male,17828.0,17,1,Modern,Rural,8.0,7.0,2,Medium,2607,3435,691,39042,10,5,Neutral,Available,3,2,3,Yes,62284.0
+809,45.0,Other,,11,4,Minimalist,Suburban,1.0,17.0,1,Low,16679,6333,4202,47775,10,5,Neutral,Available,5,2,2,No,87054.0
+810,30.0,Female,6401.0,4,6,Modern,Suburban,8.0,4.0,4,High,17989,8588,6923,40177,21,7,Neutral,Not available,4,3,5,No,198278.0
+811,30.0,Female,90179.0,13,7,Traditional,Suburban,7.0,16.0,1,Medium,4665,961,5388,40056,13,16,Positive,Available,5,3,1,Yes,106163.0
+812,28.0,Male,20193.0,20,7,Traditional,Urban,1.0,19.0,3,Medium,17308,616,7864,23713,15,18,Neutral,Available,1,4,5,No,
+813,54.0,Female,97389.0,17,2,Traditional,Suburban,10.0,10.0,4,Medium,6852,6285,7366,1885,6,6,Negative,Not available,2,4,1,Yes,83593.0
+814,35.0,Female,49864.0,9,4,Minimalist,Urban,10.0,3.0,1,Low,6462,7007,6845,34632,20,2,Neutral,Available,4,2,2,Yes,64485.0
+815,54.0,Other,25307.0,4,5,Contemporary,Urban,6.0,3.0,2,High,19528,6330,2621,40685,12,13,Neutral,Not available,4,4,4,No,39032.0
+816,55.0,Female,24611.0,23,1,Eclectic,Suburban,1.0,17.0,2,High,5270,5061,5240,12686,19,10,Neutral,Not available,1,4,5,Yes,23156.0
+817,,Male,48791.0,14,1,Modern,Suburban,,10.0,4,Medium,16697,8627,4281,4054,11,11,Positive,Not available,4,3,3,No,54316.0
+818,33.0,Other,16950.0,19,3,Eclectic,Rural,5.0,,2,Low,18760,1159,438,9977,6,2,Negative,Not available,4,1,5,No,115916.0
+819,27.0,Other,81240.0,3,3,Contemporary,Suburban,2.0,17.0,1,High,4462,2622,402,26032,1,8,Neutral,Available,4,5,2,No,184859.0
+820,55.0,Male,82403.0,14,8,Contemporary,Rural,10.0,4.0,4,Low,16474,2086,5661,49967,2,19,Negative,Available,4,5,4,Yes,118881.0
+821,64.0,Other,7745.0,8,9,Minimalist,Suburban,1.0,6.0,2,High,1347,5182,5536,9536,23,17,Negative,Scarce,4,4,4,Yes,98099.0
+822,61.0,Other,60243.0,1,1,Traditional,Suburban,6.0,12.0,2,Medium,17384,7299,5633,16070,15,16,Positive,Scarce,3,4,5,Yes,177651.0
+823,60.0,Male,8866.0,10,2,Traditional,Suburban,,17.0,3,Low,1062,9326,783,17937,4,10,Negative,Not available,4,5,5,No,193646.0
+824,48.0,Other,37245.0,18,2,Contemporary,Suburban,8.0,17.0,3,Medium,2783,7487,6972,22500,5,5,Neutral,Scarce,1,3,5,Yes,127441.0
+825,55.0,Male,49724.0,16,4,Minimalist,Rural,8.0,,4,High,9417,8475,4619,41451,15,14,Positive,Available,4,5,2,No,
+826,30.0,Male,76354.0,8,2,Minimalist,Rural,6.0,,3,High,7566,3382,5689,11011,11,19,Positive,Available,5,5,1,No,110118.0
+827,26.0,Female,56374.0,1,7,Modern,Suburban,3.0,16.0,1,Medium,18426,5749,4373,49039,10,4,Negative,Scarce,5,5,1,Yes,64235.0
+828,44.0,Female,35116.0,12,9,Traditional,Suburban,1.0,13.0,2,High,11872,3311,2148,9896,17,16,Positive,Scarce,1,4,3,No,57904.0
+829,52.0,Other,86029.0,8,7,Contemporary,Rural,,3.0,2,Medium,16318,6027,2184,30799,2,15,Negative,Available,3,4,2,Yes,86721.0
+830,,Other,98574.0,16,6,Eclectic,Urban,5.0,2.0,2,Medium,2234,2384,3505,15582,20,9,Negative,Scarce,1,5,4,No,172812.0
+831,28.0,Male,25447.0,18,1,Traditional,Urban,10.0,16.0,4,Medium,2984,9313,2461,40958,10,3,Positive,Available,3,4,3,Yes,122920.0
+832,,Other,35431.0,4,9,Modern,Urban,,6.0,4,High,18978,5573,1764,42912,20,9,Neutral,Available,2,5,4,No,78130.0
+833,30.0,Male,22908.0,6,5,Minimalist,Rural,10.0,6.0,3,Low,2952,5916,943,1814,3,18,Negative,Scarce,5,3,4,No,185626.0
+834,54.0,Male,34336.0,12,5,Contemporary,Rural,1.0,13.0,2,Medium,19079,6300,7094,10740,19,4,Positive,Scarce,5,4,5,Yes,143271.0
+835,62.0,Other,45992.0,9,6,Traditional,Urban,1.0,7.0,2,Low,18338,7395,3736,25719,5,19,Positive,Not available,5,1,4,Yes,175104.0
+836,26.0,Male,60350.0,15,9,Eclectic,Urban,9.0,5.0,2,High,4291,6815,5651,36545,3,4,Negative,Not available,3,4,4,Yes,140552.0
+837,,Female,74561.0,16,8,Modern,Suburban,,7.0,2,High,9548,5430,4853,21150,8,9,Negative,Not available,1,3,2,Yes,166507.0
+838,35.0,Other,56955.0,12,8,Modern,Rural,7.0,2.0,2,Low,15504,2865,6818,5958,5,1,Negative,Not available,3,3,5,Yes,166192.0
+839,32.0,Female,66240.0,23,8,Traditional,Rural,10.0,17.0,1,Medium,12787,1354,6023,4825,12,1,Negative,Not available,5,4,5,No,7607.0
+840,50.0,Other,25093.0,14,1,Eclectic,Urban,4.0,13.0,2,High,1968,3228,910,15800,14,19,Neutral,Available,5,2,3,No,79116.0
+841,29.0,Male,11155.0,13,1,Modern,Urban,7.0,16.0,1,Medium,17625,1415,4602,10999,7,3,Neutral,Scarce,5,5,5,Yes,158098.0
+842,30.0,Other,51607.0,2,8,Contemporary,Rural,8.0,2.0,2,Medium,5234,7673,1843,21854,11,10,Neutral,Available,5,5,1,Yes,
+843,50.0,Female,38487.0,3,5,Modern,Suburban,5.0,5.0,4,Low,9338,5438,3839,46732,8,12,Neutral,Not available,2,3,2,No,39262.0
+844,28.0,Male,60668.0,22,9,Eclectic,Urban,1.0,18.0,4,High,8349,631,1766,28315,5,18,Positive,Not available,5,4,3,No,187975.0
+845,43.0,Other,25963.0,10,2,Minimalist,Rural,4.0,7.0,1,Low,14368,9808,1216,40540,8,14,Negative,Scarce,3,2,1,Yes,52156.0
+846,44.0,Other,55124.0,9,9,Minimalist,Rural,10.0,11.0,2,High,16201,4093,6764,10481,12,10,Positive,Available,5,1,4,Yes,104124.0
+847,57.0,Other,57870.0,20,8,Traditional,Suburban,3.0,11.0,4,Low,17070,9552,6536,49505,15,10,Positive,Not available,4,5,1,Yes,124828.0
+848,44.0,Female,61547.0,8,9,Eclectic,Suburban,10.0,17.0,4,High,9734,793,5827,18246,19,18,Neutral,Not available,2,2,3,No,
+849,36.0,Female,69110.0,10,4,Modern,Urban,5.0,16.0,2,High,9883,9691,1481,23601,16,1,Positive,Not available,5,5,5,No,133855.0
+850,,Other,58554.0,19,1,Modern,Urban,10.0,13.0,2,High,2025,4185,7315,11677,14,15,Neutral,Not available,4,4,2,No,
+851,50.0,Male,25936.0,3,1,Minimalist,Urban,10.0,5.0,4,Medium,13197,8516,2446,30552,7,8,Negative,Available,3,5,3,No,122057.0
+852,,Male,9426.0,5,5,Minimalist,Rural,,16.0,2,Medium,4359,8262,2572,23322,8,3,Neutral,Available,2,1,1,Yes,69314.0
+853,62.0,Female,93839.0,3,2,Contemporary,Urban,2.0,16.0,3,Low,6257,7346,1151,3355,7,18,Negative,Not available,5,4,1,Yes,156521.0
+854,61.0,Male,32606.0,16,8,Minimalist,Rural,7.0,16.0,2,Low,3951,8084,4836,10157,18,9,Neutral,Available,3,3,3,Yes,98242.0
+855,35.0,Female,52832.0,17,5,Contemporary,Urban,,14.0,4,High,8389,7810,1019,36163,6,16,Positive,Not available,4,2,3,No,35466.0
+856,60.0,Other,33151.0,15,5,Modern,Suburban,1.0,6.0,4,High,15666,5856,4980,26914,19,15,Positive,Scarce,2,5,3,No,121151.0
+857,37.0,Female,84303.0,3,2,Contemporary,Suburban,10.0,2.0,1,Medium,15952,786,2314,34292,4,5,Neutral,Scarce,5,4,5,Yes,121595.0
+858,27.0,Female,16308.0,12,7,Contemporary,Rural,3.0,14.0,3,Medium,19939,9141,3772,1561,23,13,Negative,Scarce,3,4,3,Yes,93121.0
+859,57.0,Other,67522.0,9,8,Traditional,Suburban,9.0,16.0,4,Medium,15227,7086,3942,9167,3,7,Negative,Available,2,5,4,No,29279.0
+860,30.0,Male,50671.0,21,1,Minimalist,Rural,10.0,13.0,3,Low,18534,5803,4170,17184,17,16,Neutral,Not available,4,3,2,Yes,16837.0
+861,34.0,Female,95306.0,12,2,Contemporary,Rural,6.0,15.0,2,Medium,16624,3616,363,25497,22,7,Positive,Scarce,5,5,2,Yes,29209.0
+862,29.0,Female,99108.0,15,4,Modern,Suburban,,12.0,4,Low,2735,6374,5163,24800,19,16,Negative,Scarce,2,3,4,No,17220.0
+863,47.0,Other,7204.0,2,5,Eclectic,Rural,4.0,9.0,1,Medium,18422,7470,859,38432,15,13,Neutral,Available,4,5,1,Yes,
+864,34.0,Male,97769.0,23,2,Contemporary,Suburban,,18.0,4,Medium,7369,8648,7746,2205,6,17,Negative,Available,4,4,1,No,
+865,26.0,Female,92265.0,18,1,Minimalist,Urban,5.0,14.0,1,High,8127,8944,2033,13039,12,9,Positive,Scarce,3,1,1,Yes,109304.0
+866,37.0,Other,36131.0,20,9,Traditional,Urban,7.0,4.0,3,Low,3912,1735,969,46161,19,12,Negative,Not available,4,1,1,Yes,163302.0
+867,64.0,Female,57428.0,12,1,Modern,Suburban,9.0,,1,Medium,16464,1499,4194,36006,6,13,Neutral,Not available,4,4,5,Yes,46920.0
+868,26.0,Other,,23,4,Traditional,Suburban,5.0,8.0,2,High,13606,4260,1842,18544,11,9,Negative,Not available,1,1,4,No,66544.0
+869,44.0,Male,54067.0,4,2,Eclectic,Suburban,5.0,16.0,2,Low,2242,4616,1571,13987,20,5,Negative,Scarce,4,3,2,No,133260.0
+870,25.0,Male,63585.0,23,4,Contemporary,Suburban,4.0,10.0,2,Low,16636,4911,2715,6239,20,7,Positive,Available,5,4,4,No,130534.0
+871,61.0,Male,26607.0,16,8,Contemporary,Urban,6.0,17.0,4,Medium,11108,6057,3091,45785,10,1,Positive,Not available,2,3,2,No,98406.0
+872,33.0,Male,29968.0,23,8,Minimalist,Rural,2.0,1.0,2,Low,9098,5852,5013,24358,16,4,Positive,Scarce,5,4,1,Yes,87909.0
+873,41.0,Female,16908.0,16,9,Contemporary,Rural,3.0,18.0,2,High,4412,4183,7449,18138,18,4,Positive,Scarce,5,3,5,No,
+874,33.0,Female,31423.0,1,5,Modern,Urban,1.0,,4,High,19883,2761,6390,23984,14,16,Neutral,Available,3,3,3,Yes,
+875,35.0,Male,79707.0,22,7,Eclectic,Rural,2.0,,3,Low,12632,2353,5517,29428,4,5,Negative,Not available,1,1,3,Yes,104010.0
+876,39.0,Male,83257.0,2,3,Traditional,Urban,2.0,1.0,2,High,14231,9291,5687,10096,12,4,Negative,Scarce,1,4,1,Yes,28036.0
+877,48.0,Male,66215.0,3,4,Eclectic,Rural,,4.0,2,Low,16183,7395,5479,48582,20,6,Negative,Not available,5,5,1,Yes,131995.0
+878,62.0,Female,60835.0,21,9,Contemporary,Suburban,8.0,4.0,4,High,8160,3490,6943,25536,23,3,Negative,Not available,2,1,4,Yes,70322.0
+879,59.0,Male,54429.0,20,1,Traditional,Suburban,2.0,4.0,3,Low,18597,1362,7775,47059,21,8,Neutral,Not available,1,3,5,Yes,9847.0
+880,54.0,Male,87152.0,17,2,Minimalist,Suburban,6.0,17.0,3,Low,12123,5027,7960,3621,8,17,Positive,Scarce,1,3,5,Yes,
+881,55.0,Male,43458.0,20,5,Eclectic,Urban,5.0,9.0,3,Low,17802,1719,3354,36958,7,18,Negative,Not available,5,5,4,No,17893.0
+882,29.0,Other,51169.0,22,3,Traditional,Urban,3.0,,4,High,5960,4295,2758,4948,9,18,Negative,Available,1,5,5,Yes,140721.0
+883,38.0,Male,12659.0,21,2,Traditional,Rural,5.0,13.0,1,Low,1788,1027,3365,2287,17,12,Positive,Scarce,3,3,5,No,166643.0
+884,35.0,Other,65614.0,1,1,Traditional,Rural,5.0,,1,Low,19255,7869,1463,24902,10,1,Positive,Scarce,5,5,3,Yes,16613.0
+885,33.0,Other,82240.0,20,3,Modern,Rural,5.0,5.0,2,Medium,14350,3422,6328,48358,3,12,Negative,Not available,1,2,5,No,58833.0
+886,,Male,37793.0,6,1,Eclectic,Urban,3.0,13.0,2,Medium,19409,6349,5747,22164,21,11,Positive,Not available,1,1,1,Yes,67423.0
+887,36.0,Other,51473.0,15,1,Traditional,Rural,3.0,16.0,2,Low,3446,1662,4859,16668,8,13,Negative,Not available,1,4,3,No,94964.0
+888,59.0,Male,94388.0,14,1,Eclectic,Suburban,4.0,5.0,1,Medium,17183,1346,3049,2772,14,3,Negative,Scarce,5,5,1,Yes,123268.0
+889,59.0,Female,93330.0,20,8,Traditional,Rural,7.0,8.0,4,Low,9752,7459,6056,33238,7,8,Negative,Available,2,5,1,No,
+890,,Female,60751.0,15,3,Minimalist,Suburban,2.0,16.0,2,Medium,14440,3586,2248,39968,16,3,Negative,Available,4,2,4,No,177454.0
+891,64.0,Female,83915.0,14,1,Minimalist,Urban,10.0,1.0,4,High,13096,3783,6606,16762,18,17,Negative,Scarce,1,4,5,No,188420.0
+892,46.0,Female,59254.0,21,7,Minimalist,Suburban,4.0,6.0,2,High,17923,3823,359,36906,11,13,Negative,Available,4,2,5,Yes,
+893,53.0,Other,12006.0,5,3,Contemporary,Suburban,4.0,11.0,4,Low,7499,945,3402,8213,6,10,Positive,Not available,4,4,5,Yes,189777.0
+894,32.0,Male,79218.0,6,8,Traditional,Suburban,1.0,16.0,4,Low,15767,1525,632,15941,20,17,Neutral,Scarce,1,1,5,No,80642.0
+895,35.0,Male,70344.0,17,4,Contemporary,Urban,10.0,5.0,1,High,12337,1859,4471,31345,21,3,Neutral,Available,1,5,3,No,191889.0
+896,61.0,Male,38840.0,11,4,Eclectic,Urban,8.0,16.0,4,High,16819,8710,6174,36184,14,13,Negative,Scarce,4,1,2,Yes,85984.0
+897,38.0,Female,,16,5,Contemporary,Urban,1.0,7.0,3,Medium,16784,6613,6760,16964,21,6,Positive,Available,2,4,1,Yes,83669.0
+898,54.0,Female,28091.0,12,6,Eclectic,Urban,8.0,19.0,1,Low,6311,9252,7884,27855,13,14,Negative,Scarce,4,5,2,Yes,180214.0
+899,59.0,Male,37983.0,15,7,Eclectic,Rural,7.0,1.0,2,High,12452,971,489,18968,4,10,Positive,Available,2,2,2,Yes,149780.0
+900,45.0,Female,28989.0,23,4,Eclectic,Urban,9.0,9.0,1,High,15574,527,3860,2046,20,16,Negative,Scarce,3,3,2,Yes,142162.0
+901,61.0,Male,80451.0,4,8,Contemporary,Suburban,8.0,18.0,3,Low,19279,9251,6308,15909,20,18,Negative,Scarce,2,2,3,No,188974.0
+902,29.0,Male,23990.0,18,6,Traditional,Urban,5.0,13.0,3,Medium,16952,3736,7782,14578,11,13,Neutral,Scarce,5,3,2,No,97170.0
+903,43.0,Male,95270.0,21,1,Contemporary,Rural,8.0,15.0,4,Medium,3500,9636,595,24368,18,10,Positive,Scarce,1,2,3,No,96757.0
+904,,Male,85360.0,3,1,Traditional,Rural,10.0,3.0,3,Medium,15718,4448,2848,29599,1,6,Positive,Scarce,3,4,4,No,116088.0
+905,50.0,Male,41081.0,22,9,Traditional,Rural,3.0,10.0,3,Medium,3829,6672,476,6719,12,10,Neutral,Not available,4,1,4,Yes,
+906,28.0,Male,16033.0,8,6,Eclectic,Suburban,10.0,9.0,3,High,1047,2479,1099,16960,18,5,Neutral,Scarce,2,3,4,Yes,179824.0
+907,49.0,Male,21241.0,23,8,Contemporary,Urban,7.0,13.0,3,Low,3364,5421,1105,24606,7,6,Neutral,Scarce,3,4,3,No,105840.0
+908,49.0,Female,10939.0,3,7,Traditional,Urban,4.0,,2,Low,13864,9507,7303,49366,12,7,Neutral,Scarce,5,1,3,Yes,155715.0
+909,42.0,Male,52562.0,8,6,Minimalist,Urban,5.0,,2,High,9177,2826,2042,16624,1,11,Positive,Available,2,1,1,Yes,175719.0
+910,64.0,Male,40063.0,18,4,Traditional,Suburban,9.0,15.0,1,High,14347,2830,514,40179,22,16,Positive,Scarce,4,5,2,No,
+911,32.0,Female,81721.0,10,7,Minimalist,Suburban,7.0,17.0,4,High,8931,8146,2179,41842,4,12,Neutral,Not available,4,5,5,No,
+912,63.0,Female,32045.0,20,9,Contemporary,Rural,4.0,14.0,2,Low,13841,1502,3000,11352,18,12,Negative,Scarce,2,5,5,Yes,173474.0
+913,64.0,Female,49769.0,17,7,Contemporary,Rural,6.0,7.0,3,Low,12844,6948,896,31885,15,5,Negative,Available,5,3,2,No,152576.0
+914,38.0,Male,52118.0,8,1,Contemporary,Urban,10.0,16.0,4,Low,9594,7337,2017,16003,3,16,Negative,Available,1,3,5,Yes,11768.0
+915,56.0,Other,89703.0,23,9,Traditional,Suburban,7.0,8.0,2,Medium,14418,6967,1655,10223,7,6,Negative,Scarce,1,1,5,No,118661.0
+916,62.0,Other,26625.0,11,4,Modern,Suburban,10.0,4.0,1,High,3086,9921,4523,32433,6,9,Positive,Scarce,4,3,5,Yes,136692.0
+917,57.0,Female,,5,3,Traditional,Urban,,15.0,3,High,11419,7854,1592,13718,15,5,Positive,Scarce,5,1,3,No,156519.0
+918,47.0,Other,69805.0,13,4,Traditional,Urban,4.0,5.0,4,High,12602,3029,2898,2315,15,16,Positive,Scarce,4,4,3,Yes,24118.0
+919,39.0,Female,49605.0,21,4,Eclectic,Rural,10.0,13.0,2,Low,12182,1930,5954,22553,6,18,Negative,Available,1,2,3,Yes,130551.0
+920,57.0,Male,,23,2,Eclectic,Rural,3.0,6.0,4,High,13835,4412,6173,25682,8,19,Neutral,Scarce,4,1,2,Yes,198123.0
+921,49.0,Other,93509.0,5,1,Traditional,Rural,,5.0,2,High,18533,2032,3737,20464,8,12,Negative,Available,2,1,4,No,182671.0
+922,41.0,Male,44121.0,13,1,Minimalist,Urban,1.0,17.0,1,Medium,17446,2392,5014,42704,22,2,Positive,Available,2,4,5,Yes,15200.0
+923,57.0,Other,70101.0,6,8,Eclectic,Urban,9.0,7.0,3,Low,4153,1921,6791,32419,1,10,Negative,Not available,5,5,1,Yes,104066.0
+924,26.0,Male,36433.0,5,2,Traditional,Rural,1.0,6.0,1,High,10200,9082,441,14767,13,12,Neutral,Available,1,5,3,No,63704.0
+925,38.0,Other,48309.0,9,5,Modern,Rural,2.0,2.0,3,Low,11223,6268,3516,7466,23,14,Neutral,Scarce,5,5,1,No,58487.0
+926,64.0,Male,72468.0,16,4,Minimalist,Suburban,8.0,11.0,3,Low,11273,3318,3139,32028,21,18,Negative,Scarce,5,1,5,Yes,118373.0
+927,64.0,Male,49254.0,2,8,Contemporary,Suburban,9.0,7.0,4,Low,1751,6117,4640,48953,13,19,Positive,Scarce,1,1,4,Yes,182537.0
+928,,Other,72293.0,1,2,Traditional,Rural,,8.0,2,Medium,9849,1695,3813,38858,11,6,Positive,Scarce,3,3,1,No,34840.0
+929,30.0,Male,42853.0,8,9,Traditional,Rural,3.0,5.0,1,Low,18084,6729,3050,5240,4,5,Positive,Not available,3,3,5,No,
+930,30.0,Male,43405.0,19,7,Minimalist,Suburban,7.0,18.0,1,Low,17220,9549,5709,32459,7,16,Negative,Not available,4,2,5,Yes,52897.0
+931,27.0,Male,71652.0,11,7,Eclectic,Rural,6.0,16.0,1,Low,11348,5805,2014,26396,12,14,Positive,Not available,3,2,3,Yes,126677.0
+932,,Other,48527.0,12,1,Eclectic,Suburban,2.0,14.0,4,High,18924,8577,1435,17795,13,13,Negative,Not available,2,3,4,No,199948.0
+933,32.0,Other,82227.0,12,2,Eclectic,Suburban,3.0,12.0,4,Medium,7167,9845,6657,25689,22,2,Positive,Available,5,1,5,Yes,185484.0
+934,39.0,Male,5492.0,7,4,Contemporary,Suburban,10.0,17.0,4,High,7364,1342,4021,15910,12,2,Neutral,Not available,4,4,4,Yes,
+935,53.0,Male,98418.0,13,4,Minimalist,Urban,10.0,5.0,3,Medium,2983,5700,2209,3446,16,12,Neutral,Available,5,3,3,Yes,174730.0
+936,57.0,Other,13811.0,8,3,Minimalist,Urban,5.0,14.0,1,Medium,15629,6421,2547,4346,6,1,Positive,Scarce,1,1,1,No,142125.0
+937,54.0,Other,98344.0,22,7,Eclectic,Rural,10.0,6.0,3,Low,17288,794,6848,46179,14,19,Negative,Available,3,3,2,No,132069.0
+938,63.0,Male,29272.0,9,8,Eclectic,Suburban,4.0,15.0,1,Low,12273,6597,4816,41517,19,16,Positive,Available,1,5,2,Yes,134548.0
+939,51.0,Male,98935.0,7,2,Modern,Urban,2.0,7.0,1,High,8648,6912,4402,5142,16,7,Negative,Not available,4,3,2,Yes,191323.0
+940,60.0,Male,77010.0,21,4,Modern,Rural,4.0,14.0,2,Medium,8894,9336,1848,17070,4,7,Neutral,Scarce,2,5,4,Yes,176717.0
+941,53.0,Female,97492.0,15,3,Traditional,Rural,8.0,18.0,1,Low,14305,7178,2939,47955,5,16,Negative,Scarce,3,1,2,No,138617.0
+942,,Other,52153.0,2,2,Traditional,Rural,5.0,1.0,4,Low,13925,5520,6729,8087,9,6,Positive,Not available,1,5,1,Yes,100495.0
+943,57.0,Female,59110.0,23,6,Minimalist,Rural,5.0,6.0,4,Low,19698,6243,5066,24752,3,18,Neutral,Available,3,3,5,No,82213.0
+944,61.0,Other,18979.0,20,4,Minimalist,Rural,10.0,3.0,4,Low,11327,610,6832,16635,22,1,Negative,Not available,5,5,4,Yes,13560.0
+945,51.0,Other,33328.0,12,6,Contemporary,Suburban,3.0,5.0,2,High,19033,9275,4811,23218,10,1,Negative,Available,2,4,1,No,
+946,57.0,Other,17867.0,1,2,Contemporary,Rural,,12.0,2,High,12411,5364,3131,32873,17,14,Neutral,Not available,3,5,4,Yes,139734.0
+947,28.0,Other,64234.0,23,4,Modern,Suburban,6.0,11.0,3,Low,7900,2148,1306,49575,19,6,Positive,Not available,2,5,4,No,119041.0
+948,46.0,Other,30851.0,22,6,Traditional,Urban,2.0,13.0,1,Low,17137,6881,6132,43965,10,6,Neutral,Scarce,5,2,4,No,44497.0
+949,,Other,36279.0,8,5,Modern,Rural,2.0,16.0,1,Low,4800,2881,3521,46039,12,4,Positive,Scarce,5,4,3,Yes,57606.0
+950,34.0,Other,78402.0,5,3,Modern,Urban,,18.0,4,Low,3478,605,3362,15724,23,12,Positive,Scarce,1,1,5,No,67112.0
+951,,Female,20449.0,15,8,Traditional,Suburban,,17.0,4,Low,10967,6318,4823,32351,7,18,Negative,Not available,4,5,2,Yes,83334.0
+952,34.0,Male,81221.0,1,7,Contemporary,Suburban,10.0,17.0,4,Medium,11158,881,3352,32433,18,10,Positive,Scarce,1,4,3,No,75344.0
+953,57.0,Male,94080.0,1,3,Traditional,Urban,9.0,11.0,4,Medium,8054,4856,7760,10261,19,3,Positive,Scarce,2,1,5,Yes,13048.0
+954,62.0,Female,10451.0,10,6,Eclectic,Rural,6.0,10.0,4,Medium,7059,6418,4729,14479,15,3,Neutral,Not available,1,4,2,No,83643.0
+955,37.0,Female,92178.0,22,4,Eclectic,Rural,5.0,16.0,4,Medium,10959,1816,2619,16804,7,8,Neutral,Scarce,3,2,3,No,142592.0
+956,55.0,Female,46316.0,10,5,Eclectic,Urban,1.0,2.0,1,Low,13007,5954,7510,28245,12,1,Positive,Available,1,1,3,Yes,153000.0
+957,60.0,Female,68064.0,21,5,Minimalist,Urban,6.0,17.0,2,Medium,9433,4574,3839,46101,22,18,Negative,Scarce,4,1,1,No,191440.0
+958,48.0,Other,,15,7,Contemporary,Urban,6.0,10.0,4,Medium,7209,5304,2666,13827,7,15,Neutral,Available,4,5,3,Yes,159573.0
+959,39.0,Male,43870.0,17,5,Contemporary,Rural,3.0,13.0,1,High,8115,1406,7959,43368,10,17,Negative,Scarce,2,3,4,Yes,189823.0
+960,53.0,Other,35873.0,22,3,Minimalist,Rural,3.0,12.0,4,Medium,14068,8121,826,45700,22,11,Neutral,Not available,5,1,3,Yes,172263.0
+961,32.0,Male,63627.0,6,5,Modern,Rural,3.0,15.0,3,Medium,19640,1162,3107,13040,20,13,Neutral,Not available,4,1,4,No,
+962,29.0,Male,71155.0,3,7,Eclectic,Urban,3.0,7.0,3,Low,4368,7218,1495,20477,10,10,Positive,Scarce,2,2,5,No,163020.0
+963,,Female,30372.0,13,5,Eclectic,Rural,7.0,13.0,1,Medium,17128,9154,2053,17127,23,13,Neutral,Available,4,2,5,No,140555.0
+964,28.0,Other,8642.0,16,5,Modern,Suburban,10.0,,2,Medium,3827,1442,1972,22182,5,17,Neutral,Scarce,4,2,4,Yes,
+965,36.0,Female,,8,9,Traditional,Urban,2.0,12.0,3,Low,16990,8849,6764,27049,18,1,Negative,Not available,5,5,1,Yes,115831.0
+966,26.0,Other,39064.0,15,3,Traditional,Rural,10.0,2.0,3,Medium,3487,6915,7182,25527,9,16,Neutral,Scarce,3,1,1,No,44887.0
+967,51.0,Male,99826.0,17,6,Contemporary,Urban,10.0,5.0,2,Low,14347,3809,7511,13473,16,16,Neutral,Not available,2,2,5,Yes,93780.0
+968,55.0,Female,19122.0,17,1,Minimalist,Suburban,2.0,2.0,3,Medium,17277,1826,5951,17709,7,3,Negative,Available,4,2,3,No,108739.0
+969,60.0,Female,29820.0,22,5,Contemporary,Suburban,,13.0,4,High,2643,2606,2328,34974,10,2,Positive,Available,4,4,5,No,66055.0
+970,60.0,Male,73431.0,13,8,Traditional,Urban,10.0,3.0,2,High,18596,5299,1954,43464,5,6,Positive,Not available,1,4,5,Yes,167329.0
+971,50.0,Male,60745.0,17,5,Modern,Urban,7.0,11.0,3,Medium,1019,9339,4849,14714,7,11,Neutral,Available,3,2,4,Yes,23327.0
+972,,Male,55081.0,6,9,Contemporary,Suburban,3.0,16.0,2,High,1675,3438,5141,35208,5,3,Neutral,Not available,5,5,1,Yes,105023.0
+973,29.0,Female,75902.0,17,6,Eclectic,Urban,7.0,1.0,4,Low,17992,2983,4341,32945,15,1,Negative,Not available,2,3,4,Yes,160938.0
+974,44.0,Other,13711.0,16,8,Eclectic,Suburban,9.0,19.0,3,Medium,17445,1875,6299,22568,19,11,Positive,Not available,4,4,5,No,180721.0
+975,35.0,Female,90132.0,14,8,Modern,Suburban,10.0,11.0,1,Low,10457,8356,5324,10147,10,13,Positive,Scarce,2,4,2,Yes,145238.0
+976,34.0,Other,23793.0,13,3,Traditional,Rural,4.0,9.0,3,High,2154,744,1147,17267,8,5,Positive,Available,5,1,3,Yes,
+977,64.0,Female,13199.0,6,7,Eclectic,Urban,7.0,14.0,3,Low,10820,2848,1167,42514,9,18,Negative,Scarce,3,1,5,Yes,14042.0
+978,62.0,Female,81253.0,3,7,Eclectic,Urban,9.0,9.0,4,High,10818,9559,1073,32452,11,15,Negative,Scarce,1,2,4,No,
+979,30.0,Male,41191.0,14,6,Minimalist,Rural,,7.0,1,High,4716,979,6526,6136,22,18,Negative,Available,3,1,2,Yes,187952.0
+980,32.0,Other,15211.0,14,7,Contemporary,Suburban,8.0,16.0,1,High,6242,2435,842,33579,2,15,Neutral,Scarce,1,1,2,Yes,
+981,47.0,Female,68069.0,15,2,Traditional,Urban,9.0,3.0,1,Low,6022,6257,4717,32516,3,7,Positive,Not available,2,3,5,No,68588.0
+982,50.0,Female,93896.0,8,9,Contemporary,Rural,5.0,19.0,4,High,18826,587,1085,12446,13,17,Neutral,Scarce,3,5,1,No,140713.0
+983,36.0,Male,61746.0,15,1,Traditional,Rural,5.0,4.0,4,Medium,2653,9932,3605,46099,11,8,Neutral,Not available,3,2,2,No,33536.0
+984,50.0,Male,26542.0,22,1,Eclectic,Urban,3.0,7.0,4,High,3502,9264,4935,25524,10,13,Negative,Available,3,3,3,Yes,19546.0
+985,37.0,Other,36312.0,13,3,Minimalist,Rural,5.0,12.0,4,Medium,17665,9505,6695,14188,15,16,Positive,Scarce,5,2,4,No,120429.0
+986,64.0,Female,50242.0,17,3,Contemporary,Suburban,8.0,18.0,4,Medium,15086,678,3183,39587,6,10,Neutral,Available,2,5,4,No,150174.0
+987,42.0,Other,98783.0,21,1,Eclectic,Rural,5.0,5.0,1,Medium,4403,662,6184,41837,1,14,Positive,Not available,1,2,4,Yes,103895.0
+988,49.0,Female,92893.0,3,7,Traditional,Suburban,4.0,10.0,2,Medium,2235,3140,748,46537,14,6,Neutral,Scarce,3,1,5,Yes,105523.0
+989,,Other,60388.0,6,4,Contemporary,Suburban,,12.0,4,Low,14149,9697,3610,6560,18,7,Negative,Not available,2,5,4,No,14029.0
+990,,Male,32691.0,5,2,Contemporary,Urban,7.0,8.0,2,Medium,15396,2848,4885,46621,11,6,Neutral,Not available,5,3,4,Yes,
+991,36.0,Female,82960.0,22,5,Eclectic,Rural,6.0,19.0,3,High,15430,2921,2205,44227,8,17,Negative,Not available,5,3,3,Yes,147394.0
+992,,Other,89388.0,17,6,Contemporary,Suburban,5.0,15.0,3,Medium,18169,4798,4859,37397,22,8,Positive,Available,2,4,1,No,
+993,28.0,Male,27601.0,23,9,Minimalist,Suburban,5.0,1.0,4,High,14864,4642,4709,12657,3,12,Neutral,Available,1,3,5,Yes,124148.0
+994,,Male,23020.0,2,4,Minimalist,Rural,10.0,,3,Low,16506,5003,7642,39082,14,4,Neutral,Available,2,4,5,Yes,17654.0
+995,61.0,Other,,15,2,Eclectic,Suburban,2.0,18.0,2,Medium,12509,1717,3551,19840,2,10,Negative,Scarce,2,1,4,No,61663.0
+996,32.0,Female,74119.0,5,5,Traditional,Rural,4.0,18.0,3,High,4194,2974,6351,42430,16,6,Negative,Not available,4,3,3,No,195759.0
+997,52.0,Female,86051.0,20,3,Eclectic,Urban,8.0,,3,Low,5789,1429,684,41397,6,7,Positive,Available,5,5,2,Yes,143580.0
+998,55.0,Male,41777.0,6,2,Minimalist,Suburban,8.0,5.0,2,Low,11638,8458,594,12324,1,8,Negative,Not available,1,4,4,No,183931.0
+999,33.0,Female,24710.0,6,1,Modern,Suburban,1.0,1.0,3,High,6350,9008,1538,26247,14,3,Positive,Available,4,3,4,No,27132.0
+1000,53.0,Female,29532.0,18,2,Modern,Rural,,10.0,4,Medium,1533,2002,7429,18558,10,8,Neutral,Not available,2,1,5,Yes,70800.0
+1001,38.0,Female,23601.0,18,6,Contemporary,Rural,5.0,10.0,2,Low,4663,920,5157,20943,6,15,Positive,Available,5,5,5,Yes,152097.0
+1002,64.0,Male,68227.0,4,8,Contemporary,Rural,9.0,5.0,2,High,1129,6330,3116,40460,9,1,Positive,Available,4,5,4,Yes,116653.0
+1003,46.0,Other,9967.0,17,3,Modern,Rural,10.0,18.0,1,Medium,13563,4858,1398,42986,7,13,Positive,Available,4,1,5,No,
+1004,35.0,Female,89289.0,14,9,Minimalist,Suburban,7.0,15.0,1,Low,2858,1949,6787,45514,2,18,Neutral,Available,1,3,3,No,122890.0
+1005,47.0,Male,25022.0,14,9,Contemporary,Urban,10.0,8.0,2,High,16735,6311,2037,16372,11,15,Neutral,Not available,2,2,2,Yes,125885.0
+1006,25.0,Male,48463.0,13,2,Eclectic,Urban,5.0,17.0,2,Low,13342,9119,2489,13631,14,7,Negative,Available,1,3,2,Yes,72607.0
+1007,61.0,Other,,7,8,Eclectic,Urban,1.0,12.0,1,Low,4649,8371,3065,2472,5,15,Positive,Available,4,4,2,Yes,161042.0
+1008,45.0,Female,10722.0,12,5,Minimalist,Urban,6.0,12.0,4,High,11978,9088,1522,27955,9,3,Neutral,Available,4,4,4,Yes,52736.0
+1009,50.0,Female,32413.0,23,4,Contemporary,Rural,8.0,1.0,3,Low,5860,9487,6338,48367,7,14,Positive,Not available,1,3,4,No,12840.0
+1010,60.0,Other,97772.0,15,5,Eclectic,Suburban,7.0,4.0,3,High,10412,606,3542,31802,14,4,Positive,Available,4,4,4,No,34654.0
+1011,47.0,Other,86050.0,19,4,Contemporary,Suburban,2.0,,3,Medium,9833,4549,6849,5872,16,4,Positive,Not available,3,2,3,No,82385.0
+1012,25.0,Male,90867.0,11,8,Contemporary,Suburban,5.0,1.0,2,High,15135,8789,4199,28547,22,3,Neutral,Scarce,5,2,2,No,188480.0
+1013,64.0,Male,,15,4,Eclectic,Rural,4.0,,4,Medium,1723,2403,4623,44341,16,5,Positive,Not available,2,5,5,No,158514.0
+1014,39.0,Other,71732.0,12,6,Modern,Suburban,9.0,18.0,1,Low,1737,8149,710,14691,7,11,Positive,Scarce,5,4,5,No,142702.0
+1015,45.0,Female,17297.0,3,2,Eclectic,Rural,10.0,1.0,4,High,14879,4070,3299,45250,10,8,Negative,Available,2,3,1,Yes,183808.0
+1016,33.0,Male,73323.0,17,5,Minimalist,Suburban,1.0,11.0,4,High,2299,5876,3245,5753,21,2,Positive,Available,4,5,1,No,
+1017,33.0,Male,,3,6,Traditional,Urban,6.0,2.0,3,High,1339,542,5086,2833,6,16,Negative,Not available,1,2,5,No,183559.0
+1018,34.0,Female,45695.0,19,5,Eclectic,Rural,3.0,1.0,1,High,1152,6885,1177,39696,17,10,Positive,Available,1,5,2,No,73395.0
+1019,,Male,24702.0,20,2,Contemporary,Suburban,9.0,12.0,4,Medium,10613,2077,1086,9645,1,18,Negative,Available,4,1,4,No,138465.0
+1020,59.0,Female,30242.0,4,7,Contemporary,Urban,5.0,16.0,1,Medium,14755,6565,2409,40584,2,7,Neutral,Not available,2,4,5,Yes,192043.0
+1021,,Female,60841.0,3,4,Eclectic,Urban,6.0,10.0,2,Low,16982,6385,5746,31441,14,5,Neutral,Available,4,3,5,Yes,84627.0
+1022,,Female,72712.0,16,8,Traditional,Urban,9.0,18.0,3,Low,1426,9076,6135,41024,4,7,Positive,Scarce,2,2,1,No,
+1023,35.0,Other,90663.0,12,7,Eclectic,Rural,9.0,15.0,1,Low,10327,4077,2286,44317,9,6,Negative,Scarce,4,5,2,Yes,73657.0
+1024,62.0,Other,97764.0,8,7,Traditional,Rural,8.0,17.0,2,Low,19756,3738,1178,16062,23,1,Neutral,Available,4,3,5,Yes,79652.0
+1025,26.0,Other,58574.0,17,9,Traditional,Suburban,9.0,,2,High,12521,5744,7600,10635,6,11,Positive,Available,4,4,4,Yes,75507.0
+1026,,Female,90744.0,7,1,Minimalist,Urban,4.0,3.0,2,Medium,18333,2634,1907,21064,17,13,Positive,Scarce,1,3,4,Yes,135007.0
+1027,,Female,33482.0,11,6,Contemporary,Suburban,6.0,16.0,4,Medium,2373,4392,6009,10940,21,12,Negative,Available,2,4,3,No,
+1028,51.0,Other,14171.0,18,6,Contemporary,Suburban,5.0,6.0,4,Medium,8082,4821,7656,36169,11,1,Negative,Scarce,4,4,4,No,34644.0
+1029,58.0,Male,8696.0,1,6,Traditional,Urban,5.0,3.0,3,Medium,10893,6276,2703,14111,4,15,Positive,Not available,5,4,5,No,41122.0
+1030,51.0,Female,25058.0,3,6,Contemporary,Suburban,4.0,9.0,3,Low,19866,6328,370,45131,21,1,Negative,Scarce,5,5,5,No,139469.0
+1031,41.0,Male,25313.0,4,7,Modern,Rural,2.0,11.0,2,High,8593,4315,2610,46200,9,3,Negative,Available,1,4,4,No,190641.0
+1032,,Male,24149.0,13,6,Traditional,Suburban,6.0,13.0,3,Medium,10495,795,4701,30739,16,15,Neutral,Available,3,3,1,Yes,
+1033,49.0,Female,58521.0,6,1,Contemporary,Urban,9.0,18.0,4,High,17754,913,7001,43746,3,9,Negative,Scarce,1,1,2,No,82948.0
+1034,31.0,Female,50740.0,14,3,Modern,Rural,1.0,4.0,3,High,8837,6456,3595,18793,4,14,Positive,Scarce,3,3,5,No,
+1035,30.0,Male,,5,2,Minimalist,Rural,7.0,8.0,1,High,12172,6778,7795,19146,3,8,Negative,Available,1,5,4,Yes,53519.0
+1036,48.0,Male,,16,6,Contemporary,Suburban,6.0,13.0,4,High,19680,7168,1061,34677,13,4,Positive,Available,5,4,4,Yes,76057.0
+1037,57.0,Other,87612.0,15,8,Modern,Suburban,3.0,10.0,2,Medium,11317,8695,4983,1760,19,6,Positive,Available,4,1,5,No,
+1038,53.0,Other,71641.0,15,3,Eclectic,Rural,1.0,2.0,2,Medium,11934,677,2421,24022,21,1,Negative,Not available,2,5,3,Yes,139544.0
+1039,46.0,Female,68811.0,4,8,Eclectic,Suburban,4.0,8.0,3,Medium,19748,9437,3882,6612,1,18,Negative,Not available,4,2,2,No,56769.0
+1040,50.0,Other,57160.0,8,8,Modern,Urban,9.0,6.0,4,Low,6230,4854,6585,37008,23,6,Negative,Scarce,5,2,5,Yes,141553.0
+1041,52.0,Other,56313.0,16,5,Traditional,Suburban,2.0,16.0,2,Medium,14645,9343,6004,28265,23,14,Neutral,Scarce,2,2,4,No,175049.0
+1042,45.0,Other,68232.0,16,8,Traditional,Suburban,3.0,18.0,2,Low,9954,6414,4497,1530,6,11,Neutral,Not available,3,1,3,No,155955.0
+1043,31.0,Other,20417.0,4,6,Contemporary,Rural,2.0,17.0,4,Low,13254,5982,1929,10551,22,17,Negative,Not available,3,3,5,No,29265.0
+1044,41.0,Male,29729.0,13,5,Eclectic,Suburban,,6.0,4,Low,18388,3771,6000,29394,3,9,Positive,Scarce,5,1,2,No,57744.0
+1045,44.0,Female,35099.0,13,9,Traditional,Suburban,10.0,13.0,2,Medium,8057,7187,7532,43987,3,7,Negative,Not available,2,1,3,Yes,111927.0
+1046,44.0,Other,34961.0,2,7,Traditional,Suburban,8.0,14.0,3,Medium,4755,5892,4588,49984,16,14,Neutral,Scarce,4,1,4,No,
+1047,46.0,Male,17602.0,3,8,Eclectic,Urban,3.0,10.0,3,Medium,3846,789,7396,3560,10,17,Neutral,Available,5,2,1,No,28656.0
+1048,52.0,Male,14256.0,22,1,Minimalist,Suburban,7.0,11.0,3,Low,3964,9494,1385,19561,17,8,Negative,Scarce,3,3,2,No,14304.0
+1049,64.0,Male,,8,2,Traditional,Urban,,,1,Low,9878,8925,7999,6103,7,16,Positive,Not available,5,1,3,No,91616.0
+1050,31.0,Other,39681.0,15,8,Modern,Urban,3.0,12.0,4,High,13648,907,7708,25090,13,12,Positive,Not available,4,3,5,Yes,50911.0
+1051,25.0,Other,96328.0,11,9,Contemporary,Urban,2.0,9.0,2,Low,3755,1193,2757,18921,11,12,Neutral,Not available,1,4,5,Yes,48013.0
+1052,56.0,Female,92440.0,9,4,Traditional,Urban,8.0,4.0,1,Low,7473,1669,4695,43233,10,5,Neutral,Scarce,1,1,3,No,82981.0
+1053,37.0,Other,,7,9,Traditional,Rural,3.0,7.0,3,Medium,15554,9123,3566,3781,7,5,Neutral,Not available,4,1,5,No,45314.0
+1054,54.0,Other,48361.0,13,4,Minimalist,Urban,7.0,2.0,1,High,2693,8282,753,18330,6,14,Positive,Scarce,2,1,3,Yes,27857.0
+1055,47.0,Male,69503.0,2,9,Modern,Suburban,1.0,7.0,2,High,12084,9674,2921,6257,1,6,Neutral,Available,5,4,2,No,164966.0
+1056,43.0,Female,39540.0,8,7,Contemporary,Urban,6.0,,2,High,13003,3544,918,35956,17,7,Neutral,Available,4,4,5,No,174642.0
+1057,56.0,Other,31536.0,7,2,Traditional,Suburban,9.0,5.0,4,Medium,18068,6030,936,39831,12,17,Positive,Not available,1,2,2,Yes,44420.0
+1058,54.0,Other,89700.0,12,9,Contemporary,Urban,3.0,15.0,3,High,3919,5492,2648,16615,4,9,Neutral,Scarce,3,5,4,Yes,126015.0
+1059,53.0,Male,68043.0,19,4,Eclectic,Rural,7.0,18.0,3,High,4756,4424,5174,1881,3,13,Neutral,Scarce,4,3,4,Yes,192282.0
+1060,53.0,Male,83532.0,7,8,Traditional,Urban,6.0,4.0,1,Medium,4283,7470,5875,2847,6,9,Negative,Not available,4,5,4,No,32734.0
+1061,54.0,Other,,10,7,Traditional,Urban,8.0,,3,High,5691,3812,3336,40367,16,16,Neutral,Scarce,4,1,4,No,41219.0
+1062,40.0,Female,7871.0,16,7,Eclectic,Rural,3.0,7.0,1,Low,8350,4818,2549,23110,13,4,Negative,Not available,1,1,5,No,71972.0
+1063,64.0,Female,51002.0,3,8,Minimalist,Urban,3.0,8.0,2,Low,18540,2188,3021,38336,9,2,Neutral,Not available,1,2,3,No,127775.0
+1064,43.0,Male,54812.0,10,1,Traditional,Suburban,4.0,17.0,2,Low,4061,967,2649,17314,11,13,Neutral,Available,4,5,5,Yes,60813.0
+1065,42.0,Male,27626.0,6,5,Contemporary,Urban,3.0,13.0,2,Low,6919,2922,6440,31118,20,13,Negative,Not available,4,1,5,Yes,147079.0
+1066,25.0,Other,64979.0,18,2,Modern,Urban,9.0,11.0,2,Low,18676,7779,6043,40931,21,19,Neutral,Scarce,2,5,2,Yes,
+1067,38.0,Male,81057.0,18,2,Contemporary,Urban,4.0,1.0,2,Low,11076,5007,4732,44924,13,12,Negative,Not available,3,2,3,Yes,
+1068,26.0,Other,71668.0,5,1,Minimalist,Rural,6.0,2.0,1,Low,10752,5221,6475,23966,23,4,Neutral,Available,5,5,1,No,
+1069,,Female,85070.0,21,5,Modern,Urban,8.0,17.0,2,Low,17012,5871,2294,45023,19,10,Negative,Available,5,3,1,No,184503.0
+1070,54.0,Female,94390.0,7,2,Contemporary,Urban,8.0,5.0,1,Low,10175,9703,7565,12320,3,16,Negative,Scarce,5,2,3,Yes,107715.0
+1071,62.0,Other,47998.0,2,4,Contemporary,Suburban,5.0,6.0,2,Medium,8902,8041,6403,3216,12,19,Neutral,Not available,1,5,1,No,9841.0
+1072,28.0,Male,68814.0,11,3,Eclectic,Urban,5.0,7.0,1,Medium,3067,1986,6178,26564,19,8,Neutral,Scarce,1,1,3,Yes,176801.0
+1073,25.0,Female,50607.0,13,3,Minimalist,Urban,6.0,15.0,1,Low,2979,4249,3120,39469,8,6,Negative,Scarce,2,4,2,Yes,89647.0
+1074,32.0,Male,12812.0,23,2,Eclectic,Urban,10.0,19.0,1,Medium,19120,8559,7658,25401,14,4,Positive,Not available,1,4,2,No,81629.0
+1075,53.0,Female,66844.0,5,6,Modern,Urban,7.0,16.0,3,Medium,19302,3003,1371,12780,22,7,Neutral,Available,4,2,5,No,78082.0
+1076,63.0,Other,,6,2,Eclectic,Suburban,10.0,13.0,1,Low,1700,8355,2331,11694,9,14,Neutral,Scarce,3,4,1,No,62804.0
+1077,27.0,Other,,14,8,Minimalist,Suburban,7.0,5.0,1,Low,5046,7555,5669,5809,17,13,Positive,Scarce,3,3,3,No,57006.0
+1078,,Other,48798.0,12,8,Traditional,Rural,4.0,3.0,2,Medium,3073,899,1549,17562,6,5,Positive,Available,3,2,2,No,157656.0
+1079,34.0,Female,79601.0,4,5,Traditional,Urban,6.0,3.0,1,Low,12945,4882,1595,48160,4,9,Negative,Not available,3,1,5,No,129582.0
+1080,34.0,Male,13275.0,23,7,Modern,Rural,7.0,19.0,1,Low,17778,2039,7108,33441,4,3,Neutral,Not available,5,1,1,No,196663.0
+1081,43.0,Male,55574.0,6,4,Traditional,Rural,5.0,14.0,4,Low,4048,8928,3856,41539,19,10,Negative,Not available,5,2,1,No,155433.0
+1082,58.0,Male,52857.0,10,1,Eclectic,Urban,,16.0,3,Low,1522,7685,627,2929,12,15,Neutral,Available,4,4,1,Yes,85020.0
+1083,57.0,Female,,18,2,Modern,Suburban,2.0,17.0,4,Medium,12101,5410,1096,30617,2,17,Positive,Scarce,2,4,2,Yes,183943.0
+1084,47.0,Female,44464.0,15,4,Minimalist,Suburban,7.0,4.0,2,High,9741,9619,5599,48074,17,6,Negative,Available,1,1,2,No,135328.0
+1085,52.0,Female,,8,1,Modern,Urban,6.0,13.0,3,Medium,18852,5009,3161,15244,15,3,Neutral,Scarce,1,3,1,No,19101.0
+1086,56.0,Female,98330.0,9,8,Modern,Urban,1.0,8.0,3,High,13674,6551,5060,33879,10,18,Neutral,Scarce,5,4,2,Yes,178846.0
+1087,31.0,Female,99319.0,5,9,Contemporary,Suburban,4.0,,4,High,18805,6652,3093,45179,3,5,Positive,Not available,3,3,1,Yes,178773.0
+1088,53.0,Male,87534.0,10,4,Contemporary,Urban,3.0,5.0,3,High,1285,9111,3394,12116,20,13,Positive,Not available,4,4,4,Yes,18261.0
+1089,32.0,Female,18869.0,20,3,Modern,Urban,3.0,,4,Medium,12957,4624,3277,23418,4,1,Neutral,Not available,2,2,2,Yes,149281.0
+1090,25.0,Female,65315.0,6,2,Traditional,Urban,7.0,15.0,1,Medium,8108,2895,1262,16707,22,17,Positive,Available,5,5,3,No,33647.0
+1091,27.0,Male,98688.0,16,5,Contemporary,Suburban,,2.0,4,Medium,15990,9352,6025,18765,1,3,Positive,Not available,4,1,2,Yes,144293.0
+1092,48.0,Female,25954.0,3,3,Minimalist,Rural,4.0,11.0,3,Medium,18829,4450,5789,36895,1,19,Negative,Available,4,2,1,Yes,183905.0
+1093,47.0,Male,36555.0,10,7,Eclectic,Rural,8.0,13.0,3,Medium,6837,949,1568,14100,18,12,Neutral,Not available,5,4,3,Yes,90413.0
+1094,32.0,Male,68353.0,11,6,Contemporary,Urban,9.0,10.0,2,High,16032,879,5579,24867,4,8,Negative,Not available,4,1,5,Yes,30557.0
+1095,,Other,87190.0,11,1,Modern,Suburban,3.0,3.0,2,Medium,2466,9942,672,44971,23,8,Positive,Not available,3,5,3,No,143598.0
+1096,27.0,Other,50026.0,17,8,Traditional,Urban,5.0,,2,High,10106,7785,4680,2208,22,15,Neutral,Available,4,5,3,Yes,108585.0
+1097,57.0,Other,51976.0,4,2,Eclectic,Suburban,4.0,3.0,2,Medium,9479,2801,2868,45085,15,11,Positive,Scarce,2,4,2,No,137323.0
+1098,52.0,Other,85578.0,4,5,Contemporary,Urban,10.0,,3,Medium,11280,8210,7917,1036,23,1,Positive,Available,4,1,3,No,
+1099,32.0,Female,,17,9,Traditional,Suburban,6.0,13.0,2,Low,6932,6292,7140,19212,21,16,Neutral,Available,1,4,3,No,190564.0
+1100,,Other,50095.0,9,8,Traditional,Suburban,10.0,10.0,4,High,10996,9418,5202,12252,22,14,Positive,Available,4,5,1,No,
+1101,59.0,Male,,19,2,Traditional,Rural,4.0,19.0,1,Medium,2178,7716,5042,20725,10,7,Negative,Scarce,5,2,2,No,116688.0
+1102,56.0,Female,35908.0,5,9,Modern,Urban,8.0,8.0,3,Medium,3551,5405,3993,8006,17,6,Neutral,Available,1,2,1,Yes,115990.0
+1103,48.0,Other,20523.0,22,5,Minimalist,Rural,3.0,18.0,2,Medium,17025,6499,1904,48835,22,4,Positive,Not available,5,3,2,No,34146.0
+1104,38.0,Male,67433.0,6,6,Traditional,Rural,5.0,3.0,3,Low,10780,9107,6579,25059,12,8,Positive,Scarce,2,5,5,Yes,57318.0
+1105,56.0,Female,,3,3,Eclectic,Suburban,,17.0,2,High,11148,7622,395,6347,20,19,Positive,Available,3,5,3,Yes,42638.0
+1106,40.0,Female,24991.0,22,3,Contemporary,Urban,6.0,,3,Medium,10967,1099,7586,33171,12,3,Neutral,Available,2,4,2,No,6147.0
+1107,28.0,Other,15775.0,1,8,Eclectic,Suburban,5.0,10.0,2,Medium,5862,7788,7841,29517,16,4,Negative,Scarce,1,3,3,No,138919.0
+1108,61.0,Female,82801.0,20,2,Modern,Suburban,8.0,2.0,1,Medium,10179,8421,4669,25274,5,13,Positive,Available,3,3,3,Yes,
+1109,45.0,Male,89995.0,22,2,Modern,Suburban,9.0,12.0,2,Low,6855,2067,4241,34577,16,2,Positive,Scarce,4,1,4,No,65335.0
+1110,38.0,Female,66250.0,16,5,Eclectic,Urban,8.0,6.0,4,Medium,18587,1594,7321,28648,17,11,Positive,Not available,1,4,1,No,
+1111,,Male,21673.0,23,6,Minimalist,Urban,8.0,2.0,3,High,2119,6691,7293,5118,23,16,Neutral,Available,3,2,2,No,69347.0
+1112,42.0,Female,32056.0,11,2,Modern,Suburban,3.0,3.0,3,High,4975,1958,1500,18910,15,10,Positive,Available,5,1,5,Yes,
+1113,31.0,Other,11614.0,13,5,Modern,Urban,4.0,17.0,4,High,13919,9900,4244,14083,13,15,Positive,Not available,3,3,4,Yes,179892.0
+1114,34.0,Male,12415.0,10,7,Eclectic,Suburban,4.0,7.0,4,High,10602,8546,6168,14187,8,10,Positive,Available,5,2,1,No,121830.0
+1115,31.0,Female,93691.0,3,8,Modern,Urban,5.0,5.0,1,Medium,13695,5434,5179,1424,21,2,Neutral,Available,5,5,5,No,162148.0
+1116,57.0,Female,48884.0,9,7,Minimalist,Urban,9.0,1.0,3,Low,2292,1854,5696,27641,2,6,Negative,Scarce,3,4,5,No,166824.0
+1117,47.0,Female,21964.0,12,8,Minimalist,Rural,9.0,8.0,1,Low,10386,6973,7605,35750,8,14,Neutral,Available,2,3,3,Yes,196605.0
+1118,45.0,Male,42726.0,23,9,Minimalist,Suburban,10.0,12.0,3,Low,11140,8904,431,16918,10,2,Negative,Not available,2,5,1,No,21003.0
+1119,43.0,Male,42044.0,14,5,Contemporary,Rural,1.0,,3,Medium,19601,4394,3415,24154,7,10,Negative,Available,5,3,4,No,22710.0
+1120,43.0,Male,62149.0,1,5,Minimalist,Rural,8.0,16.0,1,Low,12772,8532,7590,49166,10,17,Neutral,Scarce,1,2,2,No,70657.0
+1121,60.0,Other,42544.0,18,4,Minimalist,Suburban,1.0,,3,High,7590,3463,7603,12992,4,8,Positive,Not available,3,1,2,No,173153.0
+1122,53.0,Other,54976.0,17,9,Contemporary,Suburban,2.0,,3,Medium,14977,3542,1690,35001,11,16,Negative,Not available,1,2,4,Yes,186300.0
+1123,42.0,Male,37252.0,9,5,Traditional,Urban,,15.0,1,Low,18401,7473,6816,43757,9,14,Positive,Not available,2,4,3,No,117286.0
+1124,26.0,Female,8832.0,9,2,Modern,Suburban,8.0,10.0,2,High,6176,7639,1449,15546,4,10,Negative,Not available,1,4,3,No,25655.0
+1125,,Other,95811.0,23,8,Minimalist,Rural,1.0,7.0,1,High,13399,7430,3810,42524,3,13,Positive,Scarce,4,3,5,Yes,144555.0
+1126,29.0,Male,85437.0,10,7,Modern,Rural,3.0,3.0,3,Medium,7647,2232,6206,4019,11,1,Positive,Scarce,4,2,1,No,45094.0
+1127,44.0,Female,39148.0,19,8,Eclectic,Suburban,7.0,2.0,4,Medium,7015,8370,6426,2304,3,10,Neutral,Scarce,2,1,5,No,177522.0
+1128,35.0,Other,66240.0,15,3,Modern,Rural,9.0,6.0,2,Low,16845,5840,3947,47912,18,12,Positive,Scarce,1,4,2,Yes,123116.0
+1129,26.0,Female,93454.0,5,4,Contemporary,Urban,,9.0,4,Low,19473,5611,1107,17832,19,17,Negative,Available,3,1,4,No,161281.0
+1130,27.0,Female,90076.0,15,5,Modern,Rural,8.0,10.0,2,Low,3056,3581,5139,23791,14,14,Positive,Scarce,2,5,1,Yes,51316.0
+1131,47.0,Female,82116.0,20,6,Modern,Urban,9.0,,4,Medium,13176,8302,350,11022,11,5,Positive,Available,4,3,4,No,23556.0
+1132,36.0,Female,58459.0,23,1,Modern,Rural,10.0,3.0,2,Low,11003,9962,3508,11350,2,19,Positive,Not available,2,1,1,No,164034.0
+1133,44.0,Other,43402.0,2,4,Traditional,Urban,3.0,9.0,1,Low,14747,8027,5577,12818,2,5,Negative,Available,1,3,2,No,151710.0
+1134,29.0,Other,62727.0,13,5,Traditional,Urban,8.0,17.0,2,High,4114,5368,355,34617,2,15,Negative,Available,1,5,2,Yes,43754.0
+1135,61.0,Other,43578.0,16,7,Eclectic,Suburban,,14.0,2,High,14442,2029,3964,4962,10,13,Negative,Available,1,1,1,No,107211.0
+1136,62.0,Male,95453.0,15,5,Contemporary,Urban,8.0,10.0,2,High,8383,1581,1043,5854,23,17,Positive,Scarce,5,1,3,Yes,59376.0
+1137,54.0,Other,27318.0,10,1,Modern,Suburban,7.0,13.0,3,Low,2629,8494,6871,35307,15,1,Neutral,Scarce,1,5,1,Yes,149425.0
+1138,33.0,Female,80715.0,14,7,Modern,Rural,8.0,12.0,4,Medium,18927,4031,4838,3944,22,14,Negative,Not available,4,2,2,Yes,90388.0
+1139,58.0,Other,82787.0,10,8,Modern,Rural,1.0,1.0,1,High,19288,9843,6330,23327,12,4,Positive,Scarce,4,1,4,Yes,18771.0
+1140,59.0,Female,90029.0,14,7,Modern,Rural,6.0,19.0,4,Medium,18820,1216,6769,4244,11,9,Negative,Available,5,1,5,Yes,71026.0
+1141,46.0,Male,25466.0,23,4,Traditional,Urban,7.0,19.0,4,Low,4317,6729,7083,23720,17,17,Neutral,Scarce,4,4,4,Yes,132540.0
+1142,48.0,Female,50475.0,9,8,Eclectic,Rural,5.0,6.0,1,Low,12251,704,6057,26090,18,3,Positive,Scarce,4,2,2,No,140335.0
+1143,41.0,Female,65142.0,14,5,Minimalist,Rural,,13.0,3,High,5116,7284,3176,47023,14,13,Negative,Available,2,1,4,No,143841.0
+1144,34.0,Female,90160.0,3,9,Contemporary,Suburban,7.0,19.0,2,Medium,10623,4594,379,35359,17,12,Negative,Not available,1,5,3,No,161406.0
+1145,54.0,Male,31564.0,20,5,Modern,Suburban,3.0,13.0,3,High,7123,5982,6917,49536,15,16,Neutral,Scarce,2,3,3,No,168821.0
+1146,47.0,Other,27412.0,16,1,Eclectic,Rural,6.0,4.0,3,Low,4061,6240,4772,8855,12,4,Negative,Not available,2,5,1,Yes,147707.0
+1147,56.0,Other,,2,9,Minimalist,Rural,7.0,2.0,2,Medium,9089,7719,4240,2601,16,18,Positive,Available,4,2,4,No,70110.0
+1148,41.0,Male,56001.0,10,5,Eclectic,Urban,1.0,15.0,4,High,4731,6654,3266,32952,23,3,Positive,Scarce,3,4,4,No,137976.0
+1149,41.0,Female,62649.0,3,6,Traditional,Urban,2.0,12.0,2,Low,7327,5342,6776,46577,6,17,Neutral,Not available,1,4,2,Yes,75805.0
+1150,38.0,Other,65957.0,11,4,Minimalist,Rural,4.0,7.0,1,High,17361,8603,7642,6690,2,1,Neutral,Not available,3,4,1,No,35968.0
+1151,33.0,Male,40517.0,11,6,Eclectic,Suburban,,18.0,2,Medium,16907,9929,4028,13521,2,19,Neutral,Available,4,5,1,Yes,6650.0
+1152,64.0,Other,18156.0,21,8,Traditional,Rural,10.0,13.0,4,Medium,3046,2518,4836,35610,16,4,Positive,Scarce,5,3,4,No,17467.0
+1153,26.0,Male,28064.0,21,3,Eclectic,Urban,6.0,17.0,3,Medium,12332,5551,425,11483,2,17,Neutral,Not available,2,3,5,No,106495.0
+1154,49.0,Female,30711.0,22,5,Eclectic,Suburban,1.0,4.0,3,Medium,6064,9209,6113,9058,8,7,Negative,Not available,4,1,4,Yes,103331.0
+1155,63.0,Other,35106.0,13,2,Minimalist,Suburban,10.0,14.0,2,Medium,10445,8335,518,14704,7,2,Negative,Not available,4,3,4,No,182972.0
+1156,33.0,Male,70458.0,7,2,Traditional,Urban,5.0,13.0,1,High,1722,1938,1247,6565,1,12,Positive,Not available,3,3,4,No,40518.0
+1157,46.0,Other,21589.0,23,7,Modern,Rural,7.0,3.0,4,High,14289,4586,4673,44856,4,5,Negative,Not available,5,1,3,No,9357.0
+1158,28.0,Other,94272.0,17,6,Contemporary,Rural,6.0,18.0,3,High,16210,5627,7952,38256,11,16,Neutral,Not available,2,5,1,No,98837.0
+1159,50.0,Other,91511.0,2,4,Minimalist,Rural,9.0,14.0,2,High,8564,2552,894,31615,20,8,Negative,Not available,5,5,3,Yes,15865.0
+1160,53.0,Other,12214.0,12,5,Traditional,Urban,8.0,,1,Low,9275,8029,5330,42674,7,8,Neutral,Not available,5,2,5,No,119559.0
+1161,58.0,Male,90731.0,10,1,Eclectic,Suburban,4.0,3.0,1,Low,4819,7647,6414,2927,18,13,Negative,Not available,5,5,2,Yes,73368.0
+1162,47.0,Female,32127.0,18,7,Traditional,Urban,5.0,1.0,3,High,4364,4868,440,16512,4,14,Positive,Not available,1,4,5,Yes,
+1163,61.0,Male,10141.0,22,8,Contemporary,Rural,7.0,17.0,3,Low,5318,5017,3193,9301,17,11,Neutral,Scarce,5,4,1,No,66039.0
+1164,35.0,Male,33884.0,11,9,Contemporary,Urban,8.0,3.0,4,Low,12479,2812,3355,22313,11,6,Negative,Available,4,2,2,Yes,101939.0
+1165,,Male,95421.0,16,8,Modern,Suburban,,14.0,1,Medium,8398,6077,1930,9457,11,16,Positive,Available,1,3,5,No,
+1166,42.0,Female,7708.0,17,5,Modern,Urban,,,4,High,3452,9473,1176,6492,20,15,Negative,Available,1,2,1,Yes,104737.0
+1167,45.0,Other,23375.0,19,3,Contemporary,Rural,10.0,13.0,1,Low,1425,1744,6125,4223,11,16,Positive,Not available,5,1,5,Yes,9428.0
+1168,,Other,20088.0,18,9,Minimalist,Suburban,4.0,15.0,1,Low,14865,2916,4505,23511,15,13,Negative,Available,4,2,2,Yes,93783.0
+1169,62.0,Other,62615.0,3,6,Minimalist,Urban,4.0,18.0,2,High,14507,6990,5471,22455,14,12,Neutral,Not available,2,2,2,Yes,118823.0
+1170,58.0,Female,50046.0,21,5,Eclectic,Urban,8.0,,3,Medium,9799,6668,2960,34722,17,18,Neutral,Scarce,5,4,5,No,57557.0
+1171,41.0,Other,15014.0,16,3,Modern,Suburban,1.0,3.0,1,High,3124,9667,7156,24434,2,18,Neutral,Available,1,1,3,No,100983.0
+1172,61.0,Female,69425.0,6,6,Eclectic,Suburban,8.0,19.0,4,Medium,18684,6339,6389,31341,18,14,Neutral,Scarce,2,1,5,No,119039.0
+1173,49.0,Other,,12,3,Modern,Rural,,8.0,3,Low,6015,9108,3690,43309,16,2,Neutral,Scarce,2,2,5,No,
+1174,62.0,Other,52135.0,11,6,Contemporary,Suburban,1.0,,4,Medium,9657,8906,5618,16007,12,2,Negative,Not available,1,1,5,Yes,51923.0
+1175,36.0,Male,35881.0,15,4,Minimalist,Rural,4.0,4.0,3,Medium,19348,9827,5191,35342,10,3,Negative,Available,2,1,3,No,166636.0
+1176,47.0,Female,83077.0,15,2,Minimalist,Urban,2.0,19.0,3,High,11731,7597,2329,27799,16,8,Negative,Scarce,4,5,4,No,123602.0
+1177,46.0,Male,,16,8,Contemporary,Rural,4.0,11.0,1,Low,19744,5509,5124,16674,3,11,Negative,Available,4,1,2,No,80511.0
+1178,45.0,Male,79704.0,10,4,Eclectic,Urban,8.0,1.0,2,High,19423,2082,7513,16426,8,12,Neutral,Scarce,5,3,1,Yes,123410.0
+1179,51.0,Male,57874.0,12,9,Eclectic,Suburban,5.0,8.0,1,High,17308,9424,2852,8095,22,4,Positive,Scarce,5,1,2,Yes,138714.0
+1180,55.0,Female,74087.0,13,7,Traditional,Urban,1.0,15.0,3,Low,18568,8376,3911,45791,22,9,Neutral,Not available,2,4,2,Yes,110881.0
+1181,30.0,Female,17297.0,4,2,Modern,Suburban,,1.0,1,High,15643,2927,5933,25104,2,17,Negative,Available,1,5,4,Yes,149921.0
+1182,51.0,Other,32128.0,7,4,Eclectic,Urban,1.0,7.0,1,High,4934,6221,1340,4255,22,16,Neutral,Not available,4,4,2,Yes,107015.0
+1183,64.0,Male,73368.0,22,5,Contemporary,Urban,9.0,11.0,3,Medium,12409,8923,614,34826,1,17,Neutral,Not available,3,4,2,No,155416.0
+1184,58.0,Other,99019.0,2,3,Eclectic,Urban,3.0,14.0,3,High,9172,5430,7903,35725,14,15,Neutral,Not available,5,3,3,Yes,26214.0
+1185,36.0,Male,92599.0,15,9,Minimalist,Urban,3.0,16.0,1,Low,1777,4853,3759,24032,4,7,Positive,Not available,4,5,3,No,174298.0
+1186,31.0,Female,93499.0,8,5,Modern,Rural,,14.0,1,High,16905,8332,4472,5944,4,10,Neutral,Not available,2,2,3,Yes,158594.0
+1187,34.0,Female,83958.0,7,2,Traditional,Urban,10.0,12.0,1,Medium,3418,5875,3325,38826,9,4,Neutral,Scarce,4,1,3,Yes,11680.0
+1188,41.0,Female,,15,3,Modern,Rural,6.0,17.0,4,High,13454,902,3246,31497,3,14,Positive,Available,4,3,3,Yes,148579.0
+1189,50.0,Male,,23,9,Minimalist,Suburban,6.0,14.0,1,High,3439,7067,7838,28723,5,14,Neutral,Available,2,3,1,Yes,122028.0
+1190,,Female,16108.0,14,7,Minimalist,Suburban,1.0,10.0,4,High,8804,5365,3536,36287,1,14,Neutral,Not available,5,2,4,Yes,79955.0
+1191,52.0,Male,36845.0,8,2,Minimalist,Rural,5.0,14.0,2,Medium,14023,8646,3980,12845,22,14,Neutral,Available,5,3,5,Yes,185079.0
+1192,26.0,Other,7800.0,12,9,Minimalist,Suburban,6.0,18.0,4,Low,15826,564,6036,25297,19,18,Neutral,Scarce,3,2,3,No,
+1193,25.0,Male,47712.0,13,4,Contemporary,Suburban,8.0,9.0,1,Low,14212,2737,7491,3570,1,15,Neutral,Not available,3,2,4,Yes,123273.0
+1194,,Other,7610.0,11,9,Traditional,Urban,1.0,,2,Medium,2989,8270,5107,28503,10,19,Negative,Scarce,5,2,5,Yes,54353.0
+1195,50.0,Male,82603.0,17,2,Minimalist,Urban,5.0,6.0,4,Medium,8868,9641,3406,8450,22,13,Neutral,Scarce,5,3,2,No,109289.0
+1196,53.0,Other,38872.0,17,4,Minimalist,Urban,3.0,8.0,4,High,10258,672,1837,21271,12,12,Positive,Not available,5,2,2,Yes,49233.0
+1197,45.0,Female,15728.0,4,5,Eclectic,Rural,2.0,13.0,3,Low,1944,8435,4172,41471,10,19,Neutral,Scarce,5,3,4,Yes,186937.0
+1198,35.0,Other,25583.0,21,2,Traditional,Rural,8.0,18.0,2,Medium,19281,3175,2167,16898,2,19,Negative,Not available,4,5,1,No,143944.0
+1199,64.0,Female,90774.0,8,1,Modern,Suburban,7.0,5.0,3,Low,6150,9942,5249,15389,16,2,Positive,Scarce,3,2,1,No,12839.0
+1200,35.0,Female,12263.0,5,7,Traditional,Urban,10.0,6.0,2,High,19081,4505,7928,49182,8,3,Positive,Available,2,3,4,Yes,151724.0
+1201,60.0,Other,72450.0,16,1,Traditional,Rural,7.0,19.0,4,Medium,12006,7044,1461,26463,14,10,Neutral,Available,1,3,1,Yes,142931.0
+1202,63.0,Male,94285.0,4,8,Traditional,Rural,5.0,,3,Low,11680,9329,4220,1744,15,5,Negative,Available,2,3,1,Yes,169592.0
+1203,64.0,Male,24456.0,22,3,Minimalist,Urban,9.0,7.0,1,Low,16204,1448,5993,23804,16,12,Neutral,Not available,1,1,2,Yes,83840.0
+1204,59.0,Male,96118.0,15,6,Minimalist,Rural,5.0,4.0,4,High,2665,2194,4182,37282,11,7,Negative,Scarce,4,1,1,Yes,185338.0
+1205,58.0,Male,70942.0,12,7,Contemporary,Urban,2.0,11.0,2,Medium,13811,5257,3056,11871,12,9,Negative,Scarce,3,2,1,Yes,
+1206,48.0,Male,18689.0,5,1,Modern,Suburban,3.0,,2,Low,9951,6782,2212,14536,2,2,Neutral,Available,1,5,4,No,74516.0
+1207,,Female,37934.0,23,6,Eclectic,Suburban,4.0,14.0,3,High,11349,642,564,24097,4,10,Negative,Available,5,2,1,No,175165.0
+1208,29.0,Male,38276.0,16,7,Traditional,Suburban,5.0,13.0,3,Low,10543,6501,4728,1175,3,6,Neutral,Not available,4,4,3,No,188042.0
+1209,,Female,24873.0,14,6,Modern,Urban,,10.0,2,High,10460,7152,6631,4217,9,12,Negative,Not available,1,4,3,No,54620.0
+1210,60.0,Female,18050.0,10,4,Modern,Rural,7.0,18.0,4,Low,2785,5081,5482,16106,18,6,Positive,Scarce,5,5,4,Yes,5425.0
+1211,44.0,Female,71216.0,7,1,Contemporary,Suburban,5.0,16.0,3,Low,6948,5587,5215,31359,19,3,Neutral,Not available,4,5,3,No,78677.0
+1212,43.0,Other,89444.0,13,9,Eclectic,Suburban,5.0,,1,High,15498,1960,1602,47464,7,10,Negative,Not available,1,5,2,Yes,55727.0
+1213,59.0,Other,89040.0,20,4,Traditional,Suburban,6.0,8.0,2,Medium,19991,4387,5961,23357,4,9,Positive,Not available,5,1,4,Yes,186057.0
+1214,41.0,Female,26644.0,5,7,Eclectic,Rural,7.0,14.0,1,High,3630,8984,1494,43354,6,5,Positive,Available,3,1,1,No,183156.0
+1215,58.0,Other,67021.0,3,7,Contemporary,Rural,10.0,5.0,2,Medium,8660,1337,1826,39570,19,3,Positive,Available,4,4,3,Yes,74642.0
+1216,33.0,Male,42125.0,15,2,Minimalist,Urban,10.0,8.0,1,Low,1238,9729,3904,8034,1,5,Positive,Scarce,1,5,2,No,90623.0
+1217,50.0,Male,,4,1,Modern,Suburban,8.0,6.0,4,Low,14891,6346,4694,17263,16,8,Neutral,Not available,5,3,4,No,6408.0
+1218,26.0,Female,,15,8,Traditional,Rural,9.0,16.0,2,High,10338,8963,2548,43180,11,8,Negative,Available,3,4,4,No,60337.0
+1219,33.0,Male,,14,8,Minimalist,Urban,4.0,4.0,4,High,10749,2869,1458,9776,22,14,Positive,Not available,5,5,1,No,
+1220,33.0,Female,6538.0,20,7,Contemporary,Suburban,5.0,12.0,3,Medium,11349,9497,4667,44822,4,17,Negative,Scarce,3,3,5,No,175235.0
+1221,64.0,Female,41176.0,19,8,Eclectic,Rural,5.0,11.0,2,Medium,14582,3674,4930,10812,18,11,Negative,Not available,1,5,3,Yes,132948.0
+1222,41.0,Male,46520.0,13,3,Modern,Rural,8.0,3.0,4,Medium,12643,6485,3813,20739,23,16,Negative,Scarce,5,2,2,No,20843.0
+1223,25.0,Other,30675.0,10,2,Traditional,Urban,9.0,12.0,1,High,13245,1382,7554,27925,5,6,Neutral,Scarce,5,3,4,Yes,185436.0
+1224,49.0,Male,23287.0,21,7,Minimalist,Suburban,7.0,5.0,4,Low,8899,9523,2378,20575,22,11,Neutral,Available,2,2,3,Yes,33477.0
+1225,,Male,5174.0,5,8,Minimalist,Suburban,5.0,6.0,2,High,8145,3671,1444,23231,6,10,Positive,Not available,4,1,2,Yes,126099.0
+1226,49.0,Female,97268.0,23,1,Modern,Rural,3.0,19.0,4,Low,6861,2540,368,12399,2,9,Negative,Available,5,4,2,Yes,
+1227,,Female,,20,9,Eclectic,Suburban,1.0,18.0,1,High,14051,7232,4017,48731,12,15,Neutral,Not available,3,5,4,No,163402.0
+1228,59.0,Female,58312.0,20,4,Contemporary,Urban,9.0,16.0,1,High,17632,6872,7326,24100,22,7,Neutral,Not available,4,4,3,Yes,99747.0
+1229,27.0,Female,17112.0,6,4,Eclectic,Rural,5.0,11.0,1,Medium,13321,6485,3308,11768,9,18,Neutral,Scarce,1,5,2,No,173641.0
+1230,61.0,Other,80225.0,4,3,Eclectic,Rural,9.0,5.0,3,Low,5323,8062,1126,34299,20,1,Positive,Scarce,4,2,4,Yes,53114.0
+1231,54.0,Other,49814.0,2,6,Eclectic,Urban,10.0,9.0,2,High,3860,6400,7963,12357,12,15,Neutral,Not available,2,3,3,No,72294.0
+1232,62.0,Other,90091.0,22,1,Modern,Rural,4.0,3.0,1,High,18107,8465,7367,2437,13,2,Negative,Available,1,3,3,No,43548.0
+1233,58.0,Female,55719.0,16,6,Modern,Suburban,5.0,8.0,3,Low,15919,5816,1469,25946,22,2,Neutral,Scarce,5,5,4,No,67598.0
+1234,36.0,Female,,18,2,Contemporary,Suburban,4.0,6.0,1,High,1569,8965,1283,21888,23,10,Neutral,Scarce,1,2,3,No,99705.0
+1235,43.0,Female,,5,9,Eclectic,Rural,2.0,4.0,4,Low,9411,1089,7800,6502,17,15,Positive,Not available,1,5,5,No,147332.0
+1236,61.0,Other,76569.0,22,2,Modern,Urban,1.0,12.0,2,Medium,10586,9274,4876,41376,5,10,Negative,Not available,2,5,2,Yes,37350.0
+1237,41.0,Female,46328.0,4,7,Contemporary,Urban,8.0,12.0,4,Medium,3122,5563,4277,6566,20,19,Neutral,Scarce,3,5,2,Yes,177813.0
+1238,34.0,Male,75482.0,13,1,Contemporary,Suburban,4.0,16.0,3,Low,15409,4133,3634,42576,13,13,Negative,Available,1,3,3,Yes,103214.0
+1239,36.0,Male,29618.0,19,7,Eclectic,Urban,5.0,10.0,4,Medium,4089,2490,2640,5014,13,11,Negative,Scarce,3,5,4,Yes,133885.0
+1240,40.0,Female,39675.0,23,5,Traditional,Rural,6.0,14.0,4,Low,15242,7015,2315,14613,10,2,Neutral,Not available,4,3,1,No,50181.0
+1241,48.0,Male,23919.0,2,8,Eclectic,Rural,8.0,13.0,1,High,8210,1758,1752,41167,15,13,Positive,Scarce,2,1,3,Yes,131310.0
+1242,43.0,Male,9173.0,13,4,Traditional,Suburban,8.0,9.0,4,High,17433,3366,2433,34699,15,1,Negative,Not available,5,2,1,Yes,88446.0
+1243,32.0,Other,31400.0,11,7,Contemporary,Suburban,7.0,7.0,1,Low,1514,4238,1339,36233,18,5,Neutral,Scarce,1,1,3,Yes,136912.0
+1244,55.0,Female,,22,6,Modern,Suburban,4.0,,1,High,11983,1071,7171,49391,18,7,Negative,Not available,3,5,1,Yes,198494.0
+1245,45.0,Female,75305.0,4,5,Minimalist,Urban,6.0,,2,Medium,11970,9236,5023,22814,2,13,Negative,Not available,1,3,3,Yes,
+1246,41.0,Other,42564.0,22,4,Contemporary,Rural,4.0,18.0,3,High,11810,4722,4513,24386,23,13,Negative,Available,2,2,4,No,17299.0
+1247,47.0,Male,50814.0,20,7,Modern,Rural,7.0,4.0,3,High,11029,1137,6713,47776,11,6,Neutral,Not available,5,4,1,No,55652.0
+1248,,Male,84747.0,20,5,Contemporary,Rural,1.0,2.0,3,Low,5671,8732,3766,42585,13,12,Negative,Scarce,4,2,5,Yes,76095.0
+1249,40.0,Female,93791.0,15,5,Eclectic,Suburban,5.0,3.0,1,Medium,18549,5382,3326,39756,11,8,Negative,Not available,4,2,4,No,168669.0
+1250,30.0,Male,32962.0,4,1,Traditional,Rural,10.0,12.0,3,High,11441,4892,7298,8509,4,9,Positive,Scarce,3,5,3,Yes,144779.0
+1251,32.0,Other,89892.0,9,2,Contemporary,Urban,10.0,3.0,1,High,1414,4172,4557,23316,15,18,Neutral,Available,4,1,1,No,53943.0
+1252,49.0,Other,90842.0,7,5,Modern,Urban,4.0,4.0,2,Low,16093,9991,3047,46617,22,11,Neutral,Scarce,3,1,2,No,114958.0
+1253,42.0,Female,75533.0,19,3,Eclectic,Rural,7.0,6.0,3,Low,18488,7757,7571,12071,23,11,Negative,Available,5,4,4,Yes,199875.0
+1254,,Other,61184.0,19,2,Minimalist,Suburban,9.0,12.0,1,Medium,3416,5211,6072,28742,11,15,Positive,Available,1,5,1,No,114575.0
+1255,36.0,Other,,6,4,Eclectic,Rural,5.0,19.0,3,High,6611,6143,4562,47849,18,9,Negative,Not available,2,2,4,Yes,112643.0
+1256,39.0,Female,15578.0,6,4,Traditional,Urban,4.0,10.0,3,Low,16231,659,4695,14228,16,3,Negative,Available,5,1,1,Yes,98555.0
+1257,50.0,Other,23624.0,20,4,Eclectic,Urban,9.0,1.0,2,Low,9395,6438,6471,12614,10,17,Neutral,Scarce,5,1,2,No,93377.0
+1258,50.0,Other,44194.0,15,4,Minimalist,Urban,5.0,17.0,4,Low,9260,1080,3795,11301,12,17,Positive,Available,4,3,5,No,90176.0
+1259,56.0,Other,5389.0,15,3,Modern,Rural,9.0,16.0,3,Medium,13648,8911,4155,36549,13,3,Negative,Available,4,2,2,No,105898.0
+1260,34.0,Male,72391.0,20,7,Contemporary,Urban,,9.0,2,Low,14342,8086,861,43851,9,19,Neutral,Not available,2,5,3,No,80276.0
+1261,40.0,Female,18794.0,9,9,Traditional,Suburban,4.0,9.0,3,Medium,15210,4974,7326,12374,21,9,Negative,Scarce,1,1,4,Yes,121774.0
+1262,,Female,63002.0,4,5,Minimalist,Rural,7.0,9.0,3,Medium,7833,7573,2503,35407,13,17,Negative,Available,5,5,5,Yes,139227.0
+1263,41.0,Female,40531.0,18,4,Traditional,Rural,5.0,12.0,3,High,5752,5559,5743,47606,6,18,Positive,Not available,4,2,4,Yes,28572.0
+1264,47.0,Male,57815.0,18,2,Eclectic,Urban,10.0,,3,High,12978,4828,3719,42741,6,15,Positive,Not available,5,2,1,Yes,195766.0
+1265,50.0,Male,9986.0,5,2,Traditional,Urban,4.0,15.0,4,Medium,9727,1894,1444,14982,11,1,Positive,Scarce,1,1,3,Yes,71514.0
+1266,45.0,Female,37298.0,20,5,Minimalist,Suburban,5.0,2.0,4,High,6023,1421,2999,32258,19,10,Negative,Not available,3,4,3,Yes,180915.0
+1267,46.0,Male,6481.0,23,7,Contemporary,Rural,5.0,11.0,3,High,1982,3273,1851,46652,11,8,Positive,Available,1,5,4,No,89967.0
+1268,31.0,Female,61408.0,11,9,Contemporary,Urban,9.0,11.0,3,Low,15305,4962,7264,11248,10,10,Neutral,Not available,5,5,3,Yes,40357.0
+1269,38.0,Male,74267.0,5,7,Traditional,Suburban,9.0,8.0,2,High,17146,5076,4321,11515,23,2,Negative,Scarce,5,3,4,Yes,121694.0
+1270,39.0,Other,21835.0,22,5,Modern,Urban,,6.0,2,Medium,18729,3934,860,36042,15,19,Positive,Scarce,2,2,1,No,159239.0
+1271,31.0,Other,32798.0,4,6,Traditional,Rural,4.0,,1,High,12201,7233,1487,27809,13,14,Negative,Not available,5,2,1,No,76478.0
+1272,33.0,Female,96649.0,12,3,Eclectic,Urban,,3.0,4,Low,17910,9810,3433,11830,23,8,Negative,Available,4,1,4,Yes,23983.0
+1273,32.0,Male,69887.0,2,5,Contemporary,Rural,3.0,8.0,3,Medium,18314,2365,3711,36248,8,19,Neutral,Not available,2,1,2,Yes,40276.0
+1274,47.0,Male,24477.0,13,8,Contemporary,Urban,2.0,18.0,4,High,19666,1224,1989,7799,5,1,Neutral,Scarce,5,1,2,No,181351.0
+1275,53.0,Other,22266.0,10,1,Contemporary,Rural,5.0,17.0,2,Medium,19330,1211,4707,9547,2,16,Neutral,Not available,1,3,1,Yes,195555.0
+1276,,Other,91328.0,9,1,Modern,Suburban,6.0,11.0,4,High,16365,8210,2723,32562,16,15,Negative,Not available,5,4,5,No,76451.0
+1277,55.0,Male,90988.0,10,7,Modern,Rural,5.0,2.0,4,Low,11733,5580,1669,15328,13,5,Negative,Available,1,1,2,No,138117.0
+1278,54.0,Male,48526.0,7,5,Minimalist,Suburban,2.0,19.0,3,High,11108,890,6593,13679,19,3,Neutral,Not available,1,1,4,No,94716.0
+1279,63.0,Male,16889.0,4,5,Traditional,Rural,5.0,7.0,3,Medium,4360,9762,6307,22058,9,17,Negative,Available,5,1,1,Yes,111743.0
+1280,59.0,Male,29335.0,19,1,Traditional,Suburban,9.0,,2,Medium,10785,4987,7028,33237,15,10,Neutral,Not available,1,3,3,Yes,47344.0
+1281,42.0,Male,16254.0,10,9,Eclectic,Urban,4.0,8.0,3,Medium,9112,8616,880,47696,6,5,Neutral,Not available,3,5,3,No,14564.0
+1282,63.0,Male,91610.0,3,1,Contemporary,Rural,10.0,14.0,2,High,17016,7247,1276,20906,8,11,Positive,Available,2,4,2,No,16105.0
+1283,41.0,Female,16442.0,21,5,Modern,Urban,2.0,7.0,2,High,4625,6566,4572,44427,14,6,Neutral,Available,5,5,5,Yes,61754.0
+1284,38.0,Male,51289.0,19,9,Eclectic,Suburban,3.0,4.0,1,High,6469,4994,6797,39872,5,4,Positive,Scarce,3,2,2,Yes,119069.0
+1285,55.0,Other,58747.0,21,4,Eclectic,Rural,3.0,,1,Low,2223,4072,4909,17547,17,7,Neutral,Available,1,2,5,Yes,25056.0
+1286,48.0,Female,42327.0,2,8,Modern,Rural,9.0,5.0,1,Low,8110,8269,2656,24306,22,19,Negative,Not available,1,1,2,No,
+1287,59.0,Male,21199.0,20,6,Traditional,Urban,4.0,12.0,4,Low,10157,2811,418,29210,7,7,Positive,Scarce,2,5,3,No,118097.0
+1288,58.0,Other,77827.0,10,3,Contemporary,Rural,1.0,9.0,1,Medium,14251,7273,1842,46693,9,14,Negative,Available,3,3,5,No,52689.0
+1289,27.0,Female,5112.0,2,4,Traditional,Rural,1.0,13.0,3,Medium,5992,7405,5162,29239,16,17,Negative,Available,3,4,3,Yes,37135.0
+1290,61.0,Other,92051.0,2,2,Eclectic,Urban,7.0,18.0,3,Medium,14646,4142,3343,28830,18,17,Neutral,Scarce,5,5,4,No,37812.0
+1291,64.0,Male,24581.0,17,1,Contemporary,Rural,7.0,9.0,1,Medium,12870,6838,1272,4381,13,13,Neutral,Not available,1,5,4,No,121773.0
+1292,50.0,Male,,16,8,Minimalist,Urban,2.0,4.0,4,Medium,5787,3109,1215,35832,18,1,Negative,Not available,4,4,1,No,158844.0
+1293,,Male,97036.0,16,1,Eclectic,Urban,9.0,8.0,2,High,19756,6740,6921,40357,10,2,Neutral,Scarce,5,5,3,Yes,85957.0
+1294,63.0,Male,21523.0,14,1,Traditional,Urban,9.0,1.0,4,Medium,12140,8306,1737,29841,1,18,Neutral,Not available,5,5,3,No,97652.0
+1295,39.0,Female,71960.0,7,4,Traditional,Urban,5.0,17.0,4,High,4299,1257,886,8447,21,4,Neutral,Available,5,4,1,No,12775.0
+1296,28.0,Female,24552.0,21,6,Traditional,Urban,3.0,9.0,2,Low,10360,5586,650,21368,18,13,Negative,Not available,2,3,4,Yes,59523.0
+1297,,Other,15808.0,11,9,Modern,Suburban,3.0,13.0,2,Low,7451,6720,5925,21271,19,1,Positive,Available,2,4,4,No,146779.0
+1298,46.0,Male,77525.0,1,1,Eclectic,Suburban,,2.0,2,Low,13941,6102,6638,1339,2,4,Positive,Not available,5,1,5,Yes,18372.0
+1299,49.0,Other,28620.0,11,7,Contemporary,Urban,,13.0,3,Low,16993,9826,7654,20974,4,2,Negative,Available,4,1,5,Yes,111252.0
+1300,37.0,Female,5887.0,23,5,Traditional,Suburban,4.0,,2,Low,15620,6621,5869,27509,11,4,Neutral,Scarce,3,1,4,No,197598.0
+1301,42.0,Male,,21,8,Traditional,Suburban,8.0,6.0,2,Medium,19791,9456,4891,38898,3,16,Neutral,Available,3,1,2,Yes,70106.0
+1302,57.0,Male,90024.0,4,7,Modern,Rural,5.0,1.0,4,Medium,14084,3225,2862,27221,9,4,Positive,Not available,1,2,3,No,58475.0
+1303,40.0,Female,86938.0,7,4,Contemporary,Urban,,5.0,4,Medium,6027,3868,7139,28263,10,9,Negative,Available,3,3,5,Yes,126314.0
+1304,26.0,Female,91741.0,15,4,Eclectic,Suburban,,,1,Low,5260,3997,2170,8733,2,17,Negative,Not available,3,2,2,No,133814.0
+1305,59.0,Female,31049.0,18,6,Minimalist,Rural,,4.0,4,Low,5828,8674,572,46878,7,2,Neutral,Not available,4,5,5,Yes,128502.0
+1306,58.0,Female,82789.0,12,6,Modern,Rural,6.0,1.0,2,High,9772,6142,3227,6049,15,3,Neutral,Available,3,5,1,Yes,62201.0
+1307,54.0,Female,89526.0,17,9,Eclectic,Urban,1.0,14.0,3,Medium,10012,9274,6495,44086,19,15,Neutral,Not available,4,4,3,Yes,
+1308,37.0,Male,12846.0,1,5,Minimalist,Urban,3.0,9.0,4,Low,9315,5266,4658,46401,10,7,Negative,Scarce,2,1,5,No,61243.0
+1309,37.0,Female,95563.0,11,8,Traditional,Rural,10.0,4.0,4,Low,15259,5133,3739,22088,20,4,Positive,Not available,4,4,4,No,128364.0
+1310,42.0,Male,51220.0,1,5,Traditional,Urban,5.0,18.0,2,Low,13631,2321,6576,16608,14,12,Negative,Scarce,2,5,1,No,80542.0
+1311,56.0,Male,51163.0,15,2,Contemporary,Urban,10.0,,4,High,19258,1685,3341,1638,4,1,Negative,Scarce,4,1,1,Yes,170065.0
+1312,56.0,Female,,21,6,Minimalist,Rural,7.0,4.0,4,Low,4123,2137,7692,8709,11,17,Negative,Not available,5,3,4,Yes,
+1313,59.0,Female,86486.0,10,9,Traditional,Rural,10.0,10.0,2,High,5224,7736,6753,6143,3,4,Positive,Scarce,2,5,1,No,161426.0
+1314,63.0,Male,,7,3,Traditional,Urban,8.0,,4,High,11977,8880,5992,2224,23,4,Neutral,Scarce,2,4,3,No,53637.0
+1315,53.0,Female,80277.0,2,1,Contemporary,Suburban,9.0,7.0,3,Medium,15608,2246,4248,48234,17,9,Neutral,Available,3,4,5,Yes,124714.0
+1316,53.0,Female,93278.0,10,1,Eclectic,Urban,,,1,Low,2210,6297,6459,49047,7,10,Negative,Scarce,2,5,1,Yes,131580.0
+1317,40.0,Female,95239.0,4,3,Traditional,Suburban,9.0,13.0,4,High,10218,8589,2064,45870,11,19,Negative,Scarce,4,2,3,Yes,109002.0
+1318,34.0,Other,27931.0,12,5,Modern,Rural,8.0,,3,Low,13453,3120,4590,38013,18,19,Positive,Scarce,5,3,4,No,140920.0
+1319,,Male,,19,3,Modern,Suburban,9.0,18.0,4,Medium,6429,8097,6182,10741,14,15,Positive,Scarce,5,5,5,Yes,47673.0
+1320,49.0,Other,60633.0,11,9,Eclectic,Rural,10.0,11.0,1,Medium,16210,8502,5862,23991,14,17,Neutral,Scarce,3,5,4,No,147855.0
+1321,63.0,Female,85702.0,8,8,Minimalist,Urban,4.0,4.0,2,High,9689,6607,6746,41175,6,7,Negative,Not available,4,4,5,Yes,69694.0
+1322,44.0,Other,56913.0,18,3,Contemporary,Urban,9.0,14.0,1,Medium,13721,9876,5467,27081,9,3,Positive,Scarce,4,1,1,No,116692.0
+1323,29.0,Female,99776.0,11,9,Modern,Rural,7.0,18.0,4,Medium,10885,3293,2070,48558,22,5,Positive,Not available,1,1,1,Yes,197937.0
+1324,25.0,Other,30991.0,11,6,Modern,Rural,5.0,8.0,1,Medium,9182,3000,5540,16642,3,16,Negative,Not available,2,1,5,Yes,58907.0
+1325,54.0,Female,59845.0,13,7,Eclectic,Rural,5.0,10.0,1,Low,9916,8861,1822,10567,17,7,Negative,Not available,3,4,3,No,186741.0
+1326,27.0,Other,60312.0,3,4,Minimalist,Urban,1.0,5.0,2,Low,1375,5425,1131,42627,12,16,Negative,Available,5,1,3,Yes,146996.0
+1327,38.0,Other,15561.0,12,4,Minimalist,Urban,2.0,7.0,4,High,19070,1580,861,39536,4,9,Negative,Available,1,5,3,Yes,75178.0
+1328,54.0,Other,21901.0,3,2,Eclectic,Suburban,10.0,12.0,1,High,6012,9955,3840,18399,20,1,Negative,Not available,4,2,2,Yes,75732.0
+1329,28.0,Male,67875.0,10,5,Modern,Rural,3.0,3.0,1,Medium,17640,5364,4436,34103,16,3,Negative,Available,2,2,3,No,25152.0
+1330,42.0,Other,30917.0,17,8,Contemporary,Suburban,8.0,4.0,2,Medium,1050,4953,1779,46721,10,8,Positive,Scarce,5,2,1,Yes,13072.0
+1331,61.0,Male,67120.0,22,7,Modern,Urban,6.0,10.0,3,High,7590,2748,6977,16330,7,18,Negative,Not available,1,1,2,No,
+1332,,Female,6988.0,2,7,Minimalist,Suburban,10.0,4.0,4,Medium,8437,1825,4766,17464,10,18,Neutral,Not available,4,2,3,Yes,
+1333,25.0,Other,19256.0,17,6,Modern,Suburban,5.0,15.0,3,High,16162,4373,1505,3134,7,19,Negative,Not available,5,1,1,Yes,180759.0
+1334,39.0,Female,92728.0,16,3,Contemporary,Urban,1.0,10.0,3,Low,17978,2188,6960,30662,23,7,Neutral,Available,5,5,2,No,26942.0
+1335,33.0,Female,33230.0,2,5,Traditional,Urban,9.0,,2,Medium,14105,3485,956,1184,18,6,Neutral,Available,4,5,1,No,183489.0
+1336,39.0,Other,,22,1,Modern,Rural,3.0,15.0,2,Medium,5731,2576,4240,31387,9,11,Neutral,Available,4,4,5,No,97379.0
+1337,,Male,50833.0,20,7,Eclectic,Suburban,3.0,19.0,4,Medium,4873,1961,889,41824,22,5,Negative,Scarce,3,4,1,No,197331.0
+1338,28.0,Other,27625.0,6,9,Traditional,Urban,2.0,19.0,3,Low,12628,572,4626,8263,18,12,Negative,Available,5,3,2,No,10490.0
+1339,36.0,Female,37088.0,10,1,Eclectic,Urban,4.0,,1,Low,10264,6530,5204,14191,17,1,Neutral,Not available,4,5,3,No,
+1340,61.0,Female,84650.0,10,2,Eclectic,Suburban,2.0,12.0,3,Medium,6748,5111,1671,4514,11,19,Negative,Available,1,1,2,Yes,185272.0
+1341,61.0,Other,,8,3,Eclectic,Urban,9.0,16.0,2,High,2476,3296,4874,33734,1,11,Positive,Available,2,3,3,Yes,43684.0
+1342,30.0,Male,76291.0,1,3,Modern,Rural,10.0,1.0,1,Low,9032,8217,5628,7077,17,15,Positive,Available,3,5,3,Yes,23894.0
+1343,63.0,Male,70303.0,13,8,Minimalist,Rural,7.0,16.0,1,Medium,4020,5016,7118,36120,4,16,Positive,Available,4,1,4,Yes,166909.0
+1344,48.0,Female,81361.0,9,7,Traditional,Suburban,8.0,2.0,2,Medium,13684,2993,4051,49484,4,3,Positive,Not available,2,5,5,No,114830.0
+1345,35.0,Female,93229.0,22,6,Contemporary,Rural,,15.0,1,Low,11922,4731,6721,10500,14,11,Negative,Available,3,5,4,Yes,57812.0
+1346,37.0,Male,9117.0,10,4,Minimalist,Urban,6.0,7.0,3,High,16386,4076,6168,15992,9,11,Neutral,Not available,5,1,2,Yes,192204.0
+1347,58.0,Other,95265.0,15,9,Modern,Urban,10.0,1.0,2,Medium,9066,8600,4059,11133,13,10,Negative,Available,2,5,4,Yes,65161.0
+1348,49.0,Female,65710.0,5,1,Eclectic,Urban,6.0,5.0,4,High,13089,6228,2400,7405,16,2,Positive,Scarce,3,5,3,No,24104.0
+1349,31.0,Male,99426.0,22,2,Contemporary,Urban,1.0,10.0,2,High,14408,532,2184,31269,1,5,Negative,Scarce,4,5,2,No,
+1350,28.0,Female,99876.0,16,4,Traditional,Suburban,6.0,4.0,4,Low,9167,4873,5429,17874,3,8,Negative,Not available,4,4,4,Yes,151212.0
+1351,32.0,Other,72054.0,13,3,Minimalist,Rural,3.0,14.0,4,Medium,13816,4098,6158,32457,19,13,Positive,Not available,3,2,1,No,98272.0
+1352,44.0,Male,35949.0,22,1,Minimalist,Rural,3.0,,2,Medium,3233,2892,1047,18085,8,15,Neutral,Scarce,5,5,5,Yes,128518.0
+1353,53.0,Female,27547.0,20,5,Contemporary,Urban,3.0,1.0,2,High,9117,7205,763,36702,18,2,Negative,Scarce,3,1,1,No,13152.0
+1354,34.0,Other,86882.0,18,7,Modern,Suburban,10.0,16.0,4,Low,15550,7290,1053,15347,6,12,Negative,Available,1,5,2,Yes,53486.0
+1355,58.0,Female,73136.0,11,2,Traditional,Urban,10.0,9.0,4,Low,7359,3177,6236,14502,20,8,Positive,Scarce,3,4,4,No,107696.0
+1356,,Other,69619.0,9,5,Contemporary,Urban,8.0,,1,Low,15364,1901,882,47479,6,19,Neutral,Not available,3,4,3,Yes,
+1357,,Other,66842.0,16,6,Eclectic,Suburban,5.0,19.0,2,High,5197,1317,2505,14848,5,1,Positive,Not available,4,5,4,Yes,144738.0
+1358,30.0,Male,99803.0,2,7,Traditional,Suburban,4.0,15.0,2,High,11293,6703,4414,23421,12,8,Positive,Scarce,5,3,2,No,39726.0
+1359,29.0,Other,31990.0,2,1,Minimalist,Urban,9.0,14.0,1,Medium,10332,5062,4450,15426,9,10,Negative,Not available,3,2,2,No,109983.0
+1360,29.0,Female,21193.0,12,7,Contemporary,Rural,9.0,10.0,2,Low,1615,5223,4327,5695,9,13,Neutral,Available,2,1,2,No,184761.0
+1361,47.0,Other,,8,4,Minimalist,Urban,1.0,12.0,1,High,13844,2938,6146,49971,17,5,Positive,Available,4,1,2,No,182188.0
+1362,33.0,Other,,9,8,Minimalist,Rural,2.0,1.0,1,Low,13401,7328,5116,16860,19,9,Negative,Scarce,4,1,4,Yes,110652.0
+1363,59.0,Male,86730.0,12,4,Minimalist,Rural,8.0,17.0,2,High,18950,1710,7488,47865,17,10,Positive,Not available,3,1,1,Yes,76420.0
+1364,,Other,39510.0,9,6,Modern,Suburban,5.0,9.0,3,Medium,10168,7141,3653,48404,22,14,Negative,Scarce,2,4,3,Yes,82848.0
+1365,59.0,Other,6306.0,10,9,Minimalist,Suburban,7.0,19.0,4,Low,10508,1099,3108,26710,16,11,Neutral,Not available,3,2,3,Yes,128228.0
+1366,42.0,Female,8849.0,2,5,Eclectic,Urban,1.0,,2,High,16554,5980,5959,26411,12,14,Positive,Not available,2,5,5,Yes,139892.0
+1367,41.0,Male,17360.0,16,4,Eclectic,Rural,10.0,7.0,3,Low,3339,2346,7462,9843,3,3,Neutral,Not available,4,5,2,Yes,140394.0
+1368,,Male,99767.0,20,8,Traditional,Rural,5.0,9.0,1,High,17246,7092,7884,32152,14,16,Neutral,Available,2,3,2,Yes,43235.0
+1369,27.0,Male,50800.0,7,9,Minimalist,Urban,3.0,12.0,3,High,9109,8361,7251,16573,17,17,Negative,Not available,3,5,2,Yes,115629.0
+1370,56.0,Other,41963.0,2,4,Minimalist,Urban,10.0,7.0,2,High,11288,2387,7166,39334,22,5,Positive,Available,1,2,1,No,108806.0
+1371,59.0,Male,59330.0,1,3,Contemporary,Urban,2.0,14.0,2,Low,14317,1179,6728,31737,16,7,Positive,Not available,1,5,2,Yes,64961.0
+1372,62.0,Other,56707.0,19,8,Modern,Suburban,2.0,15.0,3,High,17762,3752,3903,39767,21,17,Negative,Scarce,2,4,5,No,55356.0
+1373,37.0,Other,23689.0,4,5,Traditional,Urban,9.0,15.0,2,Medium,4465,2335,5951,29256,12,11,Negative,Available,3,5,5,No,109753.0
+1374,49.0,Female,34084.0,22,2,Minimalist,Urban,4.0,6.0,4,Low,19655,2677,6954,37634,2,12,Neutral,Available,5,1,1,No,29923.0
+1375,33.0,Female,45387.0,2,9,Contemporary,Rural,4.0,14.0,3,Medium,18391,8642,4213,42705,8,2,Positive,Available,1,1,2,No,120891.0
+1376,28.0,Female,79816.0,14,3,Modern,Urban,7.0,2.0,1,Medium,7800,648,7465,3002,12,19,Positive,Scarce,4,1,4,Yes,93478.0
+1377,38.0,Female,7642.0,2,2,Traditional,Rural,10.0,8.0,3,Low,17493,1995,1719,17623,21,5,Negative,Available,3,1,4,No,38750.0
+1378,61.0,Female,47137.0,15,1,Traditional,Rural,10.0,13.0,3,High,3771,2244,2467,42815,16,11,Negative,Scarce,3,4,3,Yes,
+1379,58.0,Other,84832.0,12,8,Minimalist,Suburban,2.0,6.0,3,Medium,4883,2146,2444,49693,8,19,Negative,Not available,1,4,1,Yes,93448.0
+1380,35.0,Other,60561.0,5,3,Traditional,Urban,,5.0,3,Low,3600,3495,2467,23251,16,7,Positive,Not available,5,4,4,No,133042.0
+1381,27.0,Male,67260.0,20,7,Contemporary,Urban,3.0,5.0,1,High,6518,7143,1860,13707,10,6,Positive,Scarce,4,5,3,Yes,26983.0
+1382,52.0,Other,20438.0,7,1,Traditional,Rural,6.0,1.0,1,Low,18389,7878,1476,25117,20,11,Neutral,Available,5,1,5,Yes,
+1383,53.0,Other,53442.0,21,1,Eclectic,Suburban,3.0,9.0,1,Low,17689,9349,1568,23743,15,14,Negative,Available,4,3,3,No,
+1384,33.0,Female,7994.0,10,9,Contemporary,Suburban,5.0,6.0,3,Low,16923,4167,6191,11790,4,4,Neutral,Scarce,1,3,2,No,141977.0
+1385,27.0,Other,6813.0,14,8,Modern,Urban,,7.0,4,High,6701,9745,3887,49069,15,8,Positive,Not available,3,1,2,Yes,60483.0
+1386,49.0,Female,98027.0,14,3,Modern,Rural,3.0,,4,Medium,1958,1076,6836,33620,4,9,Neutral,Scarce,4,2,5,Yes,30028.0
+1387,58.0,Male,89381.0,5,6,Minimalist,Urban,8.0,5.0,1,Medium,8595,5279,1466,16596,11,2,Neutral,Available,3,5,1,Yes,188118.0
+1388,36.0,Male,60276.0,18,3,Minimalist,Urban,10.0,14.0,4,Low,4538,8687,3875,31339,6,11,Neutral,Available,2,3,2,Yes,
+1389,33.0,Other,46243.0,14,4,Eclectic,Urban,3.0,5.0,4,Low,19014,3472,3141,35121,4,7,Negative,Available,2,4,2,No,
+1390,39.0,Male,67912.0,2,1,Modern,Urban,6.0,8.0,4,High,10983,8256,2170,43995,9,4,Positive,Available,1,2,3,No,
+1391,64.0,Other,65272.0,12,5,Modern,Rural,7.0,7.0,4,Low,3603,4448,4229,49596,9,14,Negative,Not available,1,4,3,No,148133.0
+1392,49.0,Male,47051.0,22,1,Modern,Suburban,,,4,Low,14467,7044,2567,42446,3,1,Neutral,Not available,1,2,3,No,54253.0
+1393,29.0,Female,83854.0,6,1,Modern,Urban,2.0,13.0,2,Low,1205,2545,3186,46678,23,12,Negative,Not available,2,2,4,Yes,131934.0
+1394,35.0,Female,87736.0,4,7,Traditional,Urban,3.0,8.0,1,Medium,13442,2127,459,21698,5,19,Positive,Available,4,5,5,No,94354.0
+1395,58.0,Female,,13,6,Contemporary,Urban,,11.0,3,Low,6691,1988,7543,40632,15,5,Positive,Available,5,4,1,Yes,49667.0
+1396,48.0,Female,6920.0,4,2,Contemporary,Urban,,18.0,4,Medium,7141,9627,2958,15716,9,8,Neutral,Available,1,4,3,Yes,63796.0
+1397,39.0,Other,82219.0,22,2,Eclectic,Suburban,4.0,19.0,2,High,7728,4063,4063,31806,2,11,Neutral,Scarce,5,3,1,No,99898.0
+1398,62.0,Male,81872.0,14,7,Traditional,Suburban,,6.0,3,High,7030,2302,5034,18868,3,4,Negative,Available,5,1,3,Yes,117042.0
+1399,32.0,Other,86132.0,16,1,Modern,Suburban,2.0,2.0,2,Medium,17562,4091,1355,48918,21,15,Positive,Not available,2,1,2,Yes,69065.0
+1400,29.0,Female,,4,2,Modern,Suburban,3.0,13.0,4,Medium,14383,4020,7220,32130,12,12,Positive,Not available,4,3,1,Yes,
+1401,50.0,Other,17905.0,1,8,Minimalist,Urban,7.0,11.0,4,Medium,17496,6396,633,7125,16,10,Negative,Not available,2,2,4,No,35638.0
+1402,42.0,Male,29351.0,13,6,Minimalist,Rural,7.0,1.0,4,Medium,9948,8143,3896,42972,5,16,Positive,Scarce,1,3,3,Yes,87455.0
+1403,30.0,Other,35981.0,4,2,Eclectic,Suburban,10.0,2.0,4,Low,10088,7541,7907,36115,10,8,Neutral,Not available,2,3,5,Yes,159956.0
+1404,,Male,78903.0,20,7,Modern,Suburban,3.0,17.0,3,Medium,15214,3811,1191,48511,15,8,Neutral,Scarce,2,4,2,Yes,166769.0
+1405,37.0,Other,75821.0,18,4,Eclectic,Urban,,8.0,3,Medium,9977,2805,3287,37476,14,6,Negative,Scarce,2,3,3,Yes,88620.0
+1406,52.0,Male,87289.0,6,2,Traditional,Urban,3.0,2.0,2,Medium,2803,8375,6412,30046,14,3,Negative,Scarce,1,2,1,No,129343.0
+1407,29.0,Male,89021.0,3,6,Contemporary,Urban,5.0,6.0,1,Low,16389,2467,4747,23760,23,8,Negative,Available,1,1,3,No,12114.0
+1408,37.0,Female,83513.0,23,9,Modern,Urban,7.0,5.0,4,Low,19682,8509,1662,11114,13,10,Neutral,Available,2,5,2,Yes,35550.0
+1409,41.0,Male,24874.0,13,9,Traditional,Rural,4.0,16.0,2,Low,13270,5962,1225,1637,16,5,Negative,Not available,2,3,5,Yes,143541.0
+1410,,Female,55931.0,16,8,Modern,Rural,1.0,8.0,2,High,2542,7397,5819,39634,8,11,Positive,Not available,5,3,5,Yes,183843.0
+1411,56.0,Female,12674.0,5,3,Minimalist,Suburban,6.0,19.0,2,Low,8259,3958,2743,24177,8,4,Negative,Scarce,4,4,5,No,11492.0
+1412,53.0,Female,55516.0,4,3,Eclectic,Rural,2.0,16.0,4,Medium,13400,9085,7669,36776,17,17,Positive,Available,5,4,2,No,6971.0
+1413,27.0,Other,99574.0,21,2,Minimalist,Suburban,3.0,13.0,4,Low,13546,5278,2877,24600,17,3,Neutral,Not available,4,3,3,Yes,182422.0
+1414,64.0,Other,65686.0,8,5,Contemporary,Suburban,4.0,7.0,2,Low,3154,4230,4280,17251,3,18,Positive,Not available,4,3,2,Yes,145716.0
+1415,58.0,Other,99851.0,19,4,Minimalist,Rural,6.0,16.0,4,Medium,9766,4865,7560,27809,1,8,Positive,Available,2,2,2,No,69194.0
+1416,64.0,Other,74212.0,14,7,Modern,Suburban,6.0,16.0,2,Low,16749,8047,2705,24756,17,12,Positive,Scarce,5,1,3,Yes,106959.0
+1417,51.0,Male,7426.0,7,4,Minimalist,Urban,7.0,12.0,3,High,12230,527,1719,39368,16,16,Neutral,Not available,4,1,4,No,118646.0
+1418,37.0,Male,95009.0,14,9,Modern,Suburban,,14.0,4,Low,18765,3991,3175,12649,17,14,Positive,Not available,4,5,5,Yes,148606.0
+1419,57.0,Other,73498.0,6,2,Contemporary,Urban,7.0,18.0,3,High,6902,6923,359,12366,2,16,Positive,Available,1,1,1,Yes,148840.0
+1420,30.0,Male,34943.0,12,6,Minimalist,Rural,2.0,,1,High,2222,5801,2824,12880,14,4,Negative,Available,4,5,1,Yes,27625.0
+1421,48.0,Male,71395.0,16,7,Eclectic,Rural,1.0,16.0,4,High,2501,6660,4097,18783,7,1,Negative,Scarce,2,4,3,Yes,33660.0
+1422,43.0,Female,49816.0,17,4,Eclectic,Suburban,10.0,16.0,1,Medium,10050,1673,2959,23226,19,1,Negative,Scarce,3,5,1,No,25032.0
+1423,40.0,Female,9138.0,13,6,Eclectic,Urban,,13.0,2,Low,17208,838,4396,42209,1,15,Positive,Not available,1,5,4,No,173964.0
+1424,64.0,Female,96176.0,23,7,Minimalist,Suburban,1.0,9.0,4,High,4574,9760,1878,6320,17,3,Positive,Scarce,3,1,2,No,29357.0
+1425,52.0,Female,80945.0,14,4,Minimalist,Rural,2.0,9.0,4,High,4729,1341,4706,9727,10,14,Neutral,Not available,2,3,5,Yes,5497.0
+1426,57.0,Male,9017.0,7,8,Minimalist,Suburban,10.0,13.0,4,Low,12157,793,6611,12724,6,9,Positive,Not available,3,4,1,Yes,138206.0
+1427,37.0,Other,15451.0,14,9,Modern,Suburban,6.0,4.0,1,Medium,8476,7058,6635,40211,7,19,Positive,Available,4,2,1,No,154905.0
+1428,49.0,Male,67956.0,15,1,Contemporary,Urban,1.0,9.0,1,Medium,18945,2147,7501,20933,6,8,Neutral,Not available,3,5,3,No,168738.0
+1429,60.0,Male,98863.0,12,7,Eclectic,Rural,10.0,15.0,2,High,15962,5398,3405,14394,5,2,Positive,Available,5,5,3,Yes,192672.0
+1430,51.0,Male,15278.0,17,9,Modern,Suburban,3.0,,3,Medium,3522,5026,7884,40720,2,4,Neutral,Not available,2,5,2,No,74828.0
+1431,62.0,Female,95480.0,9,5,Eclectic,Urban,7.0,19.0,3,Low,3391,6114,1007,42417,18,1,Neutral,Not available,5,3,5,Yes,97923.0
+1432,31.0,Female,48764.0,22,2,Modern,Suburban,8.0,12.0,1,Medium,19567,4301,5577,20122,17,11,Negative,Not available,3,2,1,No,102362.0
+1433,29.0,Female,,15,6,Minimalist,Urban,4.0,6.0,4,Low,13074,8780,2080,37137,23,5,Positive,Scarce,5,1,2,Yes,136098.0
+1434,55.0,Other,67943.0,12,7,Eclectic,Urban,3.0,3.0,3,High,12796,7876,5919,32437,7,2,Negative,Scarce,1,4,5,Yes,17108.0
+1435,47.0,Male,59318.0,2,2,Minimalist,Suburban,1.0,16.0,3,Low,3078,1399,2713,21519,21,13,Positive,Available,3,3,2,No,129597.0
+1436,34.0,Other,65128.0,5,2,Eclectic,Rural,,17.0,1,High,13269,3977,5759,8983,19,17,Negative,Not available,5,2,1,No,
+1437,,Female,93056.0,13,1,Traditional,Rural,,16.0,2,Low,15362,2244,5253,45656,7,17,Neutral,Available,4,4,3,Yes,
+1438,54.0,Other,26869.0,20,4,Modern,Urban,6.0,6.0,1,Low,18504,6596,3706,6635,23,18,Neutral,Available,3,1,3,Yes,138325.0
+1439,63.0,Male,10039.0,23,7,Traditional,Rural,6.0,8.0,1,Medium,13960,2753,6770,37837,7,9,Neutral,Not available,1,4,3,No,
+1440,55.0,Male,26281.0,8,9,Modern,Urban,9.0,19.0,4,Low,11715,2133,2461,40019,16,6,Neutral,Scarce,4,5,4,Yes,188879.0
+1441,42.0,Female,15442.0,14,3,Contemporary,Rural,1.0,2.0,1,High,4370,7501,7240,45347,12,3,Positive,Scarce,3,5,2,No,
+1442,60.0,Female,78788.0,15,7,Eclectic,Suburban,,14.0,4,Low,2908,7520,5314,20622,15,8,Positive,Available,4,3,1,Yes,180330.0
+1443,26.0,Other,32586.0,11,7,Contemporary,Rural,5.0,12.0,2,High,5307,9553,7885,39505,15,3,Negative,Scarce,3,4,2,No,182219.0
+1444,38.0,Female,58053.0,1,7,Contemporary,Urban,6.0,17.0,4,High,12297,8649,3839,10439,11,1,Positive,Not available,3,5,3,Yes,50417.0
+1445,,Female,55489.0,21,2,Modern,Urban,8.0,15.0,2,Low,17881,5201,7610,28909,2,13,Positive,Not available,2,3,2,Yes,112779.0
+1446,53.0,Male,88104.0,3,6,Traditional,Rural,5.0,18.0,2,Medium,4587,7235,908,36341,3,5,Negative,Scarce,5,3,5,Yes,137158.0
+1447,36.0,Female,91346.0,17,2,Minimalist,Suburban,2.0,16.0,2,Low,13385,1513,608,33893,19,16,Neutral,Scarce,3,3,2,Yes,160478.0
+1448,,Female,72087.0,19,6,Modern,Urban,2.0,13.0,1,Low,3413,3799,6844,43189,20,16,Negative,Available,1,1,4,Yes,105319.0
+1449,26.0,Male,17625.0,14,3,Minimalist,Urban,10.0,17.0,4,Medium,11952,2006,5739,12403,15,12,Negative,Scarce,5,5,4,Yes,
+1450,56.0,Male,39397.0,22,2,Contemporary,Urban,5.0,8.0,3,High,4457,5303,4607,35074,16,13,Neutral,Available,2,5,3,Yes,80443.0
